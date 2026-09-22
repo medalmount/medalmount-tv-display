@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>Medal Mounting – Samsung Portrait Signage</title>
+<style>
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}
+iframe{display:block;border:0;width:100%;height:100%;margin:0;padding:0;background:#071526}
+</style>
+</head>
+<body>
+<iframe id="display" src="index.html?v=20260922-samsung" title="Medal Mounting Shop Display"></iframe>
+<script>
+(function(){
+ var outer=document.getElementById('display');
+
+ function fixSamsungPortrait(){
+  try{
+   var outerDoc=outer.contentDocument||outer.contentWindow.document;
+   var inner=outerDoc.getElementById('display');
+   if(!inner)return false;
+   var coreDoc=inner.contentDocument||inner.contentWindow.document;
+   if(!coreDoc||!coreDoc.head)return false;
+
+   if(!coreDoc.getElementById('samsung-portrait-override')){
+    var style=coreDoc.createElement('style');
+    style.id='samsung-portrait-override';
+    style.textContent=
+      'html,body{margin:0!important;padding:0!important;width:100%!important;height:100%!important;overflow:hidden!important;background:#071526!important}'+
+      '#tv-rotator{position:fixed!important;left:0!important;top:0!important;width:100vw!important;height:100vh!important;transform:none!important;transform-origin:initial!important;overflow:hidden!important;background:#071526!important}'+
+      '#tv-rotator #screen,#screen{box-sizing:border-box!important;width:100vw!important;height:100vh!important;max-width:none!important;max-height:none!important;aspect-ratio:auto!important;margin:0!important}';
+    coreDoc.head.appendChild(style);
+   }
+   return true;
+  }catch(e){return false;}
+ }
+
+ outer.addEventListener('load',function(){
+  var tries=0;
+  var timer=setInterval(function(){
+   tries++;
+   if(fixSamsungPortrait()||tries>40)clearInterval(timer);
+  },500);
+ });
+
+ setInterval(fixSamsungPortrait,5000);
+ setTimeout(function(){location.reload();},6*60*60*1000);
+})();
+</script>
+</body>
+</html>
