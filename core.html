@@ -23,7 +23,7 @@
 .footer{display:grid;grid-template-columns:1.25fr 1fr;gap:1.5vh}
 .hours h2{font-size:2.2vh;margin:.4vh 0 1vh}.hours .row{display:flex;justify-content:space-between;font-size:1.7vh;line-height:1.5}.contact{display:flex;flex-direction:column;justify-content:center;text-align:center;background:var(--panel2)}
 .contact .web{font-size:2.25vh;font-weight:700;color:var(--accent)}.contact .phone{font-size:1.9vh;margin-top:.7vh}.contact small{font-size:1.25vh;color:var(--muted);margin-top:.8vh}
-@media (orientation:landscape){#screen{width:100%;height:100%;aspect-ratio:auto;margin:0}}
+#tv-rotator #screen{width:100%!important;height:100%!important;max-width:none!important;max-height:none!important;aspect-ratio:auto!important;margin:0!important}
 
     /* ===== STANDALONE LG PORTRAIT-TV MODE =====
        LG webOS keeps a landscape browser viewport even when the panel is physically rotated.
@@ -114,11 +114,9 @@
 const CONFIG = {
   timeZone: "Australia/Sydney",
   imageSeconds: 12,
-  // Replace these with direct HTTPS image URLs from your website/media library.
   images: [
-    {url:"PASTE_IMAGE_URL_1_HERE", caption:"Professional medal mounting"},
-    {url:"PASTE_IMAGE_URL_2_HERE", caption:"Retirement & honour boards"},
-    {url:"PASTE_IMAGE_URL_3_HERE", caption:"Military, police & first responder displays"}
+    {url:"images/shop-01.jpg", caption:"Custom service presentation framing"},
+    {url:"images/shop-03.jpg", caption:"Police service commemorative presentation"}
   ]
 };
 
