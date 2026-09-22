@@ -5,9 +5,40 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
 <title>Medal Mounting – Portrait TV</title>
 <style>
+:root{
+  /* Safe area for the LG webOS browser when the TV is physically portrait. */
+  --safe-left:64px;
+  --safe-right:14px;
+  --safe-top:12px;
+  --safe-bottom:16px;
+}
 html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}
-#portrait-stage{position:fixed;left:0;top:0;width:100vh;height:100vw;transform-origin:top left;transform:translateX(100vw) rotate(90deg);overflow:hidden;background:#071526}
-#display{display:block;border:0;width:100%;height:100%;margin:0;padding:0;background:#071526}
+
+/*
+  The LG browser still renders in landscape coordinates even though the panel
+  is physically portrait.  Swap the dimensions, rotate once, then keep the
+  finished display clear of the browser's left-side toolbar.
+*/
+#portrait-stage{
+  position:fixed;
+  left:0;
+  top:0;
+  width:calc(100vh - var(--safe-top) - var(--safe-bottom));
+  height:calc(100vw - var(--safe-left) - var(--safe-right));
+  transform-origin:top left;
+  transform:translate(calc(100vw - var(--safe-right)),var(--safe-top)) rotate(90deg);
+  overflow:hidden;
+  background:#071526;
+}
+#display{
+  display:block;
+  border:0;
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  background:#071526;
+}
 </style>
 </head>
 <body>
@@ -22,7 +53,7 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}
       style.textContent=`
         html,body{margin:0!important;padding:0!important;width:100%!important;height:100%!important;overflow:hidden!important;background:#071526!important}
         #tv-rotator{position:fixed!important;inset:0!important;width:100vw!important;height:100vh!important;transform:none!important;transform-origin:initial!important;overflow:hidden!important;background:#071526!important}
-        #screen{width:100vw!important;height:100vh!important;max-width:none!important;max-height:none!important;aspect-ratio:auto!important;margin:0!important}
+        #screen{box-sizing:border-box!important;width:100vw!important;height:100vh!important;max-width:none!important;max-height:none!important;aspect-ratio:auto!important;margin:0!important;padding:8px 10px 10px 10px!important}
         @media (orientation:landscape){#screen{width:100vw!important;height:100vh!important}}
       `;
       doc.head.appendChild(style);
