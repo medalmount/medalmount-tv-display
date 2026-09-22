@@ -12,6 +12,38 @@
 <script>
 (function(){
  var frame=document.getElementById('display');
+
+ // LG signage anti-idle: request the browser Screen Wake Lock where webOS supports it.
+ // Re-request it whenever the page becomes visible again.
+ var wakeLock=null;
+ function requestDisplayWakeLock(){
+  try{
+   if('wakeLock' in navigator){
+    navigator.wakeLock.request('screen').then(function(lock){
+     wakeLock=lock;
+     lock.addEventListener('release',function(){wakeLock=null;});
+    }).catch(function(){});
+   }
+  }catch(e){}
+ }
+ requestDisplayWakeLock();
+ document.addEventListener('visibilitychange',function(){
+  if(document.visibilityState==='visible'&&!wakeLock){requestDisplayWakeLock();}
+ });
+
+ // Keep the page actively rendering without changing anything visible.
+ // This is deliberately LG-only; samsung.html is not touched.
+ var keepAlive=document.createElement('div');
+ keepAlive.setAttribute('aria-hidden','true');
+ keepAlive.style.cssText='position:fixed;left:-10px;top:-10px;width:1px;height:1px;opacity:0;pointer-events:none';
+ document.body.appendChild(keepAlive);
+ var keepAliveTick=0;
+ setInterval(function(){
+  keepAliveTick=(keepAliveTick+1)%2;
+  keepAlive.style.transform='translateX('+keepAliveTick+'px)';
+  document.title=keepAliveTick?'Medal Mounting Shop Display':'Medal Mounting Shop Display ';
+  if(!wakeLock){requestDisplayWakeLock();}
+ },30000);
  frame.addEventListener('load',function(){
   try{
    var doc=frame.contentDocument||frame.contentWindow.document;
