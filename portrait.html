@@ -6,19 +6,13 @@
 <title>Medal Mounting – Portrait TV</title>
 <style>
 :root{
-  /* Safe area for the LG webOS browser when the TV is physically portrait. */
-  --safe-left:64px;
-  --safe-right:14px;
-  --safe-top:12px;
-  --safe-bottom:16px;
+  /* Small permanent bezel-safe margin. LG browser controls auto-hide. */
+  --safe-left:18px;
+  --safe-right:12px;
+  --safe-top:10px;
+  --safe-bottom:12px;
 }
 html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}
-
-/*
-  The LG browser still renders in landscape coordinates even though the panel
-  is physically portrait.  Swap the dimensions, rotate once, then keep the
-  finished display clear of the browser's left-side toolbar.
-*/
 #portrait-stage{
   position:fixed;
   left:0;
