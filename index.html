@@ -8,7 +8,7 @@
 <style>html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}iframe{display:block;border:0;width:100%;height:100%;margin:0;padding:0;background:#071526}</style>
 </head>
 <body>
-<iframe id="display" src="core.html?v=20260922-readable3" title="Medal Mounting Shop Display"></iframe>
+<iframe id="display" src="core.html?v=20260922-history1" title="Medal Mounting Shop Display"></iframe>
 <script>
 (function(){
  var frame=document.getElementById('display');
@@ -16,7 +16,6 @@
   try{
    var doc=frame.contentDocument||frame.contentWindow.document;
 
-   /* Keep every shop photograph sharp and undistorted, while improving distance readability. */
    var style=doc.createElement('style');
    style.textContent='\
      .hero img{object-fit:contain!important;background:#0b1520!important}\
@@ -34,7 +33,6 @@
      .weather-error{font-size:1.55vh!important;color:#d2dce5;line-height:1.35}\
      .hours h2{font-size:4.5vh!important;line-height:1!important;margin:.25vh 0 .65vh!important}\
      .hours .row{font-size:2.8vh!important;line-height:1.22!important}\
-     .hours .row + div{}\
      .hours > div:last-child{font-size:1.55vh!important;line-height:1.2!important;margin-top:.45vh!important}\
      .contact .web{font-size:2.8vh!important}\
      .contact .phone{font-size:2.8vh!important;margin-top:.6vh!important}\
@@ -44,14 +42,12 @@
 
    var script=doc.createElement('script');
    script.textContent=`
-     /* High-resolution shop photo rotation. */
      CONFIG.images = [
        {url:'images/shop-01.jpg?v=20260922-hd1', caption:'Custom service presentation framing'},
        {url:'images/shop-03.jpg?v=20260922-hd1', caption:'Police service commemorative presentation'}
      ];
      imgIndex=0; showImage();
 
-     /* Customer-facing message on dates without an APPROVED history entry. */
      function shopSydneyMonthDay(){
        try{
          var parts=new Intl.DateTimeFormat('en-AU',{timeZone:'Australia/Sydney',month:'2-digit',day:'2-digit'}).formatToParts(new Date());
@@ -66,22 +62,47 @@
          return String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
        }
      }
-     function applyHistoryFallback(){
-       var key=shopSydneyMonthDay();
-       var found=false;
-       for(var i=0;i<HISTORY.length;i++){
-         if(HISTORY[i].date===key){found=true;break;}
-       }
-       if(!found){
-         document.getElementById('historyTitle').textContent='Remembering those who served';
-         document.getElementById('historyText').textContent='Remembering those who have served Australia — past and present.';
-         document.getElementById('medalConnection').textContent='Military • Police • First Responders • Families';
-       }
-     }
-     applyHistoryFallback();
-     setInterval(applyHistoryFallback,60*60*1000);
 
-     /* Live Canberra weather. Open-Meteo requires no API key. */
+     function showHistoryFallback(){
+       document.getElementById('historyTitle').textContent='Remembering those who served';
+       document.getElementById('historyText').textContent='Remembering those who have served Australia — past and present.';
+       document.getElementById('medalConnection').textContent='Military • Police • First Responders • Families';
+     }
+
+     /* Live link to the APPROVED master-history feed stored in this GitHub repository.
+        Each line is: [MM-DD, title, display text, medal connection]. */
+     function loadApprovedHistory(){
+       fetch('history-approved.jsonl?v='+Date.now(),{cache:'no-store'})
+         .then(function(r){if(!r.ok) throw new Error('History feed unavailable');return r.text();})
+         .then(function(raw){
+           var lines=raw.split(/\\r?\\n/).filter(function(x){return x.trim().length;});
+           var rows=[];
+           for(var i=0;i<lines.length;i++){
+             try{rows.push(JSON.parse(lines[i]));}catch(e){}
+           }
+           var key=shopSydneyMonthDay();
+           var entry=null;
+           for(var j=0;j<rows.length;j++){
+             if(rows[j][0]===key){entry=rows[j];break;}
+           }
+           if(!entry){showHistoryFallback();return;}
+           document.getElementById('historyTitle').textContent=entry[1];
+           document.getElementById('historyText').textContent=entry[2];
+           document.getElementById('medalConnection').textContent=entry[3] ? 'Medal connection: '+entry[3] : '';
+         })
+         .catch(function(){
+           var key=shopSydneyMonthDay(), found=null;
+           for(var i=0;i<HISTORY.length;i++){if(HISTORY[i].date===key){found=HISTORY[i];break;}}
+           if(found){
+             document.getElementById('historyTitle').textContent=found.title;
+             document.getElementById('historyText').textContent=found.text;
+             document.getElementById('medalConnection').textContent=found.medalConnection ? 'Medal connection: '+found.medalConnection : '';
+           } else showHistoryFallback();
+         });
+     }
+     loadApprovedHistory();
+     setInterval(loadApprovedHistory,60*1000);
+
      function weatherDescription(code){
        if(code===0) return 'Clear';
        if(code===1) return 'Mainly clear';
