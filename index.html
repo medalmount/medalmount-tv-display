@@ -8,26 +8,116 @@
 <style>html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}iframe{display:block;border:0;width:100%;height:100%;margin:0;padding:0;background:#071526}</style>
 </head>
 <body>
-<iframe id="display" src="core.html?v=20260922-hd1" title="Medal Mounting Shop Display"></iframe>
+<iframe id="display" src="core.html?v=20260922-weather1" title="Medal Mounting Shop Display"></iframe>
 <script>
 (function(){
- const frame=document.getElementById('display');
+ var frame=document.getElementById('display');
  frame.addEventListener('load',function(){
   try{
-   const doc=frame.contentDocument||frame.contentWindow.document;
-   const style=doc.createElement('style');
-   style.textContent='.hero img{object-fit:contain!important;background:#0b1520!important}';
+   var doc=frame.contentDocument||frame.contentWindow.document;
+
+   /* Keep every shop photograph sharp and undistorted. */
+   var style=doc.createElement('style');
+   style.textContent='\
+     .hero img{object-fit:contain!important;background:#0b1520!important}\
+     .weather{justify-content:center!important}\
+     .weather .placeholder{font-size:1.55vh!important;line-height:1.3!important;color:#e8eef4!important}\
+     .weather-now{font-size:4.0vh;font-weight:700;line-height:1;margin:.8vh 0 .45vh}\
+     .weather-condition{font-size:1.65vh;font-weight:700;margin-bottom:.65vh}\
+     .weather-range{font-size:1.45vh;color:#d9e3ec;margin:.25vh 0}\
+     .weather-detail{font-size:1.25vh;color:#b9c6d2;margin-top:.5vh}\
+     .weather-error{font-size:1.35vh;color:#b9c6d2;line-height:1.35}\
+   ';
    doc.head.appendChild(style);
-   const script=doc.createElement('script');
+
+   var script=doc.createElement('script');
    script.textContent=`
+     /* High-resolution shop photo rotation. */
      CONFIG.images = [
        {url:'images/shop-01.jpg?v=20260922-hd1', caption:'Custom service presentation framing'},
        {url:'images/shop-03.jpg?v=20260922-hd1', caption:'Police service commemorative presentation'}
      ];
      imgIndex=0; showImage();
+
+     /* Customer-facing message on dates without an APPROVED history entry. */
+     function shopSydneyMonthDay(){
+       try{
+         var parts=new Intl.DateTimeFormat('en-AU',{timeZone:'Australia/Sydney',month:'2-digit',day:'2-digit'}).formatToParts(new Date());
+         var mm='',dd='';
+         for(var i=0;i<parts.length;i++){
+           if(parts[i].type==='month') mm=parts[i].value;
+           if(parts[i].type==='day') dd=parts[i].value;
+         }
+         return mm+'-'+dd;
+       }catch(e){
+         var d=new Date();
+         return String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+       }
+     }
+     function applyHistoryFallback(){
+       var key=shopSydneyMonthDay();
+       var found=false;
+       for(var i=0;i<HISTORY.length;i++){
+         if(HISTORY[i].date===key){found=true;break;}
+       }
+       if(!found){
+         document.getElementById('historyTitle').textContent='Remembering those who served';
+         document.getElementById('historyText').textContent='Remembering those who have served Australia — past and present.';
+         document.getElementById('medalConnection').textContent='Military • Police • First Responders • Families';
+       }
+     }
+     applyHistoryFallback();
+     setInterval(applyHistoryFallback,60*60*1000);
+
+     /* Live Canberra weather. Open-Meteo requires no API key. */
+     function weatherDescription(code){
+       if(code===0) return 'Clear';
+       if(code===1) return 'Mainly clear';
+       if(code===2) return 'Partly cloudy';
+       if(code===3) return 'Overcast';
+       if(code===45||code===48) return 'Fog';
+       if(code===51||code===53||code===55) return 'Drizzle';
+       if(code===56||code===57) return 'Freezing drizzle';
+       if(code===61||code===63||code===65) return 'Rain';
+       if(code===66||code===67) return 'Freezing rain';
+       if(code===71||code===73||code===75||code===77) return 'Snow';
+       if(code===80||code===81||code===82) return 'Rain showers';
+       if(code===85||code===86) return 'Snow showers';
+       if(code===95||code===96||code===99) return 'Thunderstorm';
+       return 'Current conditions';
+     }
+     function renderWeather(data){
+       var box=document.getElementById('weatherPlaceholder');
+       var current=data.current || data.current_weather || {};
+       var daily=data.daily || {};
+       var temp=(current.temperature_2m!=null?current.temperature_2m:current.temperature);
+       var code=(current.weather_code!=null?current.weather_code:current.weathercode);
+       var wind=(current.wind_speed_10m!=null?current.wind_speed_10m:current.windspeed);
+       var hi=(daily.temperature_2m_max&&daily.temperature_2m_max.length?daily.temperature_2m_max[0]:null);
+       var lo=(daily.temperature_2m_min&&daily.temperature_2m_min.length?daily.temperature_2m_min[0]:null);
+       var rain=(daily.precipitation_probability_max&&daily.precipitation_probability_max.length?daily.precipitation_probability_max[0]:null);
+       if(temp==null) throw new Error('No current temperature returned');
+       var html='<div class="weather-now">'+Math.round(temp)+'°C</div>';
+       html+='<div class="weather-condition">'+weatherDescription(Number(code))+'</div>';
+       if(hi!=null&&lo!=null) html+='<div class="weather-range">Today '+Math.round(lo)+'° – '+Math.round(hi)+'°</div>';
+       if(rain!=null) html+='<div class="weather-detail">Chance of rain '+Math.round(rain)+'%</div>';
+       if(wind!=null) html+='<div class="weather-detail">Wind '+Math.round(wind)+' km/h</div>';
+       box.innerHTML=html;
+     }
+     function loadCanberraWeather(){
+       var box=document.getElementById('weatherPlaceholder');
+       box.innerHTML='<div class="weather-error">Updating Canberra weather…</div>';
+       var url='https://api.open-meteo.com/v1/forecast?latitude=-35.2809&longitude=149.1300&current=temperature_2m,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Australia%2FSydney&forecast_days=1';
+       fetch(url,{cache:'no-store'})
+         .then(function(r){if(!r.ok) throw new Error('Weather service unavailable');return r.json();})
+         .then(renderWeather)
+         .catch(function(){box.innerHTML='<div class="weather-error">Canberra weather temporarily unavailable</div>';});
+     }
+     loadCanberraWeather();
+     setInterval(loadCanberraWeather,15*60*1000);
    `;
    doc.body.appendChild(script);
-  }catch(e){console.log('Shop photo loader:',e);}
+  }catch(e){console.log('Shop display loader:',e);}
  });
  setTimeout(function(){location.reload();},6*60*60*1000);
 })();
