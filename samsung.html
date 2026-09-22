@@ -1,51 +1,171 @@
 <!doctype html>
-<html lang="en-AU">
+<html>
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
-<title>Medal Mounting – Samsung Portrait Signage</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Medal Mounting Shop Display</title>
 <style>
-html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}
-iframe{display:block;border:0;width:100%;height:100%;margin:0;padding:0;background:#071526}
+html,body{margin:0;padding:0;width:100%;height:100%;overflow:hidden;background:#071526;color:#f7f9fb;font-family:Arial,Helvetica,sans-serif}
+*{box-sizing:border-box}
+#screen{position:relative;width:100%;height:100%;background:#071526}
+#header{position:absolute;left:2.2%;top:1.8%;width:95.6%;height:8.7%;border-bottom:3px solid #d5aa45}
+#brand{position:absolute;left:0;top:0;font-size:4.0vh;font-weight:bold;letter-spacing:.04em}
+#tag{position:absolute;left:0;top:5.0vh;font-size:1.55vh;color:#b9c6d2}
+#clock{position:absolute;right:0;top:0;text-align:right}
+#time{font-size:3.4vh;font-weight:bold}
+#date{font-size:1.45vh;color:#b9c6d2;margin-top:.3vh}
+#hero{position:absolute;left:2.2%;top:12%;width:95.6%;height:42.5%;border:1px solid #28455f;border-radius:12px;overflow:hidden;background:#0b1520;text-align:center}
+#heroImage{width:100%;height:100%;object-fit:contain}
+.card{background:#10253b;border:1px solid #28455f;border-radius:12px;overflow:hidden;padding:1.5vh}
+.kicker{font-size:1.55vh;color:#d5aa45;font-weight:bold;letter-spacing:.08em;text-transform:uppercase}
+#history{position:absolute;left:2.2%;top:56%;width:58.8%;height:25.5%}
+#historyTitle{font-size:2.65vh;line-height:1.08;margin:.7vh 0}
+#historyText{font-size:1.7vh;line-height:1.3;margin:.7vh 0;color:#e8eef4}
+#medal{font-size:1.4vh;line-height:1.25;color:#b9c6d2;margin-top:.8vh}
+#weather{position:absolute;left:62.5%;top:56%;width:35.3%;height:25.5%;text-align:center;padding-top:4.3vh}
+#weather h2{font-size:2.4vh;margin:.5vh 0}
+#wtemp{font-size:4.2vh;font-weight:bold;line-height:1.05;margin:.7vh 0}
+#wcond{font-size:1.8vh;font-weight:bold}
+#wdetail{font-size:1.45vh;line-height:1.45;color:#d9e3ec;margin-top:.5vh}
+#hours{position:absolute;left:2.2%;top:83%;width:55%;height:15%;padding:1.1vh 1.5vh}
+#hoursTitle{font-size:3.5vh;font-weight:bold;line-height:1;margin:.2vh 0 .7vh}
+.row{font-size:2.05vh;line-height:1.25;position:relative}
+.row b{position:absolute;right:0}
+#appt{font-size:1.2vh;color:#b9c6d2;margin-top:.35vh}
+#contact{position:absolute;left:58.7%;top:83%;width:39.1%;height:15%;background:#152e48;text-align:center;padding-top:3.8vh}
+#web{font-size:2.35vh;font-weight:bold;color:#d5aa45}
+#phone{font-size:2.25vh;margin-top:.45vh}
+#small{font-size:1.15vh;color:#b9c6d2;margin-top:.5vh}
 </style>
 </head>
 <body>
-<iframe id="display" src="index.html?v=20260922-samsung" title="Medal Mounting Shop Display"></iframe>
+<div id="screen">
+ <div id="header">
+  <div id="brand">MEDAL MOUNTING</div>
+  <div id="tag">Military &bull; Police &bull; First Responders &bull; Families</div>
+  <div id="clock"><div id="time">--:--</div><div id="date">Loading...</div></div>
+ </div>
+ <div id="hero"><img id="heroImage" src="images/shop-01.jpg" alt=""></div>
+ <div id="history" class="card">
+  <div class="kicker">This Day in Australian Service History</div>
+  <div id="historyTitle">Remembering those who served</div>
+  <div id="historyText">Remembering Australians who have served in defence, police and emergency services.</div>
+  <div id="medal">Military &bull; Police &bull; First Responders &bull; Families</div>
+ </div>
+ <div id="weather" class="card">
+  <div class="kicker">Local Weather</div><h2>CANBERRA</h2>
+  <div id="wtemp">--&deg;C</div><div id="wcond">Updating...</div><div id="wdetail"></div>
+ </div>
+ <div id="hours" class="card">
+  <div class="kicker">Hours of Operation</div><div id="hoursTitle">SHOP HOURS</div>
+  <div class="row"><span>Monday</span><b>1500-1900</b></div>
+  <div class="row"><span>Thursday</span><b>1500-1900</b></div>
+  <div class="row"><span>Saturday</span><b>1100-1500</b></div>
+  <div id="appt">Outside hours by appointment</div>
+ </div>
+ <div id="contact" class="card">
+  <div id="web">medalmount.com.au</div><div id="phone">02 6179 7545</div>
+  <div id="small">Appointments available via the website</div>
+ </div>
+</div>
 <script>
 (function(){
- var outer=document.getElementById('display');
+ var images=[
+  'images/shop-01.jpg','images/shop-03.jpg','images/IMG_1602.jpeg','images/IMG_1631.jpeg',
+  'images/IMG_1694.JPEG','images/IMG_2182.JPEG','images/IMG_2256.JPEG','images/IMG_3052.JPEG',
+  'images/IMG_3245.JPEG','images/IMG_3308.JPEG','images/IMG_3904.JPEG','images/IMG_3918.JPEG','images/IMG_4926.JPEG'
+ ];
+ var imageIndex=0;
 
- function fixSamsungPortrait(){
-  try{
-   var outerDoc=outer.contentDocument||outer.contentWindow.document;
-   var inner=outerDoc.getElementById('display');
-   if(!inner)return false;
-   var coreDoc=inner.contentDocument||inner.contentWindow.document;
-   if(!coreDoc||!coreDoc.head)return false;
-
-   if(!coreDoc.getElementById('samsung-portrait-override')){
-    var style=coreDoc.createElement('style');
-    style.id='samsung-portrait-override';
-    style.textContent=
-      'html,body{margin:0!important;padding:0!important;width:100%!important;height:100%!important;overflow:hidden!important;background:#071526!important}'+
-      '#tv-rotator{position:fixed!important;left:0!important;top:0!important;width:100vw!important;height:100vh!important;transform:none!important;transform-origin:initial!important;overflow:hidden!important;background:#071526!important}'+
-      '#tv-rotator #screen,#screen{box-sizing:border-box!important;width:100vw!important;height:100vh!important;max-width:none!important;max-height:none!important;aspect-ratio:auto!important;margin:0!important}';
-    coreDoc.head.appendChild(style);
-   }
-   return true;
-  }catch(e){return false;}
+ function showImage(){
+  if(!images.length)return;
+  document.getElementById('heroImage').src=images[imageIndex];
+  imageIndex=(imageIndex+1)%images.length;
  }
+ setInterval(showImage,12000);
 
- outer.addEventListener('load',function(){
-  var tries=0;
-  var timer=setInterval(function(){
-   tries++;
-   if(fixSamsungPortrait()||tries>40)clearInterval(timer);
-  },500);
- });
+ function loadImageList(){
+  try{
+   var x=new XMLHttpRequest();
+   x.open('GET','https://api.github.com/repos/medalmount/medalmount-tv-display/contents/images?ref=main&t='+(new Date().getTime()),true);
+   x.onreadystatechange=function(){
+    if(x.readyState===4 && x.status>=200 && x.status<300){
+     try{
+      var files=JSON.parse(x.responseText),a=[],i,f,n;
+      for(i=0;i<files.length;i++){
+       f=files[i];n=(f.name||'').toLowerCase();
+       if(f.type==='file' && f.size>=200000 && (n.indexOf('.jpg')===n.length-4 || n.indexOf('.jpeg')===n.length-5 || n.indexOf('.png')===n.length-4 || n.indexOf('.webp')===n.length-5)){
+        a.push(f.download_url);
+       }
+      }
+      if(a.length){images=a;imageIndex=0;showImage();}
+     }catch(e){}
+    }
+   };
+   x.send();
+  }catch(e){}
+ }
+ loadImageList();
+ setInterval(loadImageList,900000);
 
- setInterval(fixSamsungPortrait,5000);
- setTimeout(function(){location.reload();},6*60*60*1000);
+ function pad(n){return n<10?'0'+n:''+n;}
+ function updateClock(){
+  var d=new Date(),days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  var months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  document.getElementById('time').innerHTML=pad(d.getHours())+':'+pad(d.getMinutes());
+  document.getElementById('date').innerHTML=days[d.getDay()]+' '+d.getDate()+' '+months[d.getMonth()]+' '+d.getFullYear();
+ }
+ updateClock();setInterval(updateClock,30000);
+
+ function loadHistory(){
+  try{
+   var x=new XMLHttpRequest();
+   x.open('GET','history.json?t='+(new Date().getTime()),true);
+   x.onreadystatechange=function(){
+    if(x.readyState===4 && x.status>=200 && x.status<300){
+     try{
+      var rows=JSON.parse(x.responseText),d=new Date(),key=pad(d.getMonth()+1)+'-'+pad(d.getDate()),e=null,i;
+      for(i=0;i<rows.length;i++){if(rows[i].date===key){e=rows[i];break;}}
+      if(e){
+       document.getElementById('historyTitle').innerHTML=e.title||'Australian Service History';
+       document.getElementById('historyText').innerHTML=e.text||'';
+       document.getElementById('medal').innerHTML=e.medalConnection?'Medal connection: '+e.medalConnection:'';
+      }
+     }catch(err){}
+    }
+   };
+   x.send();
+  }catch(e){}
+ }
+ loadHistory();setInterval(loadHistory,3600000);
+
+ function condition(c){
+  if(c===0)return'Clear';if(c===1)return'Mainly clear';if(c===2)return'Partly cloudy';if(c===3)return'Overcast';
+  if(c===45||c===48)return'Fog';if(c>=51&&c<=57)return'Drizzle';if(c>=61&&c<=67)return'Rain';
+  if(c>=80&&c<=82)return'Rain showers';if(c>=95)return'Thunderstorm';return'Current conditions';
+ }
+ function loadWeather(){
+  try{
+   var x=new XMLHttpRequest();
+   x.open('GET','https://api.open-meteo.com/v1/forecast?latitude=-35.2809&longitude=149.1300&current=temperature_2m,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Australia%2FSydney&forecast_days=1',true);
+   x.onreadystatechange=function(){
+    if(x.readyState===4 && x.status>=200 && x.status<300){
+     try{
+      var a=JSON.parse(x.responseText),c=a.current||{},d=a.daily||{};
+      document.getElementById('wtemp').innerHTML=Math.round(c.temperature_2m)+'&deg;C';
+      document.getElementById('wcond').innerHTML=condition(Number(c.weather_code));
+      var s='';
+      if(d.temperature_2m_min&&d.temperature_2m_max)s+='Today '+Math.round(d.temperature_2m_min[0])+'&deg; - '+Math.round(d.temperature_2m_max[0])+'&deg;<br>';
+      if(d.precipitation_probability_max)s+='Chance of rain '+Math.round(d.precipitation_probability_max[0])+'%<br>';
+      if(c.wind_speed_10m!=null)s+='Wind '+Math.round(c.wind_speed_10m)+' km/h';
+      document.getElementById('wdetail').innerHTML=s;
+     }catch(err){}
+    }
+   };
+   x.send();
+  }catch(e){}
+ }
+ loadWeather();setInterval(loadWeather,900000);
 })();
 </script>
 </body>
