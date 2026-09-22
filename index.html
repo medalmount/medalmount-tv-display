@@ -8,7 +8,7 @@
 <style>html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}iframe{display:block;border:0;width:100%;height:100%;margin:0;padding:0;background:#071526}</style>
 </head>
 <body>
-<iframe id="display" src="core.html?v=20260922-autoimages" title="Medal Mounting Shop Display"></iframe>
+<iframe id="display" src="core.html?v=20260922-autoimages-nocaptions" title="Medal Mounting Shop Display"></iframe>
 <script>
 (function(){
  var frame=document.getElementById('display');
@@ -18,6 +18,7 @@
    var style=doc.createElement('style');
    style.textContent='\
     .hero img{object-fit:contain!important;background:#0b1520!important}\
+    .hero .caption{display:none!important}\
     .kicker{font-size:1.62vh!important;line-height:1.18!important}\
     .history h2{font-size:2.9vh!important;margin:.7vh 0 .9vh!important}\
     .history p{font-size:1.9vh!important;line-height:1.34!important;margin:.65vh 0!important}\
@@ -38,16 +39,9 @@
    var script=doc.createElement('script');
    script.textContent=`
     var FALLBACK_IMAGES=[
-     {url:'images/shop-01.jpg',caption:'Custom service presentation framing'},
-     {url:'images/shop-03.jpg',caption:'Police service commemorative presentation'}
+     {url:'images/shop-01.jpg',caption:''},
+     {url:'images/shop-03.jpg',caption:''}
     ];
-
-    function imageCaption(name){
-     var n=name.toLowerCase();
-     if(n==='shop-01.jpg')return'Custom service presentation framing';
-     if(n==='shop-03.jpg')return'Police service commemorative presentation';
-     return'Custom medal and service presentation';
-    }
 
     function loadImagesFromGitHub(){
      fetch('https://api.github.com/repos/medalmount/medalmount-tv-display/contents/images?ref=main&t='+Date.now(),{cache:'no-store'})
@@ -56,7 +50,7 @@
        var images=files.filter(function(f){
         return f.type==='file' && /\\.(jpe?g|png|webp)$/i.test(f.name) && Number(f.size)>=200000;
        }).sort(function(a,b){return a.name.localeCompare(b.name,undefined,{numeric:true});})
-       .map(function(f){return {url:f.download_url+'?v='+f.sha,caption:imageCaption(f.name)};});
+       .map(function(f){return {url:f.download_url+'?v='+f.sha,caption:''};});
        if(images.length){CONFIG.images=images;imgIndex=0;showImage();}
        else{CONFIG.images=FALLBACK_IMAGES;imgIndex=0;showImage();}
       })
