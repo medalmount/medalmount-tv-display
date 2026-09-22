@@ -129,6 +129,22 @@
      }).catch(function(){b.innerHTML='<div class="weather-error">Canberra weather temporarily unavailable</div>';});
     }
     loadWeather();setInterval(loadWeather,15*60*1000);
+
+    // Pixel-shift protection for the static signage areas.
+    // Moves fixed text/panels by only 1–2 pixels every 10 minutes.
+    // The rotating hero image is left alone because it already changes regularly.
+    var pixelShiftSteps=[[0,0],[1,0],[1,1],[0,1],[-1,1],[-1,0],[-1,-1],[0,-1],[1,-1]];
+    var pixelShiftIndex=0;
+    function applyPixelShift(){
+     var p=pixelShiftSteps[pixelShiftIndex];
+     pixelShiftIndex=(pixelShiftIndex+1)%pixelShiftSteps.length;
+     var parts=document.querySelectorAll('.header,.history,.weather,.hours,.contact');
+     for(var i=0;i<parts.length;i++){
+      parts[i].style.transform='translate('+p[0]+'px,'+p[1]+'px)';
+     }
+    }
+    applyPixelShift();
+    setInterval(applyPixelShift,10*60*1000);
    `;
    doc.body.appendChild(script);
   }catch(e){console.log('Shop display loader:',e);}
