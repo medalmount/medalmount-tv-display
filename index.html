@@ -12,9 +12,6 @@
 <script>
 (function(){
  var frame=document.getElementById('display');
-
- // LG signage anti-idle: request the browser Screen Wake Lock where webOS supports it.
- // Re-request it whenever the page becomes visible again.
  var wakeLock=null;
  function requestDisplayWakeLock(){
   try{
@@ -30,9 +27,6 @@
  document.addEventListener('visibilitychange',function(){
   if(document.visibilityState==='visible'&&!wakeLock){requestDisplayWakeLock();}
  });
-
- // Keep the page actively rendering without changing anything visible.
- // This is deliberately LG-only; samsung.html is not touched.
  var keepAlive=document.createElement('div');
  keepAlive.setAttribute('aria-hidden','true');
  keepAlive.style.cssText='position:fixed;left:-10px;top:-10px;width:1px;height:1px;opacity:0;pointer-events:none';
@@ -87,16 +81,13 @@
      fetch('https://api.github.com/repos/medalmount/medalmount-tv-display/contents/images?ref=main&t='+Date.now(),{cache:'no-store'})
       .then(function(r){if(!r.ok)throw new Error('GitHub image list unavailable');return r.json();})
       .then(function(files){
-       var images=files.filter(function(f){
-        return f.type==='file' && /\\.(jpe?g|png|webp)$/i.test(f.name) && Number(f.size)>=200000;
-       }).sort(function(a,b){return a.name.localeCompare(b.name,undefined,{numeric:true});})
+       var images=files.filter(function(f){return f.type==='file' && /\\.(jpe?g|png|webp)$/i.test(f.name) && Number(f.size)>=200000;})
+       .sort(function(a,b){return a.name.localeCompare(b.name,undefined,{numeric:true});})
        .map(function(f){return {url:f.download_url+'?v='+f.sha,caption:''};});
        if(images.length){CONFIG.images=images;imgIndex=0;showImage();}
        else{CONFIG.images=FALLBACK_IMAGES;imgIndex=0;showImage();}
       })
-      .catch(function(){
-       if(!CONFIG.images||!CONFIG.images.length){CONFIG.images=FALLBACK_IMAGES;imgIndex=0;showImage();}
-      });
+      .catch(function(){if(!CONFIG.images||!CONFIG.images.length){CONFIG.images=FALLBACK_IMAGES;imgIndex=0;showImage();}});
     }
     CONFIG.images=FALLBACK_IMAGES;imgIndex=0;showImage();
     loadImagesFromGitHub();
@@ -114,15 +105,28 @@
      document.getElementById('historyText').textContent='Remembering those who have served Australia — past and present.';
      document.getElementById('medalConnection').textContent='Military • Police • First Responders • Families';
     }
+    function showHistoryRows(rows){
+     var key=todayKey(),e=null;
+     for(var i=0;i<rows.length;i++){if(rows[i].date===key){e=rows[i];break;}}
+     if(!e){historyFallback();return;}
+     document.getElementById('historyTitle').textContent=e.title||e.displayDate||'Australian Service History';
+     document.getElementById('historyText').textContent=e.text||'';
+     document.getElementById('medalConnection').textContent=e.medalConnection?'Medal connection: '+e.medalConnection:'';
+    }
+    function decodeBlobContent(x){
+     if(!x||!x.content)throw new Error('No history content');
+     if(x.encoding!=='base64')return x.content;
+     var bin=atob(String(x.content).replace(/\\s/g,''));
+     try{return decodeURIComponent(escape(bin));}catch(e){return bin;}
+    }
     function loadHistory(){
-     fetch('history.json?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error();return r.json();}).then(function(rows){
-      var key=todayKey(),e=null;
-      for(var i=0;i<rows.length;i++){if(rows[i].date===key){e=rows[i];break;}}
-      if(!e){historyFallback();return;}
-      document.getElementById('historyTitle').textContent=e.title||e.displayDate||'Australian Service History';
-      document.getElementById('historyText').textContent=e.text||'';
-      document.getElementById('medalConnection').textContent=e.medalConnection?'Medal connection: '+e.medalConnection:'';
-     }).catch(historyFallback);
+     var masterBlob='0762381f2444f045069251bfc3339806f54056f3';
+     fetch('https://api.github.com/repos/medalmount/medalmount-tv-display/git/blobs/'+masterBlob+'?t='+Date.now(),{cache:'no-store'})
+      .then(function(r){if(!r.ok)throw new Error('Master history unavailable');return r.json();})
+      .then(function(x){showHistoryRows(JSON.parse(decodeBlobContent(x)));})
+      .catch(function(){
+       fetch('history.json?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error();return r.json();}).then(showHistoryRows).catch(historyFallback);
+      });
     }
     loadHistory(); setInterval(loadHistory,60*60*1000);
 
@@ -138,18 +142,13 @@
     }
     loadWeather();setInterval(loadWeather,15*60*1000);
 
-    // Pixel-shift protection for the static signage areas.
-    // Moves fixed text/panels by only 1–2 pixels every 10 minutes.
-    // The rotating hero image is left alone because it already changes regularly.
     var pixelShiftSteps=[[0,0],[1,0],[1,1],[0,1],[-1,1],[-1,0],[-1,-1],[0,-1],[1,-1]];
     var pixelShiftIndex=0;
     function applyPixelShift(){
      var p=pixelShiftSteps[pixelShiftIndex];
      pixelShiftIndex=(pixelShiftIndex+1)%pixelShiftSteps.length;
      var parts=document.querySelectorAll('.header,.history,.weather,.hours,.contact');
-     for(var i=0;i<parts.length;i++){
-      parts[i].style.transform='translate('+p[0]+'px,'+p[1]+'px)';
-     }
+     for(var i=0;i<parts.length;i++){parts[i].style.transform='translate('+p[0]+'px,'+p[1]+'px)';}
     }
     applyPixelShift();
     setInterval(applyPixelShift,10*60*1000);
