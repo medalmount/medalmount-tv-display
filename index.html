@@ -8,7 +8,7 @@
 <style>html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}iframe{display:block;border:0;width:100%;height:100%;margin:0;padding:0;background:#071526}</style>
 </head>
 <body>
-<iframe id="display" src="core.html?v=20260922-autoimages-nocaptions" title="Medal Mounting Shop Display"></iframe>
+<iframe id="display" src="core.html?v=20260923-autoimages-nocaptions" title="Medal Mounting Shop Display"></iframe>
 <script>
 (function(){
  var frame=document.getElementById('display');
@@ -100,35 +100,45 @@
       return m+'-'+d;
      }catch(e){var x=new Date();return String(x.getMonth()+1).padStart(2,'0')+'-'+String(x.getDate()).padStart(2,'0');}
     }
+    var TODAY_HISTORY=[];
+    var historyIndex=0;
     function historyFallback(){
+     TODAY_HISTORY=[];historyIndex=0;
      document.getElementById('historyTitle').textContent='Remembering those who served';
      document.getElementById('historyText').textContent='Remembering those who have served Australia — past and present.';
      document.getElementById('medalConnection').textContent='Military • Police • First Responders • Families';
     }
-    function showHistoryRows(rows){
-     var key=todayKey(),e=null;
-     for(var i=0;i<rows.length;i++){if(rows[i].date===key){e=rows[i];break;}}
-     if(!e){historyFallback();return;}
+    function showHistoryEvent(){
+     if(!TODAY_HISTORY.length){historyFallback();return;}
+     var e=TODAY_HISTORY[historyIndex%TODAY_HISTORY.length];
      document.getElementById('historyTitle').textContent=e.title||e.displayDate||'Australian Service History';
      document.getElementById('historyText').textContent=e.text||'';
-     document.getElementById('medalConnection').textContent=e.medalConnection?'Medal connection: '+e.medalConnection:'';
+     var count=TODAY_HISTORY.length>1?'Event '+((historyIndex%TODAY_HISTORY.length)+1)+' of '+TODAY_HISTORY.length+' • ':'';
+     document.getElementById('medalConnection').textContent=count+(e.medalConnection?'Medal connection: '+e.medalConnection:'');
+     historyIndex=(historyIndex+1)%TODAY_HISTORY.length;
     }
-    function decodeBlobContent(x){
-     if(!x||!x.content)throw new Error('No history content');
-     if(x.encoding!=='base64')return x.content;
-     var bin=atob(String(x.content).replace(/\\s/g,''));
-     try{return decodeURIComponent(escape(bin));}catch(e){return bin;}
+    function showHistoryRows(rows){
+     var key=todayKey(),seen={},events=[];
+     for(var i=0;i<rows.length;i++){
+      if(rows[i].date===key){
+       var sig=(rows[i].title||'')+'|'+(rows[i].text||'');
+       if(!seen[sig]){seen[sig]=true;events.push(rows[i]);}
+      }
+     }
+     if(!events.length){historyFallback();return;}
+     TODAY_HISTORY=events;historyIndex=0;showHistoryEvent();
     }
     function loadHistory(){
-     var masterBlob='0762381f2444f045069251bfc3339806f54056f3';
-     fetch('https://api.github.com/repos/medalmount/medalmount-tv-display/git/blobs/'+masterBlob+'?t='+Date.now(),{cache:'no-store'})
+     fetch('history-master.json?v='+Date.now(),{cache:'no-store'})
       .then(function(r){if(!r.ok)throw new Error('Master history unavailable');return r.json();})
-      .then(function(x){showHistoryRows(JSON.parse(decodeBlobContent(x)));})
+      .then(showHistoryRows)
       .catch(function(){
        fetch('history.json?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error();return r.json();}).then(showHistoryRows).catch(historyFallback);
       });
     }
-    loadHistory(); setInterval(loadHistory,60*60*1000);
+    loadHistory();
+    setInterval(showHistoryEvent,12*1000);
+    setInterval(loadHistory,60*60*1000);
 
     function wx(c){if(c===0)return'Clear';if(c===1)return'Mainly clear';if(c===2)return'Partly cloudy';if(c===3)return'Overcast';if(c===45||c===48)return'Fog';if(c>=51&&c<=57)return'Drizzle';if(c>=61&&c<=67)return'Rain';if(c>=71&&c<=77)return'Snow';if(c>=80&&c<=82)return'Rain showers';if(c>=85&&c<=86)return'Snow showers';if(c>=95)return'Thunderstorm';return'Current conditions';}
     function loadWeather(){
