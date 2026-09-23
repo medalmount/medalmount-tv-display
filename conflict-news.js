@@ -1,7 +1,53 @@
 /* Medal Mount TV — live world-conflict news ticker */
 (function(){
 var style=document.createElement('style');
-style.textContent='#screen{padding-bottom:9vh!important}.conflict-ticker{position:absolute;left:0;right:0;bottom:0;height:8.0vh;background:#07111d;border-top:2px solid #d5aa45;border-bottom:1px solid #d5aa45;display:flex;align-items:center;z-index:9999;overflow:hidden;font-family:Arial,Helvetica,sans-serif}.conflict-label{height:100%;display:flex;align-items:center;justify-content:center;padding:0 1.1vh;background:#f0cf25;color:#071526;font-size:2.45vh;line-height:1.02;font-weight:900;letter-spacing:.02em;white-space:normal;text-align:center;max-width:18vh;z-index:2}.conflict-window{overflow:hidden;flex:1;height:100%;display:flex;align-items:center}.conflict-track{display:inline-block;white-space:nowrap;padding-left:100%;font-size:3.85vh;line-height:1;font-weight:700;color:#f2f5f8;animation:conflictScroll 57.5s linear infinite;will-change:transform}.conflict-track .src{color:#f0cf25;font-weight:900}.conflict-track .sep{color:#6f8498;padding:0 1.5vh}@keyframes conflictScroll{from{transform:translateX(0)}to{transform:translateX(-100%)}}';
+style.textContent=`
+/* Portrait layout polish */
+#screen{padding-bottom:7.2vh!important;grid-template-rows:8.8fr 42.2fr 17.5fr 24.5fr!important}
+.card{min-height:0!important;overflow:hidden!important}
+
+/* Shop hours: show all actual days/times clearly */
+.hours{padding:.9vh 1.05vh!important;display:flex!important;flex-direction:column!important;justify-content:flex-start!important}
+.hours .kicker{font-size:1.55vh!important;line-height:1.05!important;margin:0 0 .25vh!important}
+.hours h2{font-size:2.65vh!important;line-height:1!important;margin:.15vh 0 .45vh!important}
+.hours .row{display:flex!important;justify-content:space-between!important;align-items:center!important;font-size:1.55vh!important;line-height:1.25!important;margin:.08vh 0!important}
+.hours .row b{font-size:1.55vh!important;line-height:1.25!important;white-space:nowrap!important}
+.hours>div:last-child{font-size:1.15vh!important;line-height:1.15!important;margin-top:.3vh!important}
+
+/* Weather: keep CANBERRA and all conditions inside the panel */
+.weather{padding:.8vh!important;justify-content:flex-start!important}
+.weather .kicker{font-size:1.45vh!important;line-height:1!important;margin:0 0 .15vh!important}
+.weather h2{font-size:2.15vh!important;line-height:1!important;margin:.1vh 0 .25vh!important}
+.weather .placeholder{display:flex!important;flex-direction:column!important;justify-content:center!important;flex:1!important;min-height:0!important}
+.weather-now{font-size:4.55vh!important;line-height:1!important}
+.weather-condition{font-size:1.85vh!important;line-height:1.05!important;margin-top:.15vh!important}
+.weather-range{font-size:1.35vh!important;line-height:1.1!important;margin-top:.25vh!important}
+.weather-detail{font-size:1.05vh!important;line-height:1.1!important;margin-top:.2vh!important}
+
+/* History: fit complete entry instead of losing lower lines */
+.history{padding:.9vh 1.05vh!important;display:flex!important;flex-direction:column!important}
+.history .kicker{font-size:1.42vh!important;line-height:1.05!important;margin:0 0 .25vh!important}
+.history h2{font-size:2.35vh!important;line-height:1.08!important;margin:.15vh 0 .35vh!important}
+.history p{font-size:1.48vh!important;line-height:1.18!important;margin:.1vh 0!important;display:-webkit-box!important;-webkit-line-clamp:5!important;-webkit-box-orient:vertical!important;overflow:hidden!important}
+.history .medal{font-size:1.05vh!important;line-height:1.12!important;margin-top:.35vh!important}
+
+/* QR/contact panel */
+.contact{padding:.45vh!important}
+.qrbox{width:17.2vh!important;margin:0 auto .1vh!important}
+.qrbox img{width:15.4vh!important;height:15.4vh!important;padding:.35vh!important}
+.qrbox div{font-size:1.45vh!important;line-height:1!important}
+.contact .web{font-size:2.05vh!important;line-height:1!important;margin-top:.1vh!important}
+.contact .phone{font-size:1.45vh!important;line-height:1!important;margin-top:.2vh!important}
+.contact small{font-size:.95vh!important;line-height:1!important;margin-top:.2vh!important}
+
+/* Bottom ticker: readable but no longer crowds the cards */
+.conflict-ticker{position:absolute;left:0;right:0;bottom:0;height:6.4vh;background:#07111d;border-top:2px solid #d5aa45;border-bottom:1px solid #d5aa45;display:flex;align-items:center;z-index:9999;overflow:hidden;font-family:Arial,Helvetica,sans-serif}
+.conflict-label{height:100%;display:flex;align-items:center;justify-content:center;padding:0 .85vh;background:#f0cf25;color:#071526;font-size:1.85vh;line-height:1.02;font-weight:900;letter-spacing:.02em;white-space:normal;text-align:center;max-width:16vh;z-index:2}
+.conflict-window{overflow:hidden;flex:1;height:100%;display:flex;align-items:center}
+.conflict-track{display:inline-block;white-space:nowrap;padding-left:100%;font-size:2.75vh;line-height:1;font-weight:700;color:#f2f5f8;animation:conflictScroll 57.5s linear infinite;will-change:transform}
+.conflict-track .src{color:#f0cf25;font-weight:900}.conflict-track .sep{color:#6f8498;padding:0 1.5vh}
+@keyframes conflictScroll{from{transform:translateX(0)}to{transform:translateX(-100%)}}
+`;
 document.head.appendChild(style);
 var bar=document.createElement('div');bar.className='conflict-ticker';bar.innerHTML='<div class="conflict-label">CURRENT WORLD CONFLICTS</div><div class="conflict-window"><div class="conflict-track" id="conflictTrack">Updating current conflict headlines…</div></div>';
 var rotator=document.getElementById('tv-rotator')||document.body;rotator.appendChild(bar);
