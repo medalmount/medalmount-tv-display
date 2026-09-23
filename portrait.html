@@ -5,50 +5,16 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
 <title>Medal Mounting – Portrait TV</title>
 <style>
-:root{
-  --safe-left:12px;
-  --safe-right:12px;
-  --safe-top:10px;
-  --safe-bottom:12px;
-}
-html,body{
-  margin:0;
-  width:100%;
-  height:100%;
-  overflow:hidden;
-  background:#071526;
-}
-#portrait-stage{
-  position:fixed;
-  left:var(--safe-left);
-  right:var(--safe-right);
-  top:var(--safe-top);
-  bottom:var(--safe-bottom);
-  overflow:hidden;
-  background:#071526;
-}
-#display{
-  display:block;
-  border:0;
-  width:100%;
-  height:100%;
-  margin:0;
-  padding:0;
-  background:#071526;
-}
+:root{--safe-left:12px;--safe-right:12px;--safe-top:10px;--safe-bottom:12px;}
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526;}
+#portrait-stage{position:fixed;left:var(--safe-left);right:var(--safe-right);top:var(--safe-top);bottom:var(--safe-bottom);overflow:hidden;background:#071526;}
+#display{display:block;border:0;width:100%;height:100%;margin:0;padding:0;background:#071526;}
 </style>
 </head>
 <body>
-<div id="portrait-stage"><iframe id="display" src="index.html?v=20260923-layout2" title="Medal Mounting Shop Display"></iframe></div>
+<div id="portrait-stage"><iframe id="display" src="index.html?v=20260923-history-sync" title="Medal Mounting Shop Display"></iframe></div>
 <script>
-(function(){
-  /*
-    IMPORTANT: core.html already performs the single 90-degree rotation needed
-    by the LG webOS browser when the physical television is mounted portrait.
-    This wrapper must NOT rotate the page a second time.
-  */
-  setTimeout(function(){location.reload();},6*60*60*1000);
-})();
+(function(){setTimeout(function(){location.reload();},6*60*60*1000);})();
 </script>
 </body>
 </html>
