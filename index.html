@@ -1,1 +1,30 @@
-<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="mobile-web-app-capable" content="yes"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><title>Medal Mounting Shop Display</title><style>html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}iframe{display:block;border:0;width:100%;height:100%}</style></head><body><iframe id="display" src="samsung.html?v=20260924-news-feed-1" title="Medal Mounting Samsung Portrait Display"></iframe><script>(function(){var wakeLock=null;function wake(){try{if('wakeLock'in navigator)navigator.wakeLock.request('screen').then(function(x){wakeLock=x;x.addEventListener('release',function(){wakeLock=null})}).catch(function(){})}catch(e){}}wake();document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible'&&!wakeLock)wake()});setTimeout(function(){location.reload()},21600000)})();</script></body></html>
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>Medal Mounting Shop Display</title>
+<style>
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#071526}
+#stage{position:fixed;top:0;left:0;width:100vw;height:100vh}
+#display{display:block;border:0;width:100%;height:100%}
+/* The TV is physically portrait; rotate only when the browser still reports landscape. */
+@media (orientation:landscape){
+  #stage{width:100vh;height:100vw;transform-origin:top left;transform:rotate(-90deg) translateX(-100%)}
+}
+</style>
+</head>
+<body>
+<div id="stage"><iframe id="display" src="samsung.html?v=20260924-news-feed-rotation-1" title="Medal Mounting Samsung Portrait Display"></iframe></div>
+<script>
+(function(){
+  var wakeLock=null;
+  function wake(){try{if('wakeLock'in navigator)navigator.wakeLock.request('screen').then(function(x){wakeLock=x;x.addEventListener('release',function(){wakeLock=null})}).catch(function(){})}catch(e){}}
+  wake();
+  document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible'&&!wakeLock)wake()});
+  setTimeout(function(){location.reload()},21600000);
+})();
+</script>
+</body>
+</html>
