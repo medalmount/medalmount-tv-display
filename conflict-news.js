@@ -3,7 +3,7 @@
 var style=document.createElement('style');
 style.textContent=`
 /* Portrait layout polish */
-#screen{padding-bottom:7.2vh!important;grid-template-rows:8.8fr 42.2fr 17.5fr 24.5fr!important}
+#screen{padding-bottom:7.2vh!important;grid-template-rows:8.8fr 40fr 17.5fr 26.7fr!important}
 .card{min-height:0!important;overflow:hidden!important}
 
 /* Shop hours: show all actual days/times clearly */
@@ -26,10 +26,10 @@ style.textContent=`
 
 /* History: fit complete entry instead of losing lower lines */
 .history{padding:.9vh 1.05vh!important;display:flex!important;flex-direction:column!important}
-.history .kicker{font-size:1.42vh!important;line-height:1.05!important;margin:0 0 .25vh!important}
-.history h2{font-size:2.35vh!important;line-height:1.08!important;margin:.15vh 0 .35vh!important}
-.history p{font-size:1.48vh!important;line-height:1.18!important;margin:.1vh 0!important;display:-webkit-box!important;-webkit-line-clamp:5!important;-webkit-box-orient:vertical!important;overflow:hidden!important}
-.history .medal{font-size:1.05vh!important;line-height:1.12!important;margin-top:.35vh!important}
+.history .kicker{font-size:1.35vh!important;line-height:1.05!important;margin:0 0 .25vh!important}
+.history h2{font-size:2.2vh!important;line-height:1.08!important;margin:.15vh 0 .35vh!important}
+.history p{font-size:1.38vh!important;line-height:1.17!important;margin:.1vh 0!important;display:-webkit-box!important;-webkit-line-clamp:7!important;-webkit-box-orient:vertical!important;overflow:hidden!important}
+.history .medal{font-size:.98vh!important;line-height:1.1!important;margin-top:.35vh!important}
 
 /* QR/contact panel */
 .contact{padding:.45vh!important}
