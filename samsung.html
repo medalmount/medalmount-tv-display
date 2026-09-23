@@ -1,172 +1,35 @@
 <!doctype html>
-<html>
+<html lang="en-AU">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Medal Mounting Shop Display</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><title>Medal Mounting — Samsung Portrait Display</title>
 <style>
-html,body{margin:0;padding:0;width:100%;height:100%;overflow:hidden;background:#071526;color:#f7f9fb;font-family:Arial,Helvetica,sans-serif}
-*{box-sizing:border-box}
-#screen{position:relative;width:100%;height:100%;background:#071526}
-#header{position:absolute;left:2.2%;top:1.8%;width:95.6%;height:8.7%;border-bottom:3px solid #d5aa45}
-#brand{position:absolute;left:0;top:0;font-size:4.0vh;font-weight:bold;letter-spacing:.04em}
-#tag{position:absolute;left:0;top:5.0vh;font-size:1.55vh;color:#b9c6d2}
-#clock{position:absolute;right:0;top:0;text-align:right}
-#time{font-size:3.4vh;font-weight:bold}
-#date{font-size:1.45vh;color:#b9c6d2;margin-top:.3vh}
-#hero{position:absolute;left:2.2%;top:12%;width:95.6%;height:42.5%;border:1px solid #28455f;border-radius:12px;overflow:hidden;background:#0b1520;text-align:center}
-#heroImage{width:100%;height:100%;object-fit:contain}
-.card{background:#10253b;border:1px solid #28455f;border-radius:12px;overflow:hidden;padding:1.5vh}
-.kicker{font-size:1.55vh;color:#d5aa45;font-weight:bold;letter-spacing:.08em;text-transform:uppercase}
-#history{position:absolute;left:2.2%;top:56%;width:58.8%;height:25.5%}
-#historyTitle{font-size:2.65vh;line-height:1.08;margin:.7vh 0}
-#historyText{font-size:1.7vh;line-height:1.3;margin:.7vh 0;color:#e8eef4}
-#medal{font-size:1.4vh;line-height:1.25;color:#b9c6d2;margin-top:.8vh}
-#weather{position:absolute;left:62.5%;top:56%;width:35.3%;height:25.5%;text-align:center;padding-top:4.3vh}
-#weather h2{font-size:2.4vh;margin:.5vh 0}
-#wtemp{font-size:4.2vh;font-weight:bold;line-height:1.05;margin:.7vh 0}
-#wcond{font-size:1.8vh;font-weight:bold}
-#wdetail{font-size:1.45vh;line-height:1.45;color:#d9e3ec;margin-top:.5vh}
-#hours{position:absolute;left:2.2%;top:83%;width:55%;height:15%;padding:1.1vh 1.5vh}
-#hoursTitle{font-size:3.5vh;font-weight:bold;line-height:1;margin:.2vh 0 .7vh}
-.row{font-size:2.05vh;line-height:1.25;position:relative}
-.row b{position:absolute;right:0}
-#appt{font-size:1.2vh;color:#b9c6d2;margin-top:.35vh}
-#contact{position:absolute;left:58.7%;top:83%;width:39.1%;height:15%;background:#152e48;text-align:center;padding-top:3.8vh}
-#web{font-size:2.35vh;font-weight:bold;color:#d5aa45}
-#phone{font-size:2.25vh;margin-top:.45vh}
-#small{font-size:1.15vh;color:#b9c6d2;margin-top:.5vh}
-</style>
-</head>
-<body>
-<div id="screen">
- <div id="header">
-  <div id="brand">MEDAL MOUNTING</div>
-  <div id="tag">Military &bull; Police &bull; First Responders &bull; Families</div>
-  <div id="clock"><div id="time">--:--</div><div id="date">Loading...</div></div>
- </div>
- <div id="hero"><img id="heroImage" src="images/shop-01.jpg" alt=""></div>
- <div id="history" class="card">
-  <div class="kicker">This Day in Australian Service History</div>
-  <div id="historyTitle">Remembering those who served</div>
-  <div id="historyText">Remembering Australians who have served in defence, police and emergency services.</div>
-  <div id="medal">Military &bull; Police &bull; First Responders &bull; Families</div>
- </div>
- <div id="weather" class="card">
-  <div class="kicker">Local Weather</div><h2>CANBERRA</h2>
-  <div id="wtemp">--&deg;C</div><div id="wcond">Updating...</div><div id="wdetail"></div>
- </div>
- <div id="hours" class="card">
-  <div class="kicker">Hours of Operation</div><div id="hoursTitle">SHOP HOURS</div>
-  <div class="row"><span>Monday</span><b>1500-1900</b></div>
-  <div class="row"><span>Thursday</span><b>1500-1900</b></div>
-  <div class="row"><span>Saturday</span><b>1100-1500</b></div>
-  <div id="appt">Outside hours by appointment</div>
- </div>
- <div id="contact" class="card">
-  <div id="web">medalmount.com.au</div><div id="phone">02 6179 7545</div>
-  <div id="small">Appointments available via the website</div>
- </div>
-</div>
+:root{--navy:#071526;--card:#10253b;--line:#28455f;--gold:#d5aa45;--muted:#b9c6d2;--white:#f7f9fb}
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:var(--navy);color:var(--white);font-family:Arial,Helvetica,sans-serif}
+#screen{width:100vw;height:100vh;padding:2.0vh 2.2vw 10vh;display:grid;grid-template-rows:9vh 1.8vh 37vh 15vh 19vh 1fr;gap:1vh;background:linear-gradient(180deg,#071526,#091b30 88%,#050d17 100%)}
+header{position:relative;border-bottom:3px solid var(--gold);padding:0 .4vw}.brand{font-size:4vh;font-weight:900;letter-spacing:.035em}.tag{font-size:1.5vh;color:var(--muted);margin-top:.5vh}.clock{position:absolute;right:.4vw;top:0;text-align:right}.time{font-size:3.4vh;font-weight:900}.date{font-size:1.35vh;color:var(--muted);margin-top:.3vh}
+#upcoming{font-size:1.55vh;font-weight:800;color:#ffd928;white-space:nowrap;overflow:hidden;text-align:center}
+#hero{border:1px solid var(--line);border-radius:1vh;overflow:hidden;background:#0b1520;position:relative}#hero img{width:100%;height:100%;object-fit:contain;display:block}
+.grid2{display:grid;grid-template-columns:1.25fr .75fr;gap:1vh}.card{background:var(--card);border:1px solid var(--line);border-radius:1vh;padding:1.25vh;overflow:hidden}.kicker{font-size:1.4vh;color:var(--gold);font-weight:900;letter-spacing:.08em;text-transform:uppercase}
+#hours h2{font-size:2.8vh;margin:.35vh 0 .65vh}.row{font-size:1.85vh;line-height:1.35;position:relative}.row b{position:absolute;right:0}#appt{font-size:1.1vh;color:var(--muted);margin-top:.4vh}
+#weather{text-align:center}#weather h2{font-size:2.1vh;margin:.25vh 0}.weather-now{font-size:4.4vh;font-weight:900}.weather-condition{font-size:1.55vh;font-weight:700}.weather-detail{font-size:1.15vh;color:#d9e3ec;line-height:1.4}
+#historyTitle{font-size:2.3vh;line-height:1.08;margin:.55vh 0}#historyText{font-size:1.45vh;line-height:1.28;margin:.45vh 0;color:#e8eef4}#medal{font-size:1.1vh;color:var(--muted);margin-top:.5vh}
+#contact{display:grid;grid-template-columns:1fr 1fr;gap:1vh;text-align:center;align-items:center}.qr img{height:9.5vh;width:9.5vh;background:#fff;padding:.4vh;border:2px solid var(--gold);border-radius:.5vh}.scan{font-size:1.05vh;color:#ffd928;font-weight:900;margin-top:.25vh}.web{font-size:1.8vh;color:var(--gold);font-weight:900}.phone{font-size:1.65vh;margin-top:.4vh}.small{font-size:1.05vh;color:var(--muted);margin-top:.4vh}
+#ticker{border-top:2px solid var(--gold);border-bottom:2px solid var(--gold);display:flex;align-items:center;overflow:hidden;background:#0b1c31}.ticker-label{height:100%;display:flex;align-items:center;padding:0 1.1vw;background:#d5aa45;color:#071526;font-size:1.25vh;font-weight:900;z-index:2}.ticker-window{overflow:hidden;flex:1;white-space:nowrap}.ticker-text{display:inline-block;padding-left:100%;font-size:1.35vh;font-weight:700;animation:scroll 48s linear infinite}@keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-100%)}}
+/* Bottom 8% deliberately contains no changing or important content: Samsung burn-in safe zone. */
+#safeZone{position:absolute;left:0;right:0;bottom:0;height:8vh;background:#050d17;pointer-events:none}
+</style></head><body><div id="screen">
+<header><div class="brand">MEDAL MOUNTING</div><div class="tag">Military • Police • First Responders • Families</div><div class="clock"><div class="time" id="time">--:--</div><div class="date" id="date">Loading…</div></div></header>
+<div id="upcoming">COMING UP • Loading commemorative date…</div>
+<div id="hero"><img id="heroImage" src="images/shop-01.jpg" alt="Medal Mounting display"></div>
+<div class="grid2"><section id="hours" class="card"><div class="kicker">Hours of Operation</div><h2>SHOP HOURS</h2><div class="row">Monday <b>1500–1900</b></div><div class="row">Thursday <b>1500–1900</b></div><div class="row">Saturday <b>1100–1500</b></div><div id="appt">Outside hours by appointment</div></section><section id="weather" class="card"><div class="kicker">Local Weather</div><h2>CANBERRA</h2><div id="weatherBox"><div class="weather-now">--°C</div><div class="weather-condition">Updating…</div></div></section></div>
+<div class="grid2"><section id="history" class="card"><div class="kicker" id="historyKicker">This Day in Australian Service History</div><div id="historyTitle">Remembering those who served</div><div id="historyText">Remembering Australians who have served in defence, police and emergency services.</div><div id="medal">Military • Police • First Responders • Families</div></section><section id="contact" class="card"><div class="qr"><img src="qr-medalmount.svg" alt="QR code"><div class="scan">SCAN TO VISIT</div></div><div><div class="web">medalmount.com.au</div><div class="phone">02 6179 7545</div><div class="small">Appointments available via the website</div></div></section></div>
+<div id="ticker"><div class="ticker-label">CURRENT</div><div class="ticker-window"><div class="ticker-text" id="tickerText">Medal Mounting • Canberra • Military • Police • First Responders • Families</div></div></div>
+</div><div id="safeZone"></div>
 <script>
-(function(){
- var images=[
-  'images/shop-01.jpg','images/shop-03.jpg','images/IMG_1602.jpeg','images/IMG_1631.jpeg',
-  'images/IMG_1694.JPEG','images/IMG_2182.JPEG','images/IMG_2256.JPEG','images/IMG_3052.JPEG',
-  'images/IMG_3245.JPEG','images/IMG_3308.JPEG','images/IMG_3904.JPEG','images/IMG_3918.JPEG','images/IMG_4926.JPEG'
- ];
- var imageIndex=0;
-
- function showImage(){
-  if(!images.length)return;
-  document.getElementById('heroImage').src=images[imageIndex];
-  imageIndex=(imageIndex+1)%images.length;
- }
- setInterval(showImage,12000);
-
- function loadImageList(){
-  try{
-   var x=new XMLHttpRequest();
-   x.open('GET','https://api.github.com/repos/medalmount/medalmount-tv-display/contents/images?ref=main&t='+(new Date().getTime()),true);
-   x.onreadystatechange=function(){
-    if(x.readyState===4 && x.status>=200 && x.status<300){
-     try{
-      var files=JSON.parse(x.responseText),a=[],i,f,n;
-      for(i=0;i<files.length;i++){
-       f=files[i];n=(f.name||'').toLowerCase();
-       if(f.type==='file' && f.size>=200000 && (n.indexOf('.jpg')===n.length-4 || n.indexOf('.jpeg')===n.length-5 || n.indexOf('.png')===n.length-4 || n.indexOf('.webp')===n.length-5)){
-        a.push(f.download_url);
-       }
-      }
-      if(a.length){images=a;imageIndex=0;showImage();}
-     }catch(e){}
-    }
-   };
-   x.send();
-  }catch(e){}
- }
- loadImageList();
- setInterval(loadImageList,900000);
-
- function pad(n){return n<10?'0'+n:''+n;}
- function updateClock(){
-  var d=new Date(),days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
-  var months=['January','February','March','April','May','June','July','August','September','October','November','December'];
-  document.getElementById('time').innerHTML=pad(d.getHours())+':'+pad(d.getMinutes());
-  document.getElementById('date').innerHTML=days[d.getDay()]+' '+d.getDate()+' '+months[d.getMonth()]+' '+d.getFullYear();
- }
- updateClock();setInterval(updateClock,30000);
-
- function loadHistory(){
-  try{
-   var x=new XMLHttpRequest();
-   x.open('GET','history.json?t='+(new Date().getTime()),true);
-   x.onreadystatechange=function(){
-    if(x.readyState===4 && x.status>=200 && x.status<300){
-     try{
-      var rows=JSON.parse(x.responseText),d=new Date(),key=pad(d.getMonth()+1)+'-'+pad(d.getDate()),e=null,i;
-      for(i=0;i<rows.length;i++){if(rows[i].date===key){e=rows[i];break;}}
-      if(e){
-       document.getElementById('historyTitle').innerHTML=e.title||'Australian Service History';
-       document.getElementById('historyText').innerHTML=e.text||'';
-       document.getElementById('medal').innerHTML=e.medalConnection?'Medal connection: '+e.medalConnection:'';
-      }
-     }catch(err){}
-    }
-   };
-   x.send();
-  }catch(e){}
- }
- loadHistory();setInterval(loadHistory,3600000);
-
- function condition(c){
-  if(c===0)return'Clear';if(c===1)return'Mainly clear';if(c===2)return'Partly cloudy';if(c===3)return'Overcast';
-  if(c===45||c===48)return'Fog';if(c>=51&&c<=57)return'Drizzle';if(c>=61&&c<=67)return'Rain';
-  if(c>=80&&c<=82)return'Rain showers';if(c>=95)return'Thunderstorm';return'Current conditions';
- }
- function loadWeather(){
-  try{
-   var x=new XMLHttpRequest();
-   x.open('GET','https://api.open-meteo.com/v1/forecast?latitude=-35.2809&longitude=149.1300&current=temperature_2m,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Australia%2FSydney&forecast_days=1',true);
-   x.onreadystatechange=function(){
-    if(x.readyState===4 && x.status>=200 && x.status<300){
-     try{
-      var a=JSON.parse(x.responseText),c=a.current||{},d=a.daily||{};
-      document.getElementById('wtemp').innerHTML=Math.round(c.temperature_2m)+'&deg;C';
-      document.getElementById('wcond').innerHTML=condition(Number(c.weather_code));
-      var s='';
-      if(d.temperature_2m_min&&d.temperature_2m_max)s+='Today '+Math.round(d.temperature_2m_min[0])+'&deg; - '+Math.round(d.temperature_2m_max[0])+'&deg;<br>';
-      if(d.precipitation_probability_max)s+='Chance of rain '+Math.round(d.precipitation_probability_max[0])+'%<br>';
-      if(c.wind_speed_10m!=null)s+='Wind '+Math.round(c.wind_speed_10m)+' km/h';
-      document.getElementById('wdetail').innerHTML=s;
-     }catch(err){}
-    }
-   };
-   x.send();
-  }catch(e){}
- }
- loadWeather();setInterval(loadWeather,900000);
+(function(){var images=['images/shop-01.jpg','images/shop-03.jpg'],ii=0;function pad(n){return n<10?'0'+n:n}function clock(){var d=new Date(),days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'],months=['January','February','March','April','May','June','July','August','September','October','November','December'];time.textContent=pad(d.getHours())+':'+pad(d.getMinutes());date.textContent=days[d.getDay()]+' '+d.getDate()+' '+months[d.getMonth()]+' '+d.getFullYear()}clock();setInterval(clock,30000);
+function showImage(){if(images.length){heroImage.src=images[ii%images.length];ii++}}function loadImages(){fetch('https://api.github.com/repos/medalmount/medalmount-tv-display/contents/images?ref=main&t='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(f=>{var a=f.filter(x=>x.type==='file'&&/\.(jpe?g|png|webp)$/i.test(x.name)&&Number(x.size)>=200000).sort((a,b)=>a.name.localeCompare(b.name,undefined,{numeric:true})).map(x=>x.download_url+'?v='+x.sha);if(a.length){images=a;ii=0;showImage()}}).catch(()=>{})}showImage();loadImages();setInterval(showImage,12000);setInterval(loadImages,900000);
+function key(){var p=new Intl.DateTimeFormat('en-AU',{timeZone:'Australia/Sydney',month:'2-digit',day:'2-digit'}).formatToParts(new Date()),m='',d='';p.forEach(x=>{if(x.type==='month')m=x.value;if(x.type==='day')d=x.value});return m+'-'+d}var events=[],hi=0;function theme(e){var x=((e.category||'')+' '+(e.service||'')).toLowerCase();if(x.includes('police'))return'POLICE SERVICE HISTORY';if(x.includes('fire'))return'FIRE & RESCUE HISTORY';if(x.includes('ambulance'))return'AMBULANCE & PARAMEDIC HISTORY';if(x.includes('border')||x.includes('customs'))return'BORDER, CUSTOMS & IMMIGRATION HISTORY';return'AUSTRALIAN MILITARY HISTORY'}function showHistory(){if(!events.length)return;var e=events[hi++%events.length];historyKicker.textContent=e.theme||theme(e);historyTitle.textContent=e.title||'Australian Service History';historyText.textContent=e.text||'';medal.textContent=(events.length>1?'Event '+(((hi-1)%events.length)+1)+' of '+events.length+' • ':'')+(e.medalConnection?'Medal connection: '+e.medalConnection:'')}function json(u){return fetch(u+'?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject())}function loadHistory(){Promise.all([json('history-master.json').catch(()=>json('history.json').catch(()=>[])),json('history-first-responders.json').catch(()=>[])]).then(a=>{var k=key(),seen={};events=a.flat().filter(e=>e.date===k).filter(e=>{var s=(e.title||'')+'|'+(e.text||'');if(seen[s])return false;seen[s]=1;return true});hi=0;showHistory()})}loadHistory();setInterval(showHistory,12000);setInterval(loadHistory,3600000);
+function wx(c){if(c===0)return'Clear';if(c<=2)return'Partly cloudy';if(c===3)return'Overcast';if(c===45||c===48)return'Fog';if(c>=51&&c<=67)return'Rain';if(c>=80&&c<=82)return'Rain showers';if(c>=95)return'Thunderstorm';return'Current conditions'}function weather(){fetch('https://api.open-meteo.com/v1/forecast?latitude=-35.2809&longitude=149.1300&current=temperature_2m,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Australia%2FSydney&forecast_days=1',{cache:'no-store'}).then(r=>r.json()).then(x=>{var c=x.current||{},d=x.daily||{};weatherBox.innerHTML='<div class="weather-now">'+Math.round(c.temperature_2m)+'°C</div><div class="weather-condition">'+wx(Number(c.weather_code))+'</div><div class="weather-detail">Today '+Math.round(d.temperature_2m_min[0])+'° – '+Math.round(d.temperature_2m_max[0])+'°<br>Rain '+Math.round(d.precipitation_probability_max[0])+'% • Wind '+Math.round(c.wind_speed_10m)+' km/h</div>'}).catch(()=>{})}weather();setInterval(weather,900000);
+function resolve(c,y){if(c.rule==='firstWednesdaySeptember'){var d=new Date(y,8,1);while(d.getDay()!==3)d.setDate(d.getDate()+1);return d}return new Date(y,c.month-1,c.day)}function upcoming(){json('commemorations.json').then(list=>{var n=new Date(),t=new Date(n.getFullYear(),n.getMonth(),n.getDate()),best=null;list.forEach(c=>{var d=resolve(c,t.getFullYear());if(d<t)d=resolve(c,t.getFullYear()+1);if(!best||d<best.d)best={c:c,d:d}});if(best){var days=Math.round((best.d-t)/86400000),tail=days===0?'Today':days===1?'Tomorrow':days+' days';document.getElementById('upcoming').textContent='COMING UP • '+best.c.name+' — '+best.d.toLocaleDateString('en-AU',{day:'numeric',month:'long'})+' • '+tail}}).catch(()=>{})}upcoming();setInterval(upcoming,3600000);
 })();
-</script>
-</body>
-</html>
+</script></body></html>
