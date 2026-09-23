@@ -11,12 +11,13 @@ header{position:relative;border-bottom:3px solid var(--gold);padding:0 .4vw}.bra
 #hero{border:1px solid var(--line);border-radius:1vh;overflow:hidden;background:#08121d;position:relative;isolation:isolate}
 .hero-bg{position:absolute;inset:-4%;width:108%;height:108%;object-fit:cover;filter:blur(22px) brightness(.38) saturate(.9);transform:scale(1.08);opacity:0;transition:opacity 1s ease;z-index:0}
 .hero-bg.active{opacity:.82}
-.hero-main{position:absolute;inset:0;width:100%;height:100%;display:block;opacity:0;transition:opacity 1s ease,transform .8s ease;z-index:2;object-position:center center}
+.hero-main{position:absolute;display:block;opacity:0;transition:opacity 1s ease,transform .8s ease;z-index:2;object-position:center center}
 .hero-main.active{opacity:1}
-.hero-main.landscape{object-fit:contain;transform:scale(1.01)}
-.hero-main.standard-portrait{object-fit:contain;transform:scale(1.12)}
-.hero-main.narrow-portrait{object-fit:contain;transform:scale(1.24)}
-.hero-main.ultra-narrow{object-fit:contain;transform:scale(1.34)}
+/* Smart hero sizing: preserve wide/frame photos, crop only very tall phone photos. */
+.hero-main.landscape{inset:0;width:100%;height:100%;object-fit:contain;transform:scale(1.01)}
+.hero-main.standard-portrait{inset:0;width:100%;height:100%;object-fit:contain;transform:scale(1.08)}
+.hero-main.narrow-portrait{top:0;bottom:0;left:18%;width:64%;height:100%;object-fit:cover;transform:none}
+.hero-main.ultra-narrow{top:0;bottom:0;left:22%;width:56%;height:100%;object-fit:cover;transform:none}
 #hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,10,18,.34),rgba(3,10,18,.02) 25%,rgba(3,10,18,.02) 75%,rgba(3,10,18,.34));z-index:1;pointer-events:none}
 #hero:after{content:"";position:absolute;inset:0;box-shadow:inset 0 0 3vh rgba(0,0,0,.38);pointer-events:none;z-index:3}
 .grid2{display:grid;grid-template-columns:1.25fr .75fr;gap:1vh}.card{background:var(--card);border:1px solid var(--line);border-radius:1vh;padding:1.1vh;overflow:hidden}.kicker{font-size:1.25vh;color:var(--gold);font-weight:900;letter-spacing:.08em;text-transform:uppercase}
@@ -37,7 +38,7 @@ header{position:relative;border-bottom:3px solid var(--gold);padding:0 .4vw}.bra
 function pad(n){return n<10?'0'+n:n}function clock(){var d=new Date(),days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'],months=['January','February','March','April','May','June','July','August','September','October','November','December'];time.textContent=pad(d.getHours())+':'+pad(d.getMinutes());date.textContent=days[d.getDay()]+' '+d.getDate()+' '+months[d.getMonth()]+' '+d.getFullYear()}clock();setInterval(clock,30000);
 var images=['images/shop-01.jpg','images/shop-03.jpg'],imageIndex=0,activeHero=0,heroMain=[document.getElementById('heroImageA'),document.getElementById('heroImageB')],heroBg=[document.getElementById('heroBgA'),document.getElementById('heroBgB')];
 function shuffleImages(){for(var i=images.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=images[i];images[i]=images[j];images[j]=t}}
-function imageClass(w,h){var r=w/h;if(r>=1.05)return'landscape';if(r>=.72)return'standard-portrait';if(r>=.48)return'narrow-portrait';return'ultra-narrow'}
+function imageClass(w,h){var r=w/h;if(r>=1.05)return'landscape';if(r>=.68)return'standard-portrait';if(r>=.42)return'narrow-portrait';return'ultra-narrow'}
 function preloadImage(src,cb){var img=new Image();img.onload=function(){cb(true,img.naturalWidth,img.naturalHeight)};img.onerror=function(){cb(false,0,0)};img.src=src}
 function showImage(){if(!images.length)return;var src=images[imageIndex%images.length];imageIndex++;preloadImage(src,function(ok,w,h){if(!ok)return;var next=activeHero===0?1:0,cls=imageClass(w,h);heroMain[next].className='hero-main '+cls;heroMain[next].src=src;heroBg[next].src=src;requestAnimationFrame(function(){requestAnimationFrame(function(){heroMain[next].classList.add('active');heroBg[next].classList.add('active');heroMain[activeHero].classList.remove('active');heroBg[activeHero].classList.remove('active');activeHero=next})})})}
 function loadImages(){fetch('https://api.github.com/repos/medalmount/medalmount-tv-display/contents/images?ref=main&t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json()}).then(function(f){var a=f.filter(function(x){return x.type==='file'&&/\.(jpe?g|png|webp)$/i.test(x.name)&&Number(x.size)>=200000}).sort(function(a,b){return a.name.localeCompare(b.name,undefined,{numeric:true})}).map(function(x){return x.download_url+'?v='+x.sha});if(a.length){images=a;shuffleImages();imageIndex=0;showImage()}}).catch(function(){})}showImage();loadImages();setInterval(showImage,12000);setInterval(loadImages,900000);
