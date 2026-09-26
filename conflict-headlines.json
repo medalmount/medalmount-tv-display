@@ -1,45 +1,25 @@
 {
-  "updated": "2026-09-26T06:39:22.909463+00:00",
+  "updated": "2026-09-26T11:46:08.783658+00:00",
   "items": [
+    {
+      "source": "The Guardian",
+      "title": "Ukraine war briefing: Russian attacks force closure of Ukraine’s largest steelmaker",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaE9PR1hsSjJ4YnBYZHdDUHZFdkNWNzRWc2hMTm1hNkRNaWVVMkp2TDJjZk4wZDdsdS1fUjg1WjczdjM2YTVrUDQ4REhYZEl3UnMydmxjSnI1eEV4dGNPcERYZG5BQjZxd0FNZlRCQzVzZmE0R3o0bVVlX1d1Zm1qa3QxcWZ6TTd3VU41Ni00cktQT0doQlZtWGFGZjNJYWdBR0d3TFM3MnByMERONmhpdUxXTzBOSmlYbzExanRR?oc=5"
+    },
     {
       "source": "BBC",
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Z0pMeUNRaTNfWUlMQmJEWE1mcW04c09tZERDRTR0aFRicWJ0b1pLczlhQ2lYMGZDTFlBMXMya3ZrOHdwcmRqTk5PQzZiODFFNndGTm1iT1NBc1U?oc=5"
     },
     {
-      "source": "reuters.com",
+      "source": "Reuters",
       "title": "Iran awaits US move after WSJ report says Trump rejects peace plan",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran says it awaits US response on seven-day roadmap to end war",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnVpY3RpelFjOUdTUl9uajZnRFBZbXdfV3VOR05IZFlnUnJ0cUlSR3pucnFXRXlEdHpMNzRLSkppTjItRWtlTEVrdlp5eXZBaDNjVzQ2OEhKbGZRak5RdmJqVWotTHlVaFozMnNTeG1OWkVqbWZpMVFDdFQ0Mk5XZzFtSnRXMU1CS3o2OE1hbVQwUVhIVXAwWjdkaUFwQXNGZExqMFVEc9IBrAFBVV95cUxNVDQ5M2k2Y0lqNlFkS3F0ajg0bzRYemRVZzZTVHlVaDdTNW5qbnNZX0ZnRTlPNmdaNHh4OWJlVFRnZlkwNUFzb3VPLV9uYlRrOFlyZ2pFc0s1bUQxaWhUS2F6VnBvWXhMVWYxWF9vLWpscGI5Q1BIeXpvNmp6ZTlYVU5mMTk0SGhvVUprNFpKTWJKV1NVRV9iNTFSSkJxeEMwczR3RzVFeVF4dWps?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran pitches seven-day roadmap to end conflict with US",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2p2aDJ4dC1JV2lYaGZXWXBpenhCOEpxVWlubEQxUUZkTEd1VGxMZmJEY0FfdzllbUNGSDZLZEhuY0EwWXNlTk1xcDhNMkRLRGY1RlBoNkkwQzlqc2tUQ1NxRUNtM0hJRXROUjdKdzZuWXFtTTRJUlpEcjJLVkRkTWhIS1A2RnJObFhPYmdERy1EelZFUWFGNmc5b9IBoAFBVV95cUxNVEowcUwwd0U1VGp0TXQ2dGtTMm5RYm1DUy1Xem5ZVzFETzdHZWladVJuZHNWQzljM0l0SVlWUEk2VlJCcy1SWC05YTRZcXhhT0hMWWpINVBrby1RNTJrSHR2a3YzQ0x1U1NERm9MeXdtQlpYN2tfQ191UEkyVk9DQXFWSG16ZDZ5NHhnMkVEa2FfOTZWejVMT1dsZk1NY25a?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVkxsMGJTc3pxUko2WXowbmp4OThtWjZEWTZtc3dxV29RVmRzTWd1SU9pVVlBeFJ5aUhOenFTMkRfZmhRTnlmN1BISXdTSEZpVDBCZDh5cUdhYTByLVhaakpnYVZxYTFVcmJiXzV5ZlVXYUJTejA5N1l1azJlSWVLOG00bmFqdXNGY2dRSDFuNUR2Nzdta1pfTXBWNjN6cnM5UUxwcTFYM3hUdnpTd2VB0gG0AUFVX3lxTE9NMFk0b3JZb01GcHFMSEEyV0NlY2h6SUgzZVBtWmNFZ092NGh4eXZpckdvYWlVcHVJcHdKZmQ0bU5qZXV4MS16N1ZUU2dWQkVQdF9FeldOUHZqOU11SUotZlpfWWlnZDE4YnMxbWpRd2JpcUwwVHhXM3J5OXFDbF9TTktabDNQbEJteTFrNzhGbWFBb3lFaEJVdlpGSUpoTnMyZzFFTkczaXhVRkpMTDRDZ0JJOA?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran pitches US a seven-day end to the war at UNGA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnh0RFBaRFNJM2dmSDBFcnF0Wk9QejVGRG1RWkNPb3g1aTVLSFZDSTVlTnFqQklRTi1aQXVDTUVkaWtLRk9yNGpuR3UwZTRuRWZjSThmei1nQXp6N3F1RHN3NzBEbWNCY2RsMFlYblNReHgzeHFVVXlXV0tiWXpmdzlOSTgySnV4QW1uNmpIYXJoalBUQ2p6bG5Ibk9WY1lKZi1V0gGoAUFVX3lxTFBLUVlxR0dzNWxmR0xoR2J5V3gxbXpOT255UDZaM04zY2R2cHNFRXdmZks3MUVLSHRlOEVxY3Jfd3lrUm5xLUxPYThteVVGXzk1WlBtT0YtQll3dWREMkszR0JzSElTSWVGOXlzSGtMRUZ5WWlGT2tKLWw2WGk1bG5EMmhiQmxfNjVaMW1zc2pzMHhVVFFuVFRfaGlFclVMM2ZyNVZRNW44Mw?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The bombs are still falling. Does diplomacy even work?",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWpBcVEtNEVMbWlCb0xDQ2loY042TDRHTFpBRnRQODJOQ1NUWl94bnZyTWR4OFdIcllpdEtvVTFTODlJUzF4aVJJQlJuSGQ5czNla2d1QVF4YmIwejIwbG4xQWZvWE1OdFpJem9IMjN4X0ZlbnVsN280dWUwWUk5dGNST1p4Y29hMVFKc2l4U1RjQTU3ZEFZeTh0U29HRW5UdU5pUkxR0gGrAUFVX3lxTE5mX2k0THFieWtncW5ILUQxWlRwTmhDV1dZN3NGdnE3X0Jsd1Z0XzZSeTF3azYxU3Z4SlNjVWVVTnllQng4d3JBdWdOaDhOcHhIRjlMM2FONXVZNG1CaU1QTXhMaFoycGl1bGxKbTRwNVoxcGhKM2xHQ2gyTHg3Rzg0dTZVamFnbjR1bmJCeUJiLV91M284cExXaWR2SDFmMGhxRF85RGlQNjhBWQ?oc=5"
-    },
-    {
-      "source": "BBC",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZWVRaRFJ0bE53RDI2YlNCRnRxMXZQNXVqMDZ0LU9IeVNlbUdGNVllTWhIZE9wZHJrZnFvVVBuZHAycFhlRHc5eWVnUFI0MmVNUW5RbHFiTHVQSmM?oc=5"
+      "source": "ABC - Breaking News, Latest News and Videos",
+      "title": "What the US says is in the potential Iran war agreement",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBRNXoyeG92bS03eHJzVTlHMVdtMDJTMGUwZ0JiN25COXlLa0dydHhpVUVTQndLY0JpTkliUEw4WnNzd3Q2Z3hNM0pUbjNUUktHYTFGTGkxTFluS2xLSWhDUlF1eklKTUMwUURUUnJjalZMNEtDQXdqWUFvTWNCaEFDZTdrVWZPUHZV?oc=5"
     },
     {
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
@@ -47,19 +27,19 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVRxX0JNd2VhcEF0UUl2alFEdmRFQWZaUzI4M1YyX0o0azVnd0lfNkJ2cjk3VzFCa1Rmd1JoejAzWGV5SmtEU3VYaUlSRnBjb0pibHVIVHcya3pUQy1WbHc0Z2VNUjljd3ZmU0pxQlplcm9FcGs0bmJ6aUxwYmNKZlQxZ3RWX2JXZWYzUnRzTFRVYkpXWThR?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Yemen’s government offers amnesty to Houthi defectors",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXhIelU4QWx2VjFIX1BJNDN2V1FkcHVQaG0tZGhNMEo5RFhJc0hzUllGSlNVZ0NuUUdJYlB0QWtFemRsV2NxaDRXV1gzcHNVX1lfbnY2R3h0WU9nd0l3blVJdlJiQTM1RVlnQ0JielVOTkxBSzdRRVR5SGJCYzQ2aGFNSlhYRkVtRnJ5b1hRS2VzY1duM3VockFjaEttN1FaNE9GMDB30gGrAUFVX3lxTE93TkZlWE9VWUhsZG9XWHpydGZqRWpyT0FieDdVMDhOU2JpVWt1alBlV3VwWkpXN1N1NXVBV1lPQzVOQWF1S00yVmlzaDJSck5tVlFQT25ORFJWRTVfMDlJX3l3TkVDQjd2bTBPNGVWc1RONnV5dm1Ec2pzM1pzWERBUmtrNFFyQmNUTExQSTBmNE1ac3JhRlBIZTdVUGl1ODBxYWFBUlpVcVZrQQ?oc=5"
+      "source": "BBC",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZWVRaRFJ0bE53RDI2YlNCRnRxMXZQNXVqMDZ0LU9IeVNlbUdGNVllTWhIZE9wZHJrZnFvVVBuZHAycFhlRHc5eWVnUFI0MmVNUW5RbHFiTHVQSmM?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US official claims Trump holds all the cards in Iran talks",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR09qMWh0Q2V2cklqbEVaekxlNjdKMTlld010QVlyc0ZHUFZ1Wld5U05rcURVbnNfZktyRWZOR0piSl9Xc2NTNFBCWkdOMEtXYUpFSzRVNDhwcmVBMFM0Qk0yVEdTc1ZPUjNqcTlXUTg3YVZEZnJwcG9sUkN2aWpxQjdYeV9GQTlyT1JQTkpwaWVlVG01ZEhIS2FoRTJXWVNvSFBNdVlLWFFHamg1SWfSAbMBQVVfeXFMUDBuUVFhVkxxMDJmVC1OM2JWaE4yWVRDaHp0Y0tDbXUxd1ZuSXNyZ1hpeF9nYXRyNmJ1M0lodUZaY3JUNjdiMHdGMmI1TDNLbFJDQlpuWlVOcGN5djIxVk9ndENQUXoxNi1MSk1Cano1NXdHXzBRS3g5QUFzS0JPc3pHUjJBLUZWY1NwM2RkYmNVMExDQVlBUEVvM2tKMjFsZHFDYVJfUVdFTVJXejktYUswNFE?oc=5"
+      "source": "ABC - Breaking News, Latest News and Videos",
+      "title": "Pentagon identifies all 6 American troops killed in Kuwait amid Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmp2d20zWUowWS1zZzhIR2hIaC1VLVdzYXgwMDFaMzB3ZHI0YzlyUUpTQmtLeGJDVTJuZnBsaVJvdFp5bUZxbXg5RkxpV1B3LU0weGpvU2FnOW90aE9sYW1CTEhZR3RITEtEUXVCZDQwVjlVZXhVc0hhckFnOVZoeV9nOVh4czlXNFg00gGQAUFVX3lxTE4zYk5MNVJ5RTh3OWEzSjUzTlZuLXh1Z1ptMVY2cVgwSVpBRDlYUWZQdzdFNWFvbDdITk5XWTk0WVhYYld3ZUhoWGo2UjBRbk5lTFJKM0NuZXpfVEQ3UkdfWmtmSmdMU2dDRmFYWC1nSGZNYVVOV3ptdzRPY19BaHJubWVvNzcyR1RGcFJkN0pKYg?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUVUb1dPTTAzWTJMcllub3MyVmFJR0ZmdkgtV0FJMFF0dDJDaXhIeVhkNzBadkNIVFpHNjVDZ3hGZlVNeTZyai1fZFZSZGhJSTlDZDNUNnNDdFhWQW5wNEpwSXhvbVVnRWo0OVY2eDA3bVI2b05VX25FbkJJZ3hYbGFTdW1WQ0w5ZUVwbVFvRFhLUmlDTVZ6V1Fyc2hvWHZULXBwUXhJN0Izb1ZjVzZLN1Nmd1NPQVJZXzJYUjItYWrSAcYBQVVfeXFMTi1qMGtEUVZzcC1XczB4QjcyNlZxN0tTY1JXYzdLSkxtcGlGVHVLWXdzSmpFSFJZVGpjNGF1RHAwakQtU3VLUjRHbnp6a0lIUWo1VEVjaE5XSW9VZVpKU1JuVnVzcUE3dHA1U0dTUXZWYUJjdUtzSHBXSDExMnlFcmFlLXFoYVl6bUM5cDRTdzkxY0tIYU1NeXM5aFRMU0RxOGwzaUVJWkJlSktjaXZQQUI4S2ZkX0ltZlZyal9vMGRRRkFHWXdn?oc=5"
+      "source": "The Guardian",
+      "title": "Gaza: a week in the life of five ordinary Palestinians",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHctOXhrNG9jcnJ6V1lRUzlRYnZxV0dUaC05TjNWMUFnRmlXLTJHMEtUMW5vcjhiajAtRVB1OUVHT2h3MkRHRmh6c21EQmNnR2hkSy03UzB4UjQtczdJUWtSdzUzXzJHS243SHZFQVQ2Y3ZOTUkyUWxMd29tN3VOZzV3NEFlWWs4N2NSSU5ORGpjSkF5MWc5WjJ5T2FXWUNMUlFOOHl1bGpOSWxPakZMV25lUHFIXzdWR0ZZTHQ5emdIdWZuNXc?oc=5"
     },
     {
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
@@ -67,29 +47,49 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakZxSW9ERzFXanF6NHNpR08tZWFoUURDdFM1cDBONHFqbmZCcXFIclp5Y2lyTWc5T1ZDdVNEYmJFdWVmbnloRWt1NDRsT2xpajFTQTdMdWd6bFhBUTk5NFBWbk5xd2xhbWpoWjNrT2xrSlViYUhfZ3k0YVhHT2lrNEpwN052OXVfQ29QNW1lMmpVUQ?oc=5"
     },
     {
-      "source": "reuters.com",
+      "source": "The Guardian",
+      "title": "Russia strikes at heart of Ukraine’s digital economy with attacks on ISPs and datacentres",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMFZzTTAzQmk1clp6dXVfVkdFRXlINHprUmhNX291cGhrN1ZZeUFybmJONGRybTRYS0EwYkFibFNEUTZTejJ1Rk5ZX1FPQnNTMWtjLVRfRlp0UFFkdm84OFE4TUlnODRrVmpqY3ViWW5aZnpzOVUwNlhRS0pnRFFldWpvSUpMR0dkekxUWGNuMi1NT1pVaWxzVF9WNF9wcmltVHY0YmJ1aTZjMTVGQlE?oc=5"
+    },
+    {
+      "source": "Reuters",
       "title": "Trump warns Xi over Chinese support for Iran, receives assurances, US envoy says",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NaNENZd05ESDQwSFdrTGwyLUtGX3NzT1NiR0tzbWwtM282dHRxbkxLYTk2b1Rkd01xQldYM2ItTlNRV01wbnhDMWpZVkliRnBhMlFWYVg1VHh6bjRCVkQwVGFFamhhWWpJa0p5aHlVRkJpblI1UUZJeDN6VFg1Z1hhdGFBSklFN2ZyVjZ0b1IyNUpoMU5GN0tmTlZPMExVNFppU2ZSRGFwcW1QSElZaktmS3pXSElm?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3BOU1I4TUt3UUlvajhXS1MtVjcyZ2F5aE5iek9wY2FmZDltcHVZX1RUSVNZUzNGbmYtTmtRMW5mdk1oa09HbXdGMlQ4MzhFRDAxOXRIMUJuaWE0ZmUycEV6MS13NVJ0XzJReUIwY1BieFNGVmlpQ25aVC1lVGk0MUZ1ZWhLdFMwb0kydml0YWJNWkpCUk9acklPcTRwZk16MzNGRnBsd3JId0RGWjZ3cVZic2TSAboBQVVfeXFMTWQxd09PT1pxVnBldEJKbGVsOURZSzRaWmhTODNkd1BMb0drMHJHSy1USDc0OWFHMU1DSWhCbmR1ZzFyYmVoVmF3Y2hsWXVwUUY1ZkJFdVhEN3MwMnJicWJHRXJkbl9DV00zOG5pcVc2UHJsNDk4ZXlRTXk0X3hRd1c0M1BKQkt0SXctZ3ZHdjZFay15TlJhME5sWmxtMXlmN1lwS2NVQ0ExdGNrbzVLZGhYZTZEMm5BUUZR?oc=5"
+      "source": "The Guardian",
+      "title": "It’s not hypothetical: the dangers of AI are already here | Granate Kim and Mohamed Hussein",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlFsMUMwdGFTNERSMFloX1ZhQWlJRmZrcGlZZzIwbUp4RWFsRmhJTU5mNk45dURrbHllTzBneFJ4WThMT1l2M2EzS3kxMHM5bXdqd2FzbEdTVjhXTHNBNng0Si0wX0NlMl9VR3JEX2Jxc0NWbXlBOXBGVjlDRWlUanpQZEhBeXFCdTlORmdGc0Vpc0Z3bV9pWQ?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2xFaWdOdi1Kc3EzbjQ5X2RNQWpHTy1pVGdtbVdteENBWnp3SHQyeWNLQTVwR01DZ19FYy1zTlI2VERVYmY2TDFyWjZwTFlPVTZCM2h6ZUl0YUdhTjR5Y2ItZDZxUjN0MXdLS0VwVkYxcGFJeXdGc3NZX3haVi1ObTByZGoyVGVvZUNZcHI1NEVZcWhGd2Uya1dxMXY5RUJ5dmtlbGQxdk9VWWRacW4wN1c0d0NsZDdw0gG-AUFVX3lxTE5PbnhReVJ2Rzk5REJhV2VEZFVCV0t6Szg1ampib3NNazFLU1FPLVgzb0NPZEhpa1NOX3VJdGt3VV9HVHNwejNIOTZ0SkZVdThQaWY5RlNzVjFnYTRpNlh5ZkQxejFwc3dNdF9aaUZsMWtVajMwZzVvV1piQ2JtNDlwOUVGRC10TjlMVXdrd3R1dE4ydHlWLXgtblFmTFM0eDNCbm12eU4yX1dGS3E3SjBNUkFkazF1NHRmWUdDZUE?oc=5"
+      "source": "Reuters",
+      "title": "Saudi coalition says it intercepts Houthi missiles, drones",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdndqUFdtd2J6b19yZlhhZjlOZXVBYkNvYjVtTjQzYUxlRTVldkZHbjdQdDQtMGI0ZFEwSEY2MTc1OHNTcWJHUXJCbFJjSlpFb0o3blUxMTRBQWZncEVZaEZiMEdJbU9ZOGZIbUFxQzB3SGduZFZ2ZGFDYWNoZEtqVTd0QXRVZUc2UHRXMnpjUi1XM0d0a3dXcDg3ZFRqd2xsWHdzVXlhOXhMMDlQeHlpcEFXWjNncEZWbnBxZ0NaLXI?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXpuZXlWNU11X2ZYd0llREtTTEo1R2tfbU1vblhhcGkzNGZtZ0Q2S05kS1dyeS1jcTlFUFlKTVJWenZHVWl4ckxYTjRwSVhlUmVwbTkxa3NuNFBleW1yMU5mOExaSm9vY09hUkxHSGZVVmczanVjcXA2dUdjWE00WHhlTjJlRTFpSEpwbVhfNEZJTElnUXFTYVE2NUJ4MDViaGlBUkJqaFNfVFB6WDBLeU1n0gG3AUFVX3lxTE9yWExOTy00WklNbEJfY25EdFFPWm1lQkVLTklaQjF6Y1p1MmtBVmtnWWpCQkNqeFlPNWRJdWVJY005VHkyeDVuNjhKWDJ4WWdtak5EZXZCR2hHUXcxUmNqbU5pZ0lWX2xGdmR2X0lZX0U2ZGxjWEdiWUJMVXd5bk1manhKSGtWdGNDYnhLZVhIMl9TOWpITUh3c3ByX1J5RjM1NVR6SVJVZFlobFc3N3R0VVR1M1VlZw?oc=5"
+      "source": "ABC - Breaking News, Latest News and Videos",
+      "title": "Congress passes war powers resolution, offering rare rebuke of Trump",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEpXUXF3dk5ZN0s1TWFWa3RVQVZHTXU3d0QwNkFzUTJFTXZDeW00SHY2YklyeFUzRnN1ZWpMR29qVmF3SXVoUDBIazU5MXh1TDVJcHNISmY0UTVQNnQxU3RjVGYtYmhYaXZMOEh2LTgxdTdDY2lRT2UzN2lIVDVQVTFtWTh2V0p1cXJ0b3JYbWhzOTBMdHFfN3Z4TVlhdUxPbkNWMzh6TC1yTXEt0gGyAUFVX3lxTE01Y0Z1RkdWT1NwS2RBOVBONjN2OTg1TnZLMjdRLWR3WnBFRC00N2JmeUNyUzlQZk4wTDIzSndxWWZyRWp5VjJLUVl1Z1A1cDU5MGZ2Ynkzdy1WVGt0aU4wRFFkN3VTNUY3bVk3U3VpLWVDUlVkd1ZSak1JSjJpall1cC1lakJPQTk4TTROMjVXS3AwdjY4d25Lb2RzTjZOcGVDNjRCcnpvZl9YVDdrSjFOeGc?oc=5"
+      "source": "ABC - Breaking News, Latest News and Videos",
+      "title": "More Republicans running in close races calling for end to Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORm1LZmp4YjU2c0xBaFRMcGZETmVtVHdEUEJlcUFqX0dhR0Z4cXpsdVdlbXBuRDFCT0RteFhrWXRsdXhoUXF5NDkyTTd4M3hINElrVEV5RUFPUUk1U21KeGlZVHZGT2VicWZhQ3VVS0xzNGdPdy1nSnMwWnh4amJ3UF9IVTltVThCbXJDUzU0Q3RsQTBEX3BMWFpXUXJ5dFFfc2fSAacBQVVfeXFMUGpxdG1nYU12b1FrMFpKSlQtbFpIYUN3dmc3ZzdueUVQbFlTZGJpTnVnNkhsM1dHQzF0OXUwazdCejhPX0FlVGd1R3l2V3hlT3VXeURkSFVQMFhRaEtOX25YbXdFSDhxTndlY01xLUFmam1ZWmoxUUlfMUdSZXdtb01HUzFCOXJseXRnNERHX25tN1VBQmg0dXlacVVOdE5qbnphSHlyUTg?oc=5"
+    },
+    {
+      "source": "AP News",
+      "title": "7 dead as Russia, Ukraine exchange strikes and aerial war intensifies",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDNsMG0xZTVncEU0MmMwRkdBUEVLNTZSM2V5cEdxMzROUUdIV0M3YmxFTnNiYjdCTVl4c0JaNFRLenhHTmFndWpjNWVWSl9qV0xGNWt1OUVCZHpSYzBCNFZldkhXdG5Oazl5RVlCTFdwNWY3X0JLbTc1TUtQX2VXTmVmYVhnTldZM19JVkpUaV9UZDV2eE5r?oc=5"
+    },
+    {
+      "source": "AP News",
+      "title": "Iran proposes a deal to reopen the Strait of Hormuz in 7 days if the US meets its conditions",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNElSLUJIM2lSSWJPendCMnQ4Q252MkdGeXFPT0t2R1VHN2tIaFlzdEZPNWhWZUhfdW4ySjdnZF8tal9vblVkNERSNm5hOHlzelVYZk44VXNhSGI4TVpwcnF0Z1hrQVBsdC02OUNGLW0yeG15N2FsT3dMb29NZ1dXR2FPSU5xRW5BOHIyQ2JuMktWYXBsMlR5ZDlxM2lOeTQ?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "Republic of Ireland news conference delayed before controversial Israel game",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vNzlNRVA1YWFGeGhHcll1UHhGeDRyVXRvdWhDeHBaX2diVkxYQ2lkS0Q0QzBuOEx6Q2FLenoxXzRZLW5wUDVObklfLU84ZEVBbFZEWmRyQTdoZ2pSQTNHVVNxZTN5YkNLU29J?oc=5"
     }
   ]
 }
