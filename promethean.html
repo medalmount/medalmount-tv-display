@@ -63,6 +63,7 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
 (function(){
   var player=document.getElementById('abcPlayer'),fallback=document.getElementById('streamFallback');
   function playerCommand(func){player.contentWindow.postMessage(JSON.stringify({event:'command',func:func,args:[]}),'https://www.youtube.com')}
+  setTimeout(function(){fallback.hidden=true},10000); // Always reveal the embedded player, even if it sends no events.
   player.addEventListener('load',function(){
     fallback.hidden=true; // Expose YouTube's own Play button if autoplay is blocked.
     player.contentWindow.postMessage(JSON.stringify({event:'listening',id:'abcPlayer'}),'https://www.youtube.com');
