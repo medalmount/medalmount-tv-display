@@ -48,7 +48,7 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
   <main id="main">
     <section class="card" id="news" aria-label="ABC News live stream">
       <div class="news-head"><b>ABC NEWS AUSTRALIA • LIVE</b><a href="https://www.abc.net.au/news/newschannel" target="_blank" rel="noopener">Open official live stream ↗</a></div>
-      <div class="video-box"><iframe id="abcPlayer" title="ABC News Australia live" src="https://www.youtube.com/embed/live_stream?channel=UCVgO39Bk5sMo66-6o6Spn6Q&amp;autoplay=1&amp;playsinline=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fmedalmount.github.io" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><div id="streamFallback" class="stream-fallback"><strong>ABC NEWS AUSTRALIA</strong><span>Live video is starting. If it does not play here, open ABC’s official stream.</span><a href="https://www.abc.net.au/news/newschannel" target="_blank" rel="noopener">OPEN ABC LIVE NEWS ↗</a></div></div>
+      <div class="video-box"><iframe id="abcPlayer" title="ABC News Australia live" src="https://www.youtube.com/embed/live_stream?channel=UCVgO39Bk5sMo66-6o6Spn6Q&amp;autoplay=1&amp;mute=1&amp;playsinline=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fmedalmount.github.io" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><div id="streamFallback" class="stream-fallback"><strong>ABC NEWS AUSTRALIA</strong><span>Live video is starting. If it does not play here, open ABC’s official stream.</span><a href="https://www.abc.net.au/news/newschannel" target="_blank" rel="noopener">OPEN ABC LIVE NEWS ↗</a></div></div>
     </section>
     <aside id="side">
       <section class="card" id="hours"><div class="kicker">Hours of Operation</div><h2>SHOP HOURS</h2><div class="row">Monday <b>1500–1900</b></div><div class="row">Thursday <b>1500–1900</b></div><div class="row">Saturday <b>1100–1500</b></div><div id="appt">Outside hours by appointment</div></section>
@@ -75,10 +75,11 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
       if(msg.event==='onReady'){
         player.contentWindow.postMessage(JSON.stringify({event:'command',func:'addEventListener',args:['onStateChange']}),'https://www.youtube.com');
         player.contentWindow.postMessage(JSON.stringify({event:'command',func:'addEventListener',args:['onError']}),'https://www.youtube.com');
-        playerCommand('unMute');
+        playerCommand('mute');
         playerCommand('playVideo');
         fallback.hidden=true;
       }else if(msg.event==='onStateChange'){
+        if(Number(msg.info)===1)playerCommand('unMute'); // Restore audio once the muted stream is playing.
         fallback.hidden=true; // Leave the native player accessible when paused or autoplay is blocked.
       }else if(msg.event==='onAutoplayBlocked'){
         fallback.hidden=true;
