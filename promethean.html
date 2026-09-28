@@ -62,8 +62,30 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
 <script>
 (function(){
   var player=document.getElementById('abcPlayer'),fallback=document.getElementById('streamFallback');
-  player.addEventListener('load',function(){player.contentWindow.postMessage(JSON.stringify({event:'listening',id:'abcPlayer'}),'https://www.youtube.com')});
-  window.addEventListener('message',function(event){if(!/^https:\/\/(www\.)?youtube(-nocookie)?\.com$/.test(event.origin))return;try{var msg=JSON.parse(event.data);if(msg.event==='onReady'){player.contentWindow.postMessage(JSON.stringify({event:'command',func:'addEventListener',args:['onStateChange']}),'https://www.youtube.com');player.contentWindow.postMessage(JSON.stringify({event:'command',func:'unMute',args:[]}),'https://www.youtube.com')}if(msg.event==='onStateChange'&&msg.info===1)fallback.hidden=true;else if(msg.event==='onStateChange'&&(msg.info===0||msg.info===2))fallback.hidden=false}catch(e){}});
+  function playerCommand(func){player.contentWindow.postMessage(JSON.stringify({event:'command',func:func,args:[]}),'https://www.youtube.com')}
+  player.addEventListener('load',function(){
+    fallback.hidden=true; // Expose YouTube's own Play button if autoplay is blocked.
+    player.contentWindow.postMessage(JSON.stringify({event:'listening',id:'abcPlayer'}),'https://www.youtube.com');
+  });
+  window.addEventListener('message',function(event){
+    if(!/^https:\/\/(www\.)?youtube(-nocookie)?\.com$/.test(event.origin))return;
+    try{
+      var msg=JSON.parse(event.data);
+      if(msg.event==='onReady'){
+        player.contentWindow.postMessage(JSON.stringify({event:'command',func:'addEventListener',args:['onStateChange']}),'https://www.youtube.com');
+        player.contentWindow.postMessage(JSON.stringify({event:'command',func:'addEventListener',args:['onError']}),'https://www.youtube.com');
+        playerCommand('unMute');
+        playerCommand('playVideo');
+        fallback.hidden=true;
+      }else if(msg.event==='onStateChange'){
+        fallback.hidden=msg.info!==-1; // Leave the native player accessible when paused or autoplay is blocked.
+      }else if(msg.event==='onAutoplayBlocked'){
+        fallback.hidden=true;
+      }else if(msg.event==='onError'){
+        fallback.hidden=false;
+      }
+    }catch(e){}
+  });
   var time=document.getElementById('time'),date=document.getElementById('date');
   var upcoming=document.getElementById('upcoming'),tickerText=document.getElementById('tickerText'),tickerLabel=document.getElementById('tickerLabel');
   function json(path){return fetch(path+'?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw Error(path);return r.json()})}
