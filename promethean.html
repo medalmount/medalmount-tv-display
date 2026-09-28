@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Medal Mounting — Promethean Display</title>
+<style>
+:root{--navy:#071526;--panel:#10253b;--line:#34536e;--gold:#d5aa45;--white:#f7f9fb;--muted:#c5d0da}
+*{box-sizing:border-box}
+html,body{width:100%;height:100%;margin:0;overflow:hidden;background:var(--navy);color:var(--white);font-family:Arial,Helvetica,sans-serif}
+#screen{width:100vw;height:100vh;padding:1.5vh 1.5vw;display:grid;grid-template-rows:10vh 5vh minmax(0,1fr) 6vh;gap:1vh;background:linear-gradient(145deg,#071526,#0c2140 60%,#071526)}
+header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justify-content:space-between;min-width:0;padding:0 .6vw}
+.brand{font-size:3.65vw;font-weight:900;line-height:1;letter-spacing:.025em;white-space:nowrap}
+.tag{font-size:1.2vw;color:var(--muted);margin-top:.4vh}
+.clock{text-align:right;white-space:nowrap}.time{font-size:2.9vw;font-weight:900;line-height:1}.date{font-size:1.15vw;color:var(--muted);margin-top:.35vh}
+#upcoming{border:1px solid var(--line);border-radius:.6vh;background:#122a48;display:flex;align-items:center;justify-content:center;overflow:hidden;white-space:nowrap;padding:0 .8vw;color:#ffd928;font-size:1.9vw;font-weight:900}
+#main{min-height:0;display:grid;grid-template-columns:minmax(0,2.4fr) minmax(0,1fr);gap:1vw}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:.7vh;min-width:0;min-height:0;overflow:hidden}
+.kicker{font-size:1.05vw;color:var(--gold);font-weight:900;letter-spacing:.06em;text-transform:uppercase}
+#news{display:flex;flex-direction:column;background:#08121d}
+.news-head{height:5.5vh;flex:none;display:flex;align-items:center;justify-content:space-between;padding:0 1.2vw;background:#122a48;border-bottom:1px solid var(--line)}
+.news-head b{font-size:1.55vw}.news-head a{color:#ffd928;font-size:1.1vw;font-weight:700;text-decoration:underline}
+.video-box{position:relative;flex:1;min-height:0;display:flex;align-items:center;justify-content:center;background:#020609}
+.video-box iframe{width:100%;height:100%;border:0;background:#020609}
+#side{min-height:0;display:grid;grid-template-rows:repeat(4,minmax(0,1fr));gap:.8vh}
+#side .card{padding:1vh 1vw}
+#hours h2{margin:.35vh 0 .45vh;font-size:1.75vw;line-height:1}
+#hours .row{font-size:1.17vw;line-height:1.26;display:flex;justify-content:space-between;gap:.5vw}
+#appt{font-size:.85vw;color:var(--muted);margin-top:.25vh}
+#weather h2{font-size:1.6vw;margin:.15vh 0}.weather-data{display:flex;align-items:baseline;gap:1vw}.weather-now{font-size:3vw;font-weight:900}.weather-condition{font-size:1.25vw;font-weight:700}.weather-detail{font-size:.95vw;color:var(--muted);margin-top:.3vh}
+#historyTitle{font-size:1.5vw;line-height:1.08;font-weight:800;margin:.35vh 0}
+#historyText{font-size:1vw;line-height:1.18;color:#eef3f7;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+#contact{display:flex;align-items:center;gap:1vw}.qr{text-align:center;flex:none}.qr img{display:block;width:9.5vh;height:9.5vh;background:#fff;border:2px solid var(--gold);border-radius:.4vh;padding:.2vh}.scan{font-size:.65vw;color:#ffd928;font-weight:900;margin-top:.2vh}
+.web{font-size:1.4vw;color:var(--gold);font-weight:900;white-space:nowrap}.phone{font-size:1.15vw;margin-top:.45vh}.small{font-size:.85vw;color:var(--muted);margin-top:.4vh}
+#ticker{display:flex;align-items:center;overflow:hidden;background:#0b1c31;border:1px solid var(--gold);border-radius:.3vh}
+.ticker-label{align-self:stretch;display:flex;align-items:center;justify-content:center;flex:none;padding:0 1vw;background:var(--gold);color:#071526;font-size:1.45vw;font-weight:900;white-space:nowrap}
+.ticker-window{min-width:0;flex:1;overflow:hidden;white-space:nowrap}.ticker-text{display:inline-block;padding-left:100%;font-size:1.45vw;font-weight:800;animation:scroll 84s linear infinite}@keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-100%)}}
+@media (max-aspect-ratio:1.5){#main{grid-template-columns:minmax(0,1.7fr) minmax(0,1fr)}.brand{font-size:3vw}.web{font-size:1.15vw}}
+</style>
+</head>
+<body>
+<div id="screen">
+  <header><div><div class="brand">MEDAL MOUNTING</div><div class="tag">Military • Police • First Responders • Families</div></div><div class="clock"><div class="time" id="time">--:--</div><div class="date" id="date">Loading date…</div></div></header>
+  <div id="upcoming">COMING UP • Loading commemorative date…</div>
+  <main id="main">
+    <section class="card" id="news" aria-label="ABC News live stream">
+      <div class="news-head"><b>ABC NEWS AUSTRALIA • LIVE</b><a href="https://www.abc.net.au/news/newschannel" target="_blank" rel="noopener noreferrer">Open official live stream ↗</a></div>
+      <div class="video-box"><iframe title="ABC News Australia live" src="https://www.youtube.com/embed/live_stream?channel=UCVgO39Bk5sMo66-6o6Spn6Q&amp;autoplay=1&amp;mute=1&amp;playsinline=1" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    </section>
+    <aside id="side">
+      <section class="card" id="hours"><div class="kicker">Hours of Operation</div><h2>SHOP HOURS</h2><div class="row">Monday <b>1500–1900</b></div><div class="row">Thursday <b>1500–1900</b></div><div class="row">Saturday <b>1100–1500</b></div><div id="appt">Outside hours by appointment</div></section>
+      <section class="card" id="weather"><div class="kicker">Local Weather</div><h2>CANBERRA</h2><div id="weatherBox">Updating current conditions…</div></section>
+      <section class="card" id="history"><div class="kicker" id="historyKicker">Australian Service History</div><div id="historyTitle">Remembering those who served</div><div id="historyText">Remembering Australians who have served in defence, police and emergency services.</div></section>
+      <section class="card" id="contact"><div class="qr"><img src="qr-medalmount.svg?v=20260924-valid-qr-1" alt="Scan to visit medalmount.com.au"><div class="scan">SCAN TO VISIT</div></div><div><div class="web">medalmount.com.au</div><div class="phone">02 6179 7545</div><div class="small">Appointments available via the website</div></div></section>
+    </aside>
+  </main>
+  <div id="ticker"><div class="ticker-label" id="tickerLabel">CONFLICT NEWS</div><div class="ticker-window"><div class="ticker-text" id="tickerText">Loading current conflict headlines…</div></div></div>
+</div>
+<script>
+(function(){
+  var time=document.getElementById('time'),date=document.getElementById('date');
+  var upcoming=document.getElementById('upcoming'),tickerText=document.getElementById('tickerText'),tickerLabel=document.getElementById('tickerLabel');
+  function json(path){return fetch(path+'?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw Error(path);return r.json()})}
+  function sydneyParts(options){return new Intl.DateTimeFormat('en-AU',Object.assign({timeZone:'Australia/Sydney'},options)).formatToParts(new Date())}
+  function part(parts,name){for(var i=0;i<parts.length;i++)if(parts[i].type===name)return parts[i].value;return''}
+  function clock(){var n=new Date();time.textContent=new Intl.DateTimeFormat('en-AU',{timeZone:'Australia/Sydney',hour:'2-digit',minute:'2-digit',hour12:false}).format(n);date.textContent=new Intl.DateTimeFormat('en-AU',{timeZone:'Australia/Sydney',weekday:'long',day:'numeric',month:'long',year:'numeric'}).format(n)}
+  clock();setInterval(clock,30000);
+  function sydneyDay(){var p=sydneyParts({year:'numeric',month:'2-digit',day:'2-digit'});return {year:Number(part(p,'year')),month:Number(part(p,'month')),day:Number(part(p,'day'))}}
+  function eventDate(e,year){if(e.rule==='firstWednesdaySeptember'){var d=new Date(Date.UTC(year,8,1));while(d.getUTCDay()!==3)d.setUTCDate(d.getUTCDate()+1);return d}return new Date(Date.UTC(year,e.month-1,e.day))}
+  function loadUpcoming(){json('commemorations.json').then(function(list){var n=sydneyDay(),today=new Date(Date.UTC(n.year,n.month-1,n.day)),best=null;list.forEach(function(e){var d=eventDate(e,n.year);if(d<today)d=eventDate(e,n.year+1);if(!best||d<best.date)best={item:e,date:d}});if(!best)throw Error('No events');var days=Math.round((best.date-today)/86400000),when=days===0?'Today':days===1?'Tomorrow':days+' days';upcoming.textContent='COMING UP • '+best.item.name+' — '+new Intl.DateTimeFormat('en-AU',{timeZone:'UTC',day:'numeric',month:'long'}).format(best.date)+' • '+when}).catch(function(){upcoming.textContent='COMING UP • Commemorative dates temporarily unavailable'})}
+  loadUpcoming();setInterval(loadUpcoming,3600000);
+  function condition(c){if(c===0)return'Clear';if(c<=2)return'Partly cloudy';if(c===3)return'Overcast';if(c===45||c===48)return'Fog';if(c>=51&&c<=67)return'Rain';if(c>=80&&c<=82)return'Rain showers';if(c>=95)return'Thunderstorm';return'Current conditions'}
+  function loadWeather(){fetch('https://api.open-meteo.com/v1/forecast?latitude=-35.2809&longitude=149.1300&current=temperature_2m,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Australia%2FSydney&forecast_days=1',{cache:'no-store'}).then(function(r){if(!r.ok)throw Error('Weather');return r.json()}).then(function(x){var c=x.current||{},d=x.daily||{};document.getElementById('weatherBox').innerHTML='<div class="weather-data"><span class="weather-now">'+Math.round(c.temperature_2m)+'°C</span><span class="weather-condition">'+condition(Number(c.weather_code))+'</span></div><div class="weather-detail">Today '+Math.round(d.temperature_2m_min[0])+'°–'+Math.round(d.temperature_2m_max[0])+'° • Rain '+Math.round(d.precipitation_probability_max[0])+'% • Wind '+Math.round(c.wind_speed_10m)+' km/h</div>'}).catch(function(){document.getElementById('weatherBox').textContent='Weather temporarily unavailable'})}
+  loadWeather();setInterval(loadWeather,900000);
+  function loadHistory(){Promise.all([json('history-master.json').catch(function(){return json('history.json').catch(function(){return[]})}),json('history-first-responders.json').catch(function(){return[]})]).then(function(data){var n=sydneyDay(),key=('0'+n.month).slice(-2)+'-'+('0'+n.day).slice(-2),items=data[0].concat(data[1]).filter(function(e){return e.date===key});var e=items[0];if(e){document.getElementById('historyKicker').textContent=e.category||'Australian Service History';document.getElementById('historyTitle').textContent=e.title||'Australian Service History';document.getElementById('historyText').textContent=e.text||''}else{document.getElementById('historyKicker').textContent='Australian Service History';document.getElementById('historyTitle').textContent='Remembering those who served';document.getElementById('historyText').textContent='Today we recognise Australians who have served in defence, police and emergency services.'}}).catch(function(){document.getElementById('historyText').textContent='Service history temporarily unavailable'})}
+  loadHistory();setInterval(loadHistory,3600000);
+  function loadNews(){json('conflict-headlines.json').then(function(feed){var updated=Date.parse(feed.updated),items=feed.items;if(!isFinite(updated)||Date.now()-updated>36*60*60*1000||!Array.isArray(items)||!items.length)throw Error('Stale headlines');var seen={},out=[];items.forEach(function(x){var title=String(x.title||'').replace(/\s+/g,' ').trim(),source=String(x.source||'News').trim();if(!title||seen[title.toLowerCase()])return;seen[title.toLowerCase()]=true;out.push(source+' — '+title)});if(!out.length)throw Error('Empty headlines');tickerLabel.textContent='CONFLICT NEWS';tickerText.textContent=out.slice(0,10).join('   ◆   ');tickerText.style.animation='none';void tickerText.offsetWidth;tickerText.style.animation=''}).catch(function(){tickerLabel.textContent='NEWS';tickerText.textContent='Current conflict headlines temporarily unavailable • The display will retry automatically'})}
+  loadNews();setInterval(loadNews,15*60*1000);
+})();
+</script>
+</body>
+</html>
