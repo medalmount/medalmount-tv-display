@@ -78,7 +78,7 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
         playerCommand('playVideo');
         fallback.hidden=true;
       }else if(msg.event==='onStateChange'){
-        fallback.hidden=msg.info!==-1; // Leave the native player accessible when paused or autoplay is blocked.
+        fallback.hidden=true; // Leave the native player accessible when paused or autoplay is blocked.
       }else if(msg.event==='onAutoplayBlocked'){
         fallback.hidden=true;
       }else if(msg.event==='onError'){
