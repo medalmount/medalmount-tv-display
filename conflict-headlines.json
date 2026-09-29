@@ -1,45 +1,40 @@
 {
-  "updated": "2026-09-29T09:01:34.772045+00:00",
+  "updated": "2026-09-29T15:45:58.592612+00:00",
   "items": [
+    {
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "Israeli air strike kills Hamas leader in Gaza",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3V2bVlqUWxMR0hNSWdUZGhSR0hmWUVCTmdkZGJLMUtVLUIzazZFLXpQbXZmUi1zYXFMN0swRjJmZEJPaWlrb0gwNERlbWROVjF6dEFoZUZ6ams1X214VnkyeDBKU2g4eDZuaWRXUHBMSWRmU0lYOXpTQWxJZ3BlSnFFdmV6RUk0MzRNVmpEdGtpdkx3Z3ZhUWpR?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0plS3dOVGxvMGYwcjU3bXo3UXdfaWtiaGpOTmxEZ3VyVUpIV0luR0RDQ2s5TUplb0JPYV9lOHgzVEQ4eW9LZjlNNHdPODJIcEZ2RWxQY1E3cDJLbXRHc2ZNRTVOTXUwREthUG1VeEstTXdiRDFXdGhTZE5pT3VYaEg0TnI0cndlTktObl9UYVFkeHdvdzdLb3BvRDJVUWdFTnc?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Using old election playbook, Netanyahu projects image as Israel's protector despite Hamas attack",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGhLcllsckhTZ1ZsYzVwdzc1V2p5UWhmZFpSa2xJbVhmNTJXckNxVTE2ckkzcGl0N25US0JaTjFId1hMZHFSelBoUWx0Y0VvNEZlVWstOWp1b2F0Wm5fOEZVNW1GRkIwbHYyaE1QSmRkSnpuNVo2UkJ5SHZpT094a0xkcmFKaE5GLU53U3hPTlVqWjFoNjRMUWY5cWRyN0pxa3BhUGU3My0tNEN4bTE1MTVVZXVKQTNTTG1FYl9oNE1MLVBUUkVCSHRIcS0?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US-Iran talks in New York: What’s the latest?",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNG50cEdnZFdwcmRTQkdwbjhYcWdINUtIWndKTW9Nb2ZkeG0xeU9XWG5fMmI3SUFKUE1LMHVFRU5QYWFENG9IbEtNVlhhLVRtVkNuSzlCT1ZhS1g1ZWJVX2VtUUNQMGdxREU0VW02Z0NBNFZRZ04zVUMtNjY0Y2VOOWEzWnZkc2FkWlJN0gGQAUFVX3lxTE5uV2c4R2U5c0FJRHFIazhwQU5ILWJBS1BnLXkyRkdXM29YSzdFUFlYVzZmY2dUSDNraHRESExaVUZLUjh4SWlvT21kaEJSNGJyOVlsYnQydlhsMUZOUWI2U05fSktNQkZ1UnZtTVZvLUk5elN1am8yT01DSThyOXBaUENENmlESzdxeEg5emhUUQ?oc=5"
+    },
+    {
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "VIDEO: Trump under pressure to end Iran War as oil supply depletes",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEZ6cXFabThtMlhIdEpMdnVZZEZYQnZ4MFRkWEN2WGtiX2plaWxZWFhDYWlvZWdSVEZhaFR4dkRzTVdTMTBYYlFUbGxfdDhOWDFPbmVPWTlLQURZc0thSEYzUzh2MG45Qy03djQycjdrUjRDMXcyZGxHZzNSMW1WbGR1aEVQcWVfVE9ydkYya0F1blVxLUlhM1pZTVdERVBnYjFNSjJoQlhHM0p6N0dyUFpMYThQUjdZVV9ETmFsM1JTeU1KSkxsMEhB?oc=5"
+    },
     {
       "source": "The Guardian",
       "title": "Why is South Korea so angry with Ukraine over two North Korean prisoners of war?",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGRFTGhTTXdPVk5HVTNTTl95QWhTeUR6elkwbDZoVDRJcjJCRkJVbW0xVDlsbnUwREo1VGdEb3NGQ3VpeWxOU1Bfc0ZaRXhjWk5neGxqMVpyemdfQlRYUThZWEJSVEhTZGhRUi1VVjE5OWlncnVYTHZ3VzVrMG5KUDJrNjVWSkxfSmZxTlhpRm1oNHlBM2ptc0pMMERCWllxQmVlbkhiemtaZElmN1d2TTBn?oc=5"
     },
     {
-      "source": "Reuters",
-      "title": "US forces exit Iraq after two decades, leaving opening for Iran",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalJlU2twR3RkNzhyVlFwZmJkZmg3RXQ3VEpxTFowU2dhY1pEeG8wZWlLQ2NVb0lNUERZQXRSdThEbWdxdGx6aExDVkFGNHdUVkZwRFlSclVvYWxEVk5wTFlYQVZmblBJUlcxZ180Sm9YdWtXNDZoZkVfYVQ5aDR1VTZIMGFRWnNsVEs5LVJWMkVXWmpaVnIzd2hBTzl5M1pIenM3c09RaW41aEVoOWRSRkNB?oc=5"
-    },
-    {
       "source": "Al Jazeera",
       "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Ukraine war briefing: Putin orders army expansion as Zelenskyy says more North Koreans to be deployed in Russia",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV0s2a3lxLThaVFpNaHNRS3E0a1Z5TkpyMHZjcmtFT3VyYV9GM2ZFWHhlQXAwMUwtbGNSRkIweUZVak40YUJqUDlrNzZJLTdGWENsZFVsSGkyaDhBMHM4VEZBSkR3d2wwaE5SOXN4NWlaUG94OTZma0trTVVycnVGYmZCa0dLQV9FMTN4Zldwamplek9iNjJ1WkJDZkxVT3UzMGpyWXVTQk1qcmo2OURZQ0JocDZjY3F6bG55R1hwdlMzc2JHOXI3RkE2SXNFdDhoSm5sSDl3VWFVZFNST1dmZjY3R3htVEVqNVVtazFfZG1kTUxrMzZjTw?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "Trump says US will win Iran war 'very soon'",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTG94TG8yOEo5eWNpRUFIUkMta1JRQ2RPZUJiTWxVbXdfdENtbmJxOXZOYUgxRTY5YUJ5eW92Z2tSUWtoVGVobXhhUk5CTkVBMW1rMndfR2FldUZud05YSkZuSFZRSmZQTU1xbmhSTFQyd3ozTk5LYVp1OGZzWGRvWWt6clZ1UzViY2JhMVVlODhvSFNTQno0Y1ZKOA?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "Trump denies offering Iran sanctions relief, Tehran says ready for talks",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNDSVp4Qi1GQVY3bEJ2d0dpZzVBbEU4NUpYQzBpV2QwaW9uVGdwdHJnQkstVFlUSTNRazRHaUVFOVFWOTJXRjhnS2dncDBNLVVsa0JiWC0zN3ktZXdvV0tWN3FrakF4aUZIX0w2RjMwVHJWc0lBZUpYU09SWmsyUmdQd3dJdXh1N3lTb1pDZ1ZEYkhOUTVPV0lhak9YM3ZxTm1vR1BmRnFnZjNUMWF0M1NabHhLblkxd05FM3dn?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHdiQlpYZ241MDN4ZEJVdDhrNUJ5Zl8wZ1pHQTg1b3ZwNHJaYjZWNEhkMGUzS0I5eS15WFQyN1FZdFNrbmNQSzl2anJwdE1rbFY1UTctTXNvMU9TRjIyZUpaNUxVSnpKdkRjSEZaY3p2TTVid0VvM3liQ2JHZngtOV9tdlhCRmxTVm9qVEpvU0J2WDNrZW9PMnZBZ3d1ek5zZlp5NUMwU3BFN01qT09JNjNyYlJ5QdIBuwFBVV95cUxQVWl4Qk5nWURmaEVPQktXR2dBbUNTSnFtSnhEXzBwRFpKd3dNY0Eyb21LMGlOckQ5ZDhybXc4R2NnOWRrQW5Xa2YyelV0ZV9sRHJOXzZXWHRyNUstRzI1bks1VjdwczgtdUF4SU9nMHRtSFQtc0pYZm1ENDRlQVBBZVpjVnhmT2kzYjh3N3Z3MU5SSGpHT04zdHBfUHlHUmt1TGpRNlhBbTNUVWRwVUQ5TUw3VVFKRzRUUGhz?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcE44alQta2RFLXNvU0JiaFZSbUxkcExUYzBMeEhRX0dWeUZMNVNUYUdybHhQOXpnZnRLT1BhV1RIVVIyTHBhUjdpNC0xN3huVl9fcVpxSExGZ213MGJobkl6b2Jvc0lRRWVUekNSWUVrQmM4eVZxQ1k2R3N3MDlqeWVSdFlxVE5NRVpzbmQ1LTFOanp6YU5SSHpzeWhuNkNoMVAzUk1hd0NvQVJmN3fSAbMBQVVfeXFMUGpqdDdjQnVuTmxIUWZxQWRlLUF3NTR1c2JjYlVWaUFJT0ZPMVF4MV9yN2x2RlZIWUs5Y0dyLTRfWG9TdTBqZjBibjl0ajB2Q0thcV9ZZnljMWVvcFRVTGh1aV9qX3MweE1ZNzdGWUJkbGhQeHZlUmdQWjB3eVJpdVp6Wks2OWh6cUZFeE9lWTVIb0RCRk5rOWJsQlphYzE3VlYzWGp1N2ZVdHVQYUJkUjlwNmM?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -48,48 +43,53 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Myanmar military launches air strike on Rakhine market, killing at least 33",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2VKLXZUQlpCelJoUV9mQ0R5ckUwREFUZ1dsTVRveDFMRnFBY2tTdVlaQmppbGdrS3J0cE9IdkxEa0xJeF8ta3ZBRXpOWXE5S2p5TF84a3R4MVphb1dmWi1HNVdTNmZmcTBOOUQzbDQxU3ZLOGk0bWotaEpHbG5kZXpOa1ZOeXVia2swdkN1M3oyOUZHdFVlRFVR0gGfAUFVX3lxTE9LUmNGMWc4bFJuYkhYaDdZXzkwWDhGYXNfY0FWc25JX3FweW5xMnNQdTFJNnFrYlhpUUZINXVEc1RfSnExYmowd01tZWoxTXMzSFNiTmwwZ19jZVE3YVUxcnN4QkVOUWI2WGNWd0h3Q083dGt5M2Rfc21aUDdNLWxtRUtpaG5fYTl4bklKaGJuYUdjVlF3ZDROSV9YYkJ5cw?oc=5"
+      "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2lMdHRwRTV3WEtTMEhFSVA1S2hqYlpzUHZaV3hjTmpHZnNaOEVBR3NZTEp3Wmc4eDBWaVNPa0xsMDZrbmlxWnlVUGh0TWJ3VG52dWlzakw1NDlVQml1V2pKNlh5akNuSnhMNEphOTVLZGtxTGN6RWRBUDIzOXBUakJ0UDVBU1JLcExjaDNvRko3TGNDcm52ZzhScG85NFVuQUlPSGpwZVNRR1Z1eEVaMU1weEbSAboBQVVfeXFMTkRJcEV1S0Ric2Q3TXlOSlc4TGlTS1ZBalhYamV4QXNKMG5MZ0FwOGhHS0owbDB3NDRDOGJrdktGdkk0cTM3Z2F1RGRKVC13U3ZtTzA1U1dEUVNRaDd1X0RGTi00V2FzbmZtbm9hb0JURUV0bW5mOEN1ZFFoUjdDNE5WRHJ6bVpaX19JOTRIdEtybW5wZlRmdlZDV2NqUGw2Z3lfOUxmbHkwZjdhblFNa1FIWUFIZ0tiWWpB?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX01hV3BoUG5vRXFIRmcycDhNV0dnaWZsVzA3QWg5Mk12NU1oUFF1bWlERHVRRFpFTi1fMlYxdnMzNFp2WnZxaXFKUEViYTZyajJ4NTI4RS1fc0tyblAwLTRkUGI4OF90VGN5bFM0cE84dmFTWlpWdFM4bV9oMjNobWVXZ1Q2OC1ycEZYQWtmN3Zfb3JxbVFpd1dGQWpDM1FleFNZ0gGoAUFVX3lxTE16eTRSRk9tT3N0Q0ZLbDg3NC1zcnN4R1hPZ3I1VndHZ000Sk5UU2lLMk9RRzBEY1dYWG4tYXJYZE9feWV6TVYwWXJGcXE1SzYxcWhsTEx5bVZlN1dOSzNfa1phWWVheVA4Z2tVUk1IWEp0Y0VCOEVlRjdsMGdNR3hHYzFSU29DQ0htRFZvcGZpOXA5cF95T1F2TmJEWFRYZm5qa21ES2xzSQ?oc=5"
+      "title": "Are Houthis using new modified cruise missiles in Yemen’s war?",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3h6NTdxaWU0WU1NWE1YTk5GUGtaTWtWOWM5UUFEYi1FenZwUmxablJtUzJjQVphR180WUp0OFJPcnFHb0dRREhWX1VqbU1LQW9xQ0haRzRWVm11MFprNTU3My16Z196d3c0c2dCMlFYZmV0Zy04NTBILVF1Y1ZVVHU1TlZpY1ZyRUdHQzFvdl9rSnV2SnM2R0lWRlhCTWRjWXoxMHcxMmLSAa4BQVVfeXFMT0dCWC1DeUlfclZIX0tYOUlOWWhVZ0w4Vm5nODJUTkJsMmxOSHQ2ZFlXZTR1WWlNUW85NFRGcXM2YzJYemx2ekVuOTFnTjFVUkpid1lLcVFoVTFJMzNMd044MTdELXlkazdrS21fU0pEaXFCXzEwRklMeWMtYkk1ZURxN1FTTnRVX1hjMGtnWmRzWjZnVUhNOGhIRGxmaFBmaDZsMjBTS3cySzJNWW13?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "UK releases suspects as Iran denies role in alleged plot on base used by US",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFJPeVZBM2FpQzEyd3FVVnJoN1owbTJxeUhqWUtaTmZBbVhPSU5fdmRyaEtHNXVNbW9BeG14RFY2Z3RlZ2hrVTlaanBvUWFwWlV3SlMtZzQxVGxWYUdvbjJGeFk0QUllWlY1QjZmSnktaHBDZWVNV2JNeVgtNU83eXg3VXdqUWNVRVdqRzFCb0R6QkNzU2Qzb25PcDdlaS1KS0J4MlFyNG8tWG1qbmVz0gG0AUFVX3lxTE1pajZGTHBQTlUtZ0syVkw5VFhkcGR2dEJTME5yc1psdV9QcVlVcWptYjh2aElpQU1kRWVmbUtWSGwzSE9KUVhvYU5EYjVJVXBncnJFbGN4VzBNdmRoVXJhN19jMzB3MTZCZVVyWGI5c18xWlcwRGtjYXplNjBjRmJrRDlRMzNiYkowcXZhX0dDdjMwSFVlVFE0T1RDUTQxZG1Uay1QZEs2WDRsb2Q3YkdXM3k1Vw?oc=5"
+      "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcE44alQta2RFLXNvU0JiaFZSbUxkcExUYzBMeEhRX0dWeUZMNVNUYUdybHhQOXpnZnRLT1BhV1RIVVIyTHBhUjdpNC0xN3huVl9fcVpxSExGZ213MGJobkl6b2Jvc0lRRWVUekNSWUVrQmM4eVZxQ1k2R3N3MDlqeWVSdFlxVE5NRVpzbmQ1LTFOanp6YU5SSHpzeWhuNkNoMVAzUk1hd0NvQVJmN3fSAbMBQVVfeXFMUGpqdDdjQnVuTmxIUWZxQWRlLUF3NTR1c2JjYlVWaUFJT0ZPMVF4MV9yN2x2RlZIWUs5Y0dyLTRfWG9TdTBqZjBibjl0ajB2Q0thcV9ZZnljMWVvcFRVTGh1aV9qX3MweE1ZNzdGWUJkbGhQeHZlUmdQWjB3eVJpdVp6Wks2OWh6cUZFeE9lWTVIb0RCRk5rOWJsQlphYzE3VlYzWGp1N2ZVdHVQYUJkUjlwNmM?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Trump made the right decision to reject Iran’s offer",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVJyWGs1WEZwV2dVMXBHdG94RVVxYU9xN1V6bVV1SVdjWjMzNWMxcnEwdkxtcVpHeS1lY0c1SkVYN1FqakQ4YmxpR2wtcFdSM2VIZUF5NEgxZEtCWmhRd0dLcW9zcnNWSWl6WlRMeXJIWWNUaWxwalFqSzh6M2NYaEFGeS1ZaTZQeGF5bUZWZUdYa3hRazBMYmJLMzXSAaIBQVVfeXFMTVBMYkpaWkFseUZzZXFUamxQZEVveDE0QXN2dlVOcF9Ha3Q0aG9lNEVUSUZwS2ZVNTFhRHdGNXJQanRTVFZfMlY5N1R2LS11anQxUFJYMzlsZ3JpTGUtbVlRLVk2Q3E1WC10RW5YNTc4Rkpzckd1Z04yWFdqN1BoVkJaX2ttZ3pINW5LREY0UHB0ME5NMUg0b2w3LXZ1ak9GaE1n?oc=5"
+      "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkhCekZkRHNWZHBER3VJSWoxeXZfaE1XRDZ6d1F3ZFJUS09fX3NxVzJ3RjZreEd2Y3QxZHJKQUE0SEdCNDhuUVJrOFQyeWhuNzVaSUhFTzNpdEYybWF1UnRSR1Q3ZkdVTHkxcjhTWHp6Q2hEQlFPMWlzN1h4V1hkUkxuWW1lV1FTUnJ6a3lodlIyTWRveUZRSkpiMzdPUWVQRWpvUFpYeDlteU1TNXRuN0o5eHRlQdIBuwFBVV95cUxNOUl2emctamNpR21wcXdlajM3U2Y2NElKbWVJYTNRYnBoQzRLMU5WR1ZJYmlFWE9lSTdxbnhWZFdTdmhaMmZOUTlXWGJuSEJORk1aN2dHdDlKTHdPbFlSMTVtZW1vT1NQdFlaR0hQVm51aHBTeVY1VDdJdEVHOHdHU3VqZXF0ZjRJN2xKX2NWelpheEtlRFhMTkR6QlhnbzZUeHUwMVhXeGkyQnl4b2Q4WEN2cDluMTBlMTFF?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHFndWVQUVpiSnAwM0EtTUdVSVZvSERZZnZkQUswTVRETVpIdWJtU1VrRFpzdUxWNUplbUI3Z2F6UEFZdk43NWN4R1llRVJOMjNDV1oxNTF3dTJOOUdEQVVDT0JLdVpwa1J2UU9mMm5iczcwaEpubnR1WEIzdnBUWE9xVlJtdlIwZTc2YXpGWW5RU1RWdnUxa1B4ODB1RFNUd2lXdlZVazbSAa4BQVVfeXFMT3hIUnlIQUNRSU9pbnFSNTh4cnc0LXRiV3M2OE9VeFNab2FneWpIMUVoaTJvd1dpYnhfUkRRODJRcDNmcmZrRHpFcVhKWHlzTUYtdk0yaGc4YWxOQzVRQlhDOUJXLXdmQjNiMkhyaWZMM0lKZzY0QlRWeGlsMUFtQUt3T0lPNk42bmxnNFhjNWRmc3NUYTI0VGs2N2RjanVvNVZUek5uV0Y1c2dOdDhB?oc=5"
+      "title": "Bail for RAF base suspects suggests no evidence of ‘terror’, say analysts",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHlfcm0yaS1VMnhERGtpdmVFTERSYjBNUXhtbVptaHJmY1ZidEQ3ZnBpX0tWWWFnZUE3UGd2T1hVWTZkX0RwMXFuLWQxVi14U2ZPX0IwdEZEQXc2aGlIRU5UNEgwRFp2bkJ6UnpXX1ppRnN1RkxxdVJOdjQzTVc3Y01SeEFjQldLN1JtTFFkU0VQTmFwMW9vc2Uxb2htRTdaXzdrMGVmNy0zM1hHYzU1aWxKUzk1UdIBuwFBVV95cUxQRWxfY182M3VoNWZNWmZfdllmLVJRcU9iU1I0OEwzeFBIQ3B5aVBUa3RoVzZpRmZkbElsal9VTkdjS3dYbWdlWDJjc1VKeExmZ3IwMzZEdzNPUXdMT2tZLWM2YUs5M2ZId1EtRm1iN0Fia3NCYkllalh3dWpvN0x1YkFQUS02QU9RM3ZfQ2ZQWkI1cDlFMXJKU19lVXpxblRyX2ZWYUdDU3hMRDZrYmc5UzZrLUJXdXE1XzlF?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeW1KU01QVGFLUS1BR1ZLek9heE5lSHJsOVQ3VzltVjlpSXlkYlluU2lCb1NZX1FMQ0ZsakxOYS1TU3Y0WDV4bU9uUWZwOGlNOW13cmZRMUhPSjlkaFgwNGVlR2txd0lIOUdXTWgzV2xvV0hOLU4yTXhuSWg0RWJqVWdURXRUOGJnc2RwSHFNR0h0Nl9maUtCMloxUzR3Q244bTZEWFRNRnZWdUxWQkpOetIBtgFBVV95cUxPSmlsSkp6WTlnNE04R1YyblZBd3hQdVBNVWdHTHZmaWtMMS1CZE1zSFBmNGpPenZxX2tRUVN0RFUwRWlzTGxfU3N5Q1dQbFlZMU5pNGY0S0t2RW4zQzRFeFFOaEROTlBPbDdGdk9HMmdFUWJiUUlSVFZSRmVYc0xGM1hHdlg4U2RmU241RndWME5YMXgtaVFxdlQ0bFRCbkZoZGN5VW9LYmtZMzdrY3RIZGZKbjFCZw?oc=5"
-    },
-    {
-      "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "RBA left with no choice but to hike rates as US currency crown slips",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG1xSExmU2RibjdYWjNjbXR5aVgyZDdtdDl5V3FmWi1kWUx6VHZ5dzN6cWlRbzhxRmZEVTY5aGhoZEVuMzBvM2wtNVh1RWVRT0J6WjctZ1I5bk5QUzFLRFpMTTRYaHRCVHg0bjZ0QnRLWGNxc3VXV29DNGwwMmlscGZXLV9ERFlnV2F4OW9FT3czT1EzTzlSazJ1WTVmOTFhNXZXVHl3?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXZRTlF0a3ktSkFkenlWa1FDY3IzME5CTl8wX1hnbTBMSW5lOVZRMTBvUjRLMVhfNXljYUlyWlp6QjNUc2ktaXJGRk5wSkc5TnJ1ckc2MnVLdl9BOWVXNXRjSkk2WlhEbGstQzQ5SVJSd2VsWm95ejdpbXQ3NDkzSUJKVXU0QXhURjVLTld0bnZYM1FEdzRPOHQyaGtNMXp1cy1RY0pVVGdRcDFfVG5iMm1lQmRwa1XSAbwBQVVfeXFMUDhGbGpQTmhoMVZJNl9DWWlONTJoWmhsTkM0S3Fnb0N2eHAzblUzQmhYQ043MUdzTk9LZmlJYkpPZlN5a2pBS3BtQkJJb1JueXdDRG9ueFZZQkJwM0FaaHJPR1RwcTdzV0lXZDkzYy1xNXIwSWQ4dEhiYUFJMzhYV2l3NmlRVFJkSEluWHY1VF9Wdm9QOW16YTVadDZxeVRnR2FPeWxPa2FpUXI4dnoyYkItZlVNTkZJRkZRUGU?oc=5"
+      "title": "Iran downplays possible role in Houthis’ recent Yemen victories",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0xpMU5sZFNmNkJ4TEpKZVk1UG11b2I0UlhkTi1vbmR6VTZRSC1VaVN0VV9JOEh3aENHNUJINUV0bUt3ZkVEenFZQUZFQ25tOFgwUGpzOUFObjRoZXY4Mmt6YUhTbDRnTFFLcDllazdyV254WGtzMmllR01icDhLSVJTT3l5a0ZKZkNwU3I0UDdKR3RodVpGcWxKMTV6dE5GOTFhbnNKaU1lcjZVOVJYa2hTQy1BWG5XOEHSAb8BQVVfeXFMT2RJLXJyOUt2RE5ROWVIbFpkQkVGelVuRl9HSjk1NWZmclpFUEVGa1hsd3dlemtuVEhuc2FHYkE2RVlOcWg4OUtEbEx6cXFUQ0ZCcjFpX2k4aTVJWmNkUVlWWVZFXzdPMWl1SlFrM0lfLUJoNWhlV1UyQVdsMkl5V1lHemszWjh5V0tReDVHNmxZbnRGZ01DekU1dHJqYy1OQkROY1JMUzA5LTc5Q1UyYUR0SG9CMS1QVFF5c05NblE?oc=5"
     },
     {
       "source": "Reuters",
-      "title": "US, Iran separately talk with mediators in latest bid to end war",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmZHcTFrcTNwTDVHTi1veU9KdXk1SC11X1NDWHB3VnBhbUQyOXh6Y002MFJaN1cyb0pfLVRIZnE4RUgwR1pieG0zY05NajZrNmFIbl9CTmpGbENaa01VOGEwZVZURnphdVdmUHJ2cWxGMURSNXNrRzdGanlKdWhqc0NiMWlHRnhTWlN4dlZIMjlNSEhxVlpkNFI4N1VTWHZfYWZsNi1lcE9GYjFsWDVmRW1QbFk2WjBhTWpfUS1aSTBNc3dBYW90RDVadjg?oc=5"
+      "title": "US forces exit Iraq after two decades, leaving opening for Iran",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalJlU2twR3RkNzhyVlFwZmJkZmg3RXQ3VEpxTFowU2dhY1pEeG8wZWlLQ2NVb0lNUERZQXRSdThEbWdxdGx6aExDVkFGNHdUVkZwRFlSclVvYWxEVk5wTFlYQVZmblBJUlcxZ180Sm9YdWtXNDZoZkVfYVQ5aDR1VTZIMGFRWnNsVEs5LVJWMkVXWmpaVnIzd2hBTzl5M1pIenM3c09RaW41aEVoOWRSRkNB?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Ukraine war briefing: Putin orders army expansion as Zelenskyy says more North Koreans to be deployed in Russia",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV0s2a3lxLThaVFpNaHNRS3E0a1Z5TkpyMHZjcmtFT3VyYV9GM2ZFWHhlQXAwMUwtbGNSRkIweUZVak40YUJqUDlrNzZJLTdGWENsZFVsSGkyaDhBMHM4VEZBSkR3d2wwaE5SOXN4NWlaUG94OTZma0trTVVycnVGYmZCa0dLQV9FMTN4Zldwamplek9iNjJ1WkJDZkxVT3UzMGpyWXVTQk1qcmo2OURZQ0JocDZjY3F6bG55R1hwdlMzc2JHOXI3RkE2SXNFdDhoSm5sSDl3VWFVZFNST1dmZjY3R3htVEVqNVVtazFfZG1kTUxrMzZjTw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc085dFRab2IwS3k1aTh6RmhsV2tkSGRMbEJ1SGp1M2U1b09vTDZlOFBqVVNVQ2V4THFZUTRod3RqaXh4VS1rbmQzYnpZNmRZT3pTRTNXVm5yd3VJcDEzaWhuNFdLOGhkWHpralVSbmxaVjE5dnJoaHEzZDZHYXlBd1VKUTdUd3ZDZHdzMEZtSEw3aHdIRGJpOXQxQldadW1nbFRDakxHd2pMV1VWeEV3VzZsODPSAboBQVVfeXFMT3ZpOXNaLWgwNWROUDdaZXBMdHFxRGhEYkZoVTk4bnF4amgwVnhkTHoxQmdzdlplVk5FWE1tSTlxb1VJUDNUOW1fUEtYdlBNODZPZHFoaHlCOEowTEVpNkNxSnBvUHN6TGxicXVSSGFreUg1X3NjRm1HMVlGbHBUQTlVeGk3eGhnOFEyRzZ2ZkZ5T21SbW5PZkloNTZnd1VBUUo2SkhlMGphWkFsR2RDQnhIajNpd2hDNmhR?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Iran's Revolutionary Guards woo US voters with open letter",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3kyQVh0R2pNWkIyZVVNZUxZWHJTVVhrWkhYbmtSWTR2Mk9xT0UzcGYwRGkxMjRpSFBOaWhWaUN6SE9uTkhha2tJbUcwejRlZHpCZk1Icy1jX1h4VUNqVlRyWnFrRy1GbFdiU2U4emhaZWVFaHdwVzlxNDNTVVVoM2tlVlBQMFJWVjlpZlBCSThIalVGVDduaV9LU1lSeDdNX0E?oc=5"
     }
   ]
 }
