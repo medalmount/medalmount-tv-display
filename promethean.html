@@ -24,7 +24,7 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
 .video-box iframe{width:100%;height:100%;border:0;background:#020609}
 .stream-fallback{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:1.5vh;background:#071526;color:var(--white);text-align:center;padding:2vw;pointer-events:none}
 .stream-fallback strong{font-size:2.5vw}.stream-fallback span{font-size:1.25vw;color:var(--muted)}.stream-fallback a{pointer-events:auto;color:#ffd928;border:2px solid var(--gold);border-radius:.4vw;padding:.7vw 1.2vw;font-size:1.4vw;font-weight:800}
-.stream-fallback[hidden]{display:none}
+.stream-fallback button{pointer-events:auto;color:#071526;background:var(--gold);border:0;border-radius:.4vw;padding:.8vw 1.4vw;font-size:1.5vw;font-weight:900;cursor:pointer}.stream-fallback[hidden]{display:none}
 #side{min-height:0;display:grid;grid-template-rows:minmax(0,.76fr) minmax(0,2.5fr) minmax(0,.92fr);gap:.8vh}
 #side .card{padding:1vh 1vw}
 #weather h2{font-size:1.6vw;margin:.15vh 0}.weather-data{display:flex;align-items:baseline;gap:1vw}.weather-now{font-size:3vw;font-weight:900}.weather-condition{font-size:1.25vw;font-weight:700}.weather-detail{font-size:.95vw;color:var(--muted);margin-top:.3vh}
@@ -49,7 +49,7 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
   <main id="main">
     <section class="card" id="news" aria-label="ABC News live stream">
       <div class="news-head"><b>ABC NEWS AUSTRALIA • LIVE</b><a href="https://www.abc.net.au/news/newschannel" target="_blank" rel="noopener">Open official live stream ↗</a></div>
-      <div class="video-box"><iframe id="abcPlayer" title="ABC News Australia live" src="https://www.youtube.com/embed/live_stream?channel=UCVgO39Bk5sMo66-6o6Spn6Q&amp;autoplay=1&amp;mute=1&amp;playsinline=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fmedalmount.github.io" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><div id="streamFallback" class="stream-fallback"><strong>ABC NEWS AUSTRALIA</strong><span>Live video is starting. If it does not play here, open ABC’s official stream.</span><a href="https://www.abc.net.au/news/newschannel" target="_blank" rel="noopener">OPEN ABC LIVE NEWS ↗</a></div></div>
+      <div class="video-box"><iframe id="abcPlayer" title="ABC News Australia live" src="https://www.youtube.com/embed/live_stream?channel=UCVgO39Bk5sMo66-6o6Spn6Q&amp;autoplay=1&amp;mute=1&amp;playsinline=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fmedalmount.github.io" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><div id="streamFallback" class="stream-fallback"><strong>ABC NEWS AUSTRALIA</strong><span>Live video is starting. If it does not play, press Play below.</span><button id="startNews" type="button">PLAY ABC NEWS</button><a href="https://www.abc.net.au/news/newschannel" target="_blank" rel="noopener">OPEN ABC LIVE NEWS ↗</a></div></div>
     </section>
     <aside id="side">
       <section class="card" id="weather"><div class="kicker">Local Weather</div><h2>CANBERRA</h2><div id="weatherBox">Updating current conditions…</div></section>
@@ -59,36 +59,26 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
   </main>
   <div id="ticker"><div class="ticker-label" id="tickerLabel">CONFLICT NEWS</div><div class="ticker-window"><div class="ticker-text" id="tickerText">Loading current conflict headlines…</div></div></div>
 </div>
+<script src="https://www.youtube.com/iframe_api"></script>
 <script>
 (function(){
-  var player=document.getElementById('abcPlayer'),fallback=document.getElementById('streamFallback');
-  function playerCommand(func){player.contentWindow.postMessage(JSON.stringify({event:'command',func:func,args:[]}),'https://www.youtube.com')}
-  setTimeout(function(){fallback.hidden=true},10000); // Always reveal the embedded player, even if it sends no events.
-  player.addEventListener('load',function(){
-    fallback.hidden=true; // Expose YouTube's own Play button if autoplay is blocked.
-    player.contentWindow.postMessage(JSON.stringify({event:'listening',id:'abcPlayer'}),'https://www.youtube.com');
+  var fallback=document.getElementById('streamFallback'),youtubePlayer=null,started=false;
+  document.getElementById('startNews').addEventListener('click',function(){
+    fallback.hidden=true;
+    if(youtubePlayer){youtubePlayer.unMute();youtubePlayer.playVideo()}
+    else document.getElementById('abcPlayer').contentWindow.postMessage(JSON.stringify({event:'command',func:'playVideo',args:[]}), 'https://www.youtube.com');
   });
-  window.addEventListener('message',function(event){
-    if(!/^https:\/\/(www\.)?youtube(-nocookie)?\.com$/.test(event.origin))return;
-    try{
-      var msg=JSON.parse(event.data);
-      if(msg.event==='onReady'){
-        player.contentWindow.postMessage(JSON.stringify({event:'command',func:'addEventListener',args:['onStateChange']}),'https://www.youtube.com');
-        player.contentWindow.postMessage(JSON.stringify({event:'command',func:'addEventListener',args:['onError']}),'https://www.youtube.com');
-        playerCommand('mute');
-        playerCommand('playVideo');
-        fallback.hidden=true;
-      }else if(msg.event==='onStateChange'){
-        if(Number(msg.info)===1)playerCommand('unMute'); // Restore audio once the muted stream is playing.
-        fallback.hidden=true; // Leave the native player accessible when paused or autoplay is blocked.
-      }else if(msg.event==='onAutoplayBlocked'){
-        fallback.hidden=true;
-      }else if(msg.event==='onError'){
-        fallback.querySelector('span').textContent='The embedded stream could not play (YouTube error '+msg.info+'). Open ABC’s official stream and press WATCH LIVE.';
-        fallback.hidden=false;
+  window.onYouTubeIframeAPIReady=function(){
+    youtubePlayer=new YT.Player('abcPlayer',{
+      events:{
+        onReady:function(e){e.target.mute();e.target.playVideo()},
+        onStateChange:function(e){if(e.data===YT.PlayerState.PLAYING){started=true;fallback.hidden=true;e.target.unMute()}},
+        onAutoplayBlocked:function(){if(!started)fallback.hidden=false},
+        onError:function(){fallback.querySelector('span').textContent='The embedded stream is unavailable. Open ABC’s official stream.';fallback.hidden=false}
       }
-    }catch(e){}
-  });
+    });
+  };
+  setTimeout(function(){if(!started)fallback.hidden=false},12000);
   var time=document.getElementById('time'),date=document.getElementById('date');
   var upcoming=document.getElementById('upcoming'),tickerText=document.getElementById('tickerText'),tickerLabel=document.getElementById('tickerLabel');
   function json(path){return fetch(path+'?v='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw Error(path);return r.json()})}
