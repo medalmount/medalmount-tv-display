@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:47:11.831321+00:00",
+  "updated": "2026-10-01T00:15:56.702906+00:00",
   "items": [
     {
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
@@ -13,33 +13,38 @@
     },
     {
       "source": "BBC",
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMkphWkx4ZWFNYVBzdGczb2ozTnNNM2R1X0t5ajczLUk1MlVHOG9xRlM0eTZpUjZvNjZINUVQdmprRDVHMVZPRWUzbTlwQUZhR1BYdm1zaDJSdWc?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5"
+    },
+    {
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "What we know about the terrifying flydubai flight to Israel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0VSMldzQ3ZXWVJ5N2hUZUhpWnRwQW5JUHY4dDdpMEVOMVRMMjB6ZUlHTjloQy03d01DME5QLXl0NF9tS3Q4MjVwSFAtZ2RfTG9XRk9ZODg1eXdKeGNxMmE3Y3hYSENFakt5bmZlWVpLbjVUZkktZXRhUDFYaTNQanV5Z0Y4ZGhfWGxWWXBCeGNwZ2VqTjBfYVZQc3Bva056STQ5YnM1ZnBfdmJfTDdhZnhIYw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Russian attacks on Kyiv region kill four people, target power grid",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRi1IZndmQ1lyX2l3Rl9hYXZmY3llVWdjMVhTSFdwd2dMSkF1ZVRIUDBmNWpkT3I2VnJkcnhxTTByRlJFUkYyU05ZazN2YmtxclF0UkxhVGtiVVFLbzNuZWs5X0RmUjVWZGJTWUdBeXZYYjN0SzA2cUhDX1lYQWdxcVB1VF9PRVJaWmRGTW9XUl9nVkU1eVNtRXFtTjR6TFBhazNnVHh2d0d1OW5I?oc=5"
+    },
+    {
+      "source": "BBC",
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1icHVKQnZxeWZhcmgzbnpQWEZHbjZXMmM3UWZBZFF1b2V4elRMV3RrZEhEUW55eV9oeVNGSERzUVlmeDJMTEZrYWR0M2t1ck5yeVNqSzNhcDI3N2M?oc=5"
     },
     {
-      "source": "Reuters",
-      "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot-on-pilot stabbing",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5"
-    },
-    {
       "source": "Al Jazeera",
-      "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRi1IZndmQ1lyX2l3Rl9hYXZmY3llVWdjMVhTSFdwd2dMSkF1ZVRIUDBmNWpkT3I2VnJkcnhxTTByRlJFUkYyU05ZazN2YmtxclF0UkxhVGtiVVFLbzNuZWs5X0RmUjVWZGJTWUdBeXZYYjN0SzA2cUhDX1lYQWdxcVB1VF9PRVJaWmRGTW9XUl9nVkU1eVNtRXFtTjR6TFBhazNnVHh2d0d1OW5I0gGyAUFVX3lxTFBtN3JrY3IwQnFwWE5ZSmt6QmJPZ21JREpuRC1NYmp0azJIYXVpazNTTjliWU1Hdl9JYVFKVWtkV1pDdTdrS1lYWWtWQWV4UUVMZkxlekM5alRxX29SOVAxOVJPZ3JHUHFPWG1uenF5eXJkOE9NOGFvc1d3elNjZmFDYjZnV04tQkw2QU5ZVFhiYmZHVDlMcklPQ3lMVzJMOVpzN2JRMEZ5WVBnbnBIdmhRQnc?oc=5"
+      "title": "Russian drone crashes into Kyiv playground without exploding",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakRsOC1CbHBkLUU0ems3c2tjTklQNEhhMXBsWWFJN1FvaW9zaFJUa0J6REFfMmd4bkJKbmUwTjNIZ09DOHg0d1Q4enJoVURLT1gzeGZWd1YtY0FRWVM4S3ZzRWc5UGd3cUpfYmk0VFZ2SGdoRDljc0ozb2Y0NTFlMnRWNFZ6RHJiXzFERkNVSGNKVUU0bHY3QndWVXh2cjc5dFA2cV91MWQwbVNLZmfSAbMBQVVfeXFMTUIwWFlTdDhOOXp2SVRoQld2Ml8tZDFtSEdBNDVnUXNUTEtUSk4tbjZ0YXoyVllYTWp5VXN6ZTNYM0ZMR3FKQk1kUTJRNGZjZUs2ZzlyWGR3OW1lNE1sbnlvQW13aUlwcDhsSlRBSzZ0aW54NnJWMldFX09BSV9IcDdJcVdqdWF2MEh4WW5yNTJEbEIyWmZmY2JvLVFvQ2haRHhabnZlMFdxY1F0cTVxSXVXXzg?oc=5"
     },
     {
-      "source": "The Guardian",
-      "title": "What we know so far about alleged stabbing of pilot by co-pilot on flight to Israel",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDhpN1hIS0VHZ0hWdHJBY0hwbnFETWRSTndZbzB0Y2J6SVQ5b01PY0NMcGlVbmpIa3lTR2FTYTBwcDBlV1hpeFFiOHJqVWNjU3hqa1BVYnpJVy1YRUd6aExRM0d5SmFtWnFLWS1tMnJYd21MUDVkNk9rOTN5QXlLbFp5cE0zSEdjZmlYX0hCZUhQSHd3OE9ReHhwSjN6Xy1CX0pRRnZB?oc=5"
-    },
-    {
-      "source": "BBC",
-      "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaklITHVSYlpXU3JnUk5YTEFkdDlfZERJTzBPX2pJak1RenlFUW9wbkQzRWdyTUNSZ1pzM3dHVF9HTjhGcFA3VmF1WDVwMmZuazI5OWxLTkY?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5"
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "AUDIO: Israel to 'ramp up' security after pilot attack",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDA0M0NIdVBoeWpaRDRCcXlfSDMzM1oyQ1VDb21PekhrNTVuSHkxdWF5THFfaFNiMWlXQnR5YWJVNzJPU3FUdWMyM24yck9HTG83NXdUVVFMM0ZXUmVOREpiVUV6dGxFNFBWUW9qamxaU0FhX0FvMkVpVXYzNkVvR1lyZExMVWdYLTFVdHRNb243Y3cwNFI5ZnJB?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -50,6 +55,21 @@
       "source": "Al Jazeera",
       "title": "Pilot stabbed another in bid to crash Israel-bound Flydubai jet: Netanyahu",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUWFtNkNNTGFKZVBkNGNoczZpdVJCYnp4VW9hbmNPUGtnSU9UczBuUXp4enJsUndCWXZPWG5uOGduVk02RlBRaUNDVFI1WU9DVjNYVW5sa0s1M1FMbWRPZmtwWUpmZE4zcGNLM1JRMUJtQUtRbEJGNFBMM1VsV3p5XzRINERyMkRKRDhrVWlGUkxFSEJGSGs2UU5TOFFReGdHTks1bGhuV2pDRGtlV0FnLUlKc9IBuAFBVV95cUxPNjdtMGhKYlQ3UWRXNVZ4UVNyY1dNUFcxc01fQS1vbm96MmVRWjM1NmVPTUZHcmlkOWx1djNxMnZjNkJleXpPenNRSVlrTlNrOV9CVEV2ajBFcGNXemJtMWpSMHNfVE5laFFiOVhIdWliU1pDbk1uZmlnX2s0bG9xMTJNVW9kd2MxeXB6QWRlV3VTS3JPN1hGbzZnTjRVWGVRN3lvZ0FJMkduNzZsd1ZCSVd2SHZ6a2Zt?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PaklITHVSYlpXU3JnUk5YTEFkdDlfZERJTzBPX2pJak1RenlFUW9wbkQzRWdyTUNSZ1pzM3dHVF9HTjhGcFA3VmF1WDVwMmZuazI5OWxLTkY?oc=5"
+    },
+    {
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "Passengers save plane bound for Israel after mid-air stabbing",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWt4UDNjcU5ucDhmakFXa0UtNm9UcjN6TnU1RVlqQmhFeHptZEZUblA2dTMwT0U5NHU1RExrZG5Wc1RqbGYzaHA0dVpvYlYyZV9XY0dxcnFCeEFJekVRQU1XN0VWY0hhZGlpakZMbHpKSVFTTjFjdTRlQmNfYVlSd0dSQ2stVWplNEdiWjI2Q0hTeUI2Qm9yODlYRDFObWZJRGUxWG5rNXFOZWJJ?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli attacks across Gaza kill at least eight",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTllSi1uZWJZMHdYWTNoNkNkWFh5bmptMUI3N2g2ZGJXUmRuMW13RG1wLXBrZk9VZXNMdkVHUWw3YkxQQU94SEt0Q3lnMUpLb1dhLXJOd3FrVzg1OWdFZzZHOXlzeFl4bElXN3pzTTV6WmF4djlWQzkxNjNOMklyeWJzaFlFV2hnaEMzR1d1UkVOdXVZVHg1NmFRbFpmeUXSAaQBQVVfeXFMT2NpSTNPQmdLUDlWZlQ4akw1ZGlub1FGN0xhNXNORzRkREtaTUhtbDJVNmhPOW8zMVFkc1BmcXZWdTZ6YlV2N2ZPV2pUV3FqUzN5eHVXQndlNVFGZ1h6czQ0cWtZTXhyUzM1OVRSZ0o4N2VYdjhwZi14dHFvdWpVeXFmR25SYm9Uc2xFZmZjMFRFMmNvOTE2M0hITC1ybUl1SUZsR2g?oc=5"
     },
     {
       "source": "The Guardian",
@@ -67,29 +87,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQelFpWlA2YTd3TEJ1TnNqT25HWnBHRjRHbUR3YnpvMjlEZzA2cG5LaVpQcEQ3WVJ3Nnh3UkR0MGxrUW1ZTGJNNmFiTk1QVmphbHRXWTRkaGMwaG91UGlfWDV6bXhjWDllcEdkaV9JRTJKUlpYMlZwRHZsazREYkhlSjNFSlFtR0ZUdlZEeFRQbDI5cnVhZUFEbW83QkxqOFVGcjlVNkNVWUR6VG_SAbABQVVfeXFMTmlNeTRnMjk0NU5vWnA3TlBtVEFxV2dvdmJ0ay1fMmNETWpmSW91Z295eWpSS0Q3NjF6VGJQZmd0VDBXdVRRODdXX2RMYnRHQmkyb0tvbWhYTFl6b2tveFBLWlp0UDZDNWkzdV92ZEthVWZMeHRoMkloM2FmUnlOR1VIcUktZUNvLUFaNjJfZzA0QlZycEVaX0lUN25TWE8zTUJubXd1c3FhRjB4YmVVeW8?oc=5"
     },
     {
-      "source": "AP News",
-      "title": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3JsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5"
-    },
-    {
-      "source": "AP News",
-      "title": "Iran indicates it’s received an official US response to its latest offer on ending the war",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZnME5PM2tFOXBTRG9ibkxwMG5Pd1AtTmY4V0ZCU3I4Z0tsam1mcjdNWDVTQ3Jwa0d5YUg3YTdvcXkzNTFSdy1FbktYWHJFazAxRGlMaGozVXNxcXpFZm9GUGpXazBTSVpFdjdzQUNoaDZYMmVvWGUtckxtTjVRQzN5Y3M0bnczVkVnbVMtek9ONGZJ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0lHRXBqakhmTGdyNHdpNTh4SFBIS1J6WkpPdTVrUmVJRENJX21rY0s3ZmZUT3FqU2pxZ0t1TmJxTXpheldOU3daamhxTWZxd0JaSTVwVXJaNXhjTDNDdVNMU3JxNmJoelM5ZnJTT1NaNm1jV3lWbjBNSFF2MnIwR3BrZzZyc0lheGNEWldKanV2MEhTQVByemlaSklBWEhxbUt0aHFGTnV3bDgwMW9sRmdR0gG3AUFVX3lxTE5rNGJ3ZDJZcnZEeTlQR2NsQl9EQ2lQd0d4UGxzNGlvcl9FM0hhRUN6WGRDSUFxOW5Fb3FWa24zQkRHU25YZHNxTVpRVUdGbjFvNjJ1U3J2bDZLbHA3aVNOZWdpSzZrLVVReWZBbGV6N1VZemtiOU9XclFpczR5OWk3XzZiOXFIVk1TT1MzQ3pUR2hWdWt2VFlQa0xRdk55M2gwdUJCUWNmc21DRkFISHNYc2NtajRqdw?oc=5"
-    },
-    {
       "source": "Al Jazeera",
       "title": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGRBSEMzd2RRSTNCa25HVkp4OTE3MjkwaU5ZUnJWSlBKQkNuRnJ5bE1LQnVTdVZUR2JOSzcxRVYzTl9pMVNicVljTjM4WlhDZFl0elVBcjRfbTIzcnA3YzFYUks4cVFUTTZUcHBmRUpVNHpVbWdNZFdyNmJ3Z0tudHVOamRGUVRRQnJ1YmpFNUlFdWtpZ25uRVAxUi1MZW1RS3Q2T2xsVGdDU19oYm0yU18zRVlzYVFJRFlwR2FxQdIBxAFBVV95cUxNV1kyZF82X3M0bFNVMTAwNTJIQS1tb3NVcU5xY2FpelNXSTJScjhaYjhXZDNiNzlvaEtPZTRjLVM4c0o1RzlYOE50WnVUM1hYRTFDT0RWSUFqWV9qdFRHaUl5YlVwS2pGSXhTRzJZMmRqcmlIOUtOVXpGOW1zcWdyR09XVjRpRWVDdllLVFB3VG1CRjFaMlk3QXUwWnQxZXhVWFNYNUx1RFlza3plWExLMnBsYkloQW92dGRsQll5UUlkQklW?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Pentagon says US troop withdrawal from Iraq is complete",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc290MXhaLW1xVWh5dUNvTU1rZkMtSFU3Y2JKbUdsNG9DRkJicTNab2IyR0N4TDB1SzZ6cmh5RDRpWS1xRzg5cjBYUGVoSk9WSVlWNWVZUXJiUTVmOFBGYkNqRW9fbmxaLXJpWGxlandwXzJLQ1ZtY2EtRkJRX0JTTTN5T01DZEx1ai00ZU5lb3poSnU4cllfX011Yk3SAaIBQVVfeXFMTld0WV9sUTVuWnd3VmpFRDd1T3NXekxkRGY1RWk4UG92Mkw2ZDZkTEJsNkJ4bk9pMzFtRTdXd25HTWF3dDI0ZEt3eTZCVUhoN3AzcEl1YWxpaU9kS0hPam1fWDZ2aV9PcnJVU3lIdVJxaHF3bGxzN1RVMjRjNktmMTRDTXlZSmpnVWlsSUVCbnoyOXhwTDVJMXh3RmpxbnlGNklR?oc=5"
     }
   ]
 }
