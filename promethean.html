@@ -72,7 +72,7 @@ header{border-bottom:3px solid var(--gold);display:flex;align-items:center;justi
     youtubePlayer=new YT.Player('abcPlayer',{
       events:{
         onReady:function(e){e.target.mute();e.target.playVideo()},
-        onStateChange:function(e){if(e.data===YT.PlayerState.PLAYING){started=true;fallback.hidden=true;e.target.unMute()}},
+        onStateChange:function(e){if(e.data===YT.PlayerState.PLAYING){started=true;fallback.hidden=true}},
         onAutoplayBlocked:function(){if(!started)fallback.hidden=false},
         onError:function(){fallback.querySelector('span').textContent='The embedded stream is unavailable. Open ABC’s official stream.';fallback.hidden=false}
       }
