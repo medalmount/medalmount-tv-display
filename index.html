@@ -15,7 +15,7 @@ iframe{display:block;border:0;width:100%;height:100%}
 <script>
 (function(){
   var landscape=window.innerWidth>window.innerHeight;
-  document.getElementById('display').src=landscape?'promethean.html?v=20260928-landscape-2':'samsung.html?v=20260924-valid-qr-1';
+  document.getElementById('display').src=landscape?'promethean.html?v=20260928-landscape-2':'samsung.html?v=20261010-ticker-raised-2';
   var wakeLock=null;
   function wake(){try{if('wakeLock'in navigator)navigator.wakeLock.request('screen').then(function(x){wakeLock=x;x.addEventListener('release',function(){wakeLock=null})}).catch(function(){})}catch(e){}}
   wake();
