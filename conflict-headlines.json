@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T09:44:41.711414+00:00",
+  "updated": "2026-10-16T14:17:49.201745+00:00",
   "items": [
     {
       "source": "The Guardian",
@@ -8,18 +8,18 @@
     },
     {
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "Five killed in Houthi strike on presidential palace in Aden",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzFsNGgzM0NPdzFhRk5icnlLbEFTTUdRUmY5TjFYQldFcnUtSFdrZFFBbnVqei1WcHRyUFlIeXBZdHFldVFyRlZ2VVpZMDE2WHJGSFUxMUNwRWd5X2MyQ2dvRlFwNzZSUnRSM29CUlIxQkxmR0FVT1JaNkRLSFJjZVhsV05nT1dZcEhVU05PbXFZY19KeFZ3UUJiN0JLQQ?oc=5"
+      "title": "At least three killed by Russian drones in Ukraine which cut power to 370,000",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeU9vOXNITnUtaEFhUUdENmpsWlMzUk5jVjZtb01qUDh5VFNWVy0tUHpnakZuS21ZSFh6YjBEcmFnaEZCQnBnYkRPd09MRDNUNHZieGlaSy11cm5zajRHMU96MkNPODBKcUlVS0Y5bXNlNVVoR1o3T2p2cGhSb1RpWXVRQWZSUkV6YUduRXpnTERTZ0tU?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Trump says US may need to strike Iran's Pickaxe Mountain",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5"
     },
     {
       "source": "The Guardian",
-      "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
+      "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Houthi missiles strike Yemen presidential palace, killing five",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFOY3lPYnZzY2JhR0RfeEUtQU1lZDVLU1N4a254d1Z6ZmlLM25LUm12Q2tudk1VOU9oR0xSaW92aUJEUlgyWWJ5NVQzVEJNb0dzU21MWWlXcU5JNkVKWlE5eVBteEItT3RXSHRvY2djQTFkOGNIUFVuVXRERUItcnMtSl9hdw?oc=5"
     },
     {
       "source": "The Guardian",
@@ -27,14 +27,59 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0tQU2RyY2ZfVFBYeFYzb2RkWEh1dUtTZHBfcUwwdU1ELUViUmU4c1JBWlU3QktJRTl3NFRBampJUUN5V0c3VzZtbHJGb09lMUtOUHlZY2k0UF9XcHpSeV9talI2WDAwNldoeHpDNHBnYWR4Y0dmOWljMW1TR3ZJcUtleWZ0ZVZUUV9nclNsZmtMaWlSRWxPWXBLeTc3bmF1WE51WUJLYw?oc=5"
     },
     {
-      "source": "BBC",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55WlVaQ0dKd18wLTRNdDZ1clMtOGU2eTBYOU5wWnY3bWgtU3lWTmNpd1pHTFZNaW9BVDZWMXh4Si1jd2c0S0pxalhyQ01FU1NXb2s3elViWGY5MlU?oc=5"
+      "source": "The Guardian",
+      "title": "Houthi missiles strike Yemen presidential palace, killing five",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFOY3lPYnZzY2JhR0RfeEUtQU1lZDVLU1N4a254d1Z6ZmlLM25LUm12Q2tudk1VOU9oR0xSaW92aUJEUlgyWWJ5NVQzVEJNb0dzU21MWWlXcU5JNkVKWlE5eVBteEItT3RXSHRvY2djQTFkOGNIUFVuVXRERUItcnMtSl9hdw?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHZJUmhnT0VWMDRFLVVBX3ZVeDFPQVphWWhLWndQWFgydVNCUGswZU81U2tKc2MzRl9BcFlCLWw3WnZwR013MXBxQ2czQ3BNYno3Y2VTeUhyQkUwVGN4SEVOLUd1Q3ptT2FWRDRPd1VEVWVyM1NrOE9lWFpGbDVhQks3MndlQXBEZTZrNTd2X181ZDlLYzZyOFhrVDNFS1NyMzRJR3ZXYWnSAa4BQVVfeXFMTVVpdThSSzRBSGdub3dMa1RPX0hIRFRUOFVIdnZZalZPTWR3cmxiMlM3MDVtdk4wR0Izb3V4OXBYMFptN2otc1YtUm1mdm10cVQ1Sko3MlVWb2pzZ2tWMjF3aF9VeFctOU00Ukdaa0luall1aTVTenRkS0V4RnNGMy1lSjE1N1NqSVdPN0dZUzQ0eEFKaW1VN2JOb1dIQk1nT09DNzgzVGdKYXJQZUt3?oc=5"
+      "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0FUcE5JS0pkWHNqTXE3cVlkallOSlZjQ21tUWQzaHEzRHhDazFxR2NmSUNsanc5NkJUQUZGRDJsNjNaTDdnb0ZwTnF0V2RRT0NleVlLZUdtUW8zcGlRVXFrcnV5WEd5SHd3aDhrV2pLTXluaEc1Z1ZwMlc0NGthV1ZEamdYVngyZ3VBMUlyR2VuMFRTMDlmR29RTzg2QWMtTHp1Q1psRVQ1cmdZOHfSAa4BQVVfeXFMT29BVHBOSUtKZFhzak1xN3FZZGpZTkpWY0NtbVFkM2hxM0R4Q2sxcUdjZklDbGp3OTZCVEFGRkQybDYzWkw3Z29GcE5xdFdkUU9DZXlZS2VHbVFvM3BpUVVxa3J1eVhHeUh3d2g4a1dqS015bmhHNWdWcDJXNDRrYVdWRGpnWFZ4Mmd1QTFJckdlbjBUUzA5ZkdvUU84NkFjLUx6dUNabEVUNXJnWTh3?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Jonathan Glazer says Israel’s retaliation over NAZA ‘more venal’ than anticipated",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm15eEtqYk5NLVVMdkJ6R1JmNkREZlNDZERRZlJqZHNuV3JOV0tCRGhMUlI3MFczVTlRSVlyUzZBaWRzOEQ3Vm94ZF82NTFIUzRjREZwZE83RUxMbnFmZVo5aGNRTXpiNEI0aXBMSVRJN05LME5ENTRVS3FuSS1CNV9wcFhUWGtNWWNtSW44emNBUHZ6U0tfLWJpdDdrY2ZPWEwzVERLc3NMUlY3YnRBMlhRZk55amhqLUV0cGtfSnM?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEVJeVVzcTNFVC1FOUYtQWMtY0NiSVBxdmFYeHRUM0gwcFN4ZVhiQ1FNRV9SekM3TG1CaGMzQXU0MzhKd0htR2lvWjhGSWdCOTBXbU4wSWtLT2t6Q05MbmtneGNXSW5qRWxjVWpWYXUwemNuN1FzWXo5ZVNiYlh4ejNDT0c4clU1RVAyVjFvd0tzQlQxblhXSDBVcnRGNmg4R01pR2ln0gGrAUFVX3lxTE9Jdng1akZhN2pvQ01wS08zdGVYRzgzRGhIWVZBNmlNTWIybnlRdm5HZ0JVVlp3UE1qd1B4bEgxS3h1REVUUUtwRGt3d1pDeVBxQWdodkJJV1VHTUwwMkdTV3B3ZzlSTUlEVWxPSlFwS2kzRjRiU3Jnd3BGQ0w4TEgtekR6bkFLUmxsYU5lcG5CVU9DZHJxREF3QkRZejRtTlN5TE45MmVIQVlrZw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3VsbnB5RXpMTExtZ0U4Z2dWYUg5bE5pMzhQcXluNDhQNHlVT21TRnNPbGNma0lXVUNDQ3Z5blR4bF9MMGJhRkQ4dVBnQ1lwR3FnMmRmdFd2VmtZcU5kZWRLLXduZWhGZUl3c1RNNGgyNkhydzMzN2tIMmhlOXFaUW5MYXJpMXoxLTBwVjF6VDJDU0xhVXgtdXZEb2t0Q1NkUEkyQi1SajlnV3JnaW9fWkRYbTJKdHBUVkg2ZEVxb0RQUdIBxwFBVV95cUxOUDJJWk5UM21WdXJkejdKNTMxcHg3VE5UZ2d6aWpLSE41OVpYV3VidzN0aXo0STNLZ05SNGhNVUcyWlR6cHNrWWhTWnJDWXRUV0IwR3BiNEM5UXI1Z3p4VUo3eWVydjVkREg4Z1hKMkVZQUZQZnlvUUs4U1NXV1luemxuWkZ5VkhpRUZ5WlpWZ2o5ajM5QTZlUkVBLUJWdDY5V3FFY2ZzaVJZbVI1X1d4NW83Nmk3S09wU0ZlYU1DMG5UejNMaktZ?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Russia talks up refinery attack as Trump blames Ukraine for expensive fuel",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEIyVDItZjJtU1kxNlBBZWU1eEpadHhlaHJRMUN3WUVTbnNibUgyemJ6V1NQZGdiN1NocU40ald3bEJYbGhZNmRZMm9kNEZxR3NVX21wc1UwSDZuQklaWVBWQ1c2MVItNTBidDR3eDlyRUxwU044SFhoSUNJVjNZQzlORzlwV0NZQ2FaNGRhQXVOSnotNGZRakR4bnpBRDVwUmxuTDBHMWZTcVhUeVlzTWxKWnRzYVB6WFJr?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Zelenskiy blasts Trump's diesel deal and calls Russian peace moves a 'parody'",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NQXV2ajZZY3BUWGhPUWp3Tkxwd0tsT3VMTW81d3h2T1h4M0NWLWpPZ0Rna2w5ZzlNLWFCak9rbElPT0F1M1lMYlJiMVJrX29YYWlWNzBXakRTWmc?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "BBC witnesses Jewish settlers attack Palestinians in West Bank",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05MThBbjVYUGtkMHJKcm5Qc0Y2bGdwT3ZvTjN2eU05ckx4YmZMUGN4S05YQ211enZhZmtxUVduYzlUTG1JZTcxOGZKQkJyY3cybnVZNVBhbDE?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWlWWWFHSG1jSHJWU3dnVnVqMzJZYTY3cVJSQXRlMkdQZnRMekQ0WFpzcTlZa2haam1VTEhPUGh2RDk1TV83UzhiU1U5UkVhel9JdXAtaUZoOUN6LUs1dWJBN0FtOGxGRTdkdlJrVkltMjNGclpNMVVRU0M3aTZjRFk2U3pCSDhGcjhHd0h4UzdldHJPeHBOaDVfV1YtcVZILUs1Zl9FbldyR3J0d3RPQk03TEHSAboBQVVfeXFMTzhnTmhhTGlVZEZUUENrVmdCeWlUNG1rTW1Ub05mNEtBZXN3aG94UXp4NnZfNlJuOFRFQklobXhRNzZ0RUg4YktlZVdrSGptWDRKc2d5OWhJX3hXaHphNXRmYkMyWW9lV0JUbmpPbkxBR1M4Yi1XZGFidGcyaUlVT01vd0VMalQ2OHZwN0ZJNklkTnVSREMtN0oxYnJSblFsWGtZa3pLZVpwSUlIWWdndy1CdkNMNTFtWGdR?oc=5"
     },
     {
       "source": "BBC",
@@ -42,54 +87,9 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lblNOOEc1RDc5Ti1Bdy1EX1p6VEQyZ3E1ZHp2TUdpRGI2QW9BVVgtSVBoQUhyazJoRWxaT0FialpnT3RyeFdvNlg3YWFJS3hwREV4eUFTTDN4Rmc?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGdOaGFMaVVkRlRQQ2tWZ0J5aVQ0bWtNbVRvTmY0S0Flc3dob3hReng2dl82Um44VEVCSWhteFE3NnRFSDhiS2VlV2tIam1YNEpzZ3k5aElfeFdoemE1dGZiQzJZb2VXQlRuak9uTEFHUzhiLVdkYWJ0ZzJpSVVPTW93RUxqVDY4dnA3Rkk2SWROdVJEQy03SjFiclJuUWxYa1lrektlWnBJSUhZZ2d3LUJ2Q0w1MW1YZ1HSAboBQVVfeXFMTzhnTmhhTGlVZEZUUENrVmdCeWlUNG1rTW1Ub05mNEtBZXN3aG94UXp4NnZfNlJuOFRFQklobXhRNzZ0RUg4YktlZVdrSGptWDRKc2d5OWhJX3hXaHphNXRmYkMyWW9lV0JUbmpPbkxBR1M4Yi1XZGFidGcyaUlVT01vd0VMalQ2OHZwN0ZJNklkTnVSREMtN0oxYnJSblFsWGtZa3pLZVpwSUlIWWdndy1CdkNMNTFtWGdR?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTU5VVFnZTBlUnlrRWQ4Z2VEQWxac25aYUN1YlpMM3IyOEdZcTF4LUFwMXFYdnNxTTBndDlISWxucERjRWZGczhPbFMwZ2NDVlltZF84TXYtRGxmRGxlZVZuQTFtY3hHTmpQeEtvaGFvcXV1UHNwUmNYTlZmalM5Z1FzS0RKdjFrSWkyc0ZRQnFMZFpneVFTa09nMFdVSGtfdUpSalNZc0VLYzjSAbABQVVfeXFMTm5kcDd2cjk1OEE5TWIyUmhWcy0yYnVIUXdVZFdWS1A4SER4QW0xZ1VFYV9BdmRlZklxZzJjVmNlYlZvSk1GT0h0VXlFaFlPRFhvazhYYnhqYW5hV2puczlzekVyUHRRYmpkX0hvaHdBWkZBOVRvbm5kTDBnUS1BZURiakEtVzdydUJiZGE5WHcwU0pmamFncTVFMFZyeGZ3RHhTTFVuZk9vOE93UGxZTW0?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVp1WlAwNVJObDJBRVktTDlqZ29DVXVYN1N4d2tOZUduaXlpUXd3V2FBV1F4NE5ZbnBLellRS21DTTluZ2dMQ25RdUNJUEhHS2QzUm9admRQTHdvT19GVzF6N3JfN0I3QmF3OUFwRE5SMUV5MENueHZfNXM1NlpwczhMMjR4ZzZ5c1RjNHNtVERDQzNSLWNqQjBhM2xWaGZOdzA3dFhnZTVqVXNBRmE4em5n0gG3AUFVX3lxTE41UnJ3VW5iT3ktQmxjLUhrTHJlVEZwT0Jsb0NTUzdhTEJIazZjQVZIZWZqQUxFdTVyTGtFbE0zV1JyU1BUSXZzUUFQeUFiVjBiX0ZCNkJBazlMamNFYnkwS3BDT3hLMjR5RUw4VC1jeHRjRkhOTnFUNXNNNEU1d3dUWm12a2dlN2MwZEI5TEpuVE5QcWFoTFVkRENCbFluZ19jT1dEcUZRemY3b2Yzb1BoTS05WC1UYw?oc=5"
-    },
-    {
       "source": "AP News",
       "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanVvOXBrUl9qVzlNb3ljaFNMclJtU0JkcGMwOHg3WngxQnJhSUc4VzZGV0hvRDBBek9DejBaaTNwWVVSd0thaUt4dXJWZGVEVHdaeXNHQXVpV3pmZVJwN2o2ZDFrTXNGTVdaLTcwY1haLXBlWTRRNnpZSXFFSmllQ0xEdTZHLVRhREJCU3Q3WHlycGhCcEdTSXpjX0VDb1BXYXFiaGp5VjBXQQ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "What is the ‘Mother of All Bombs’ US could use in Iran?",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnpfOHpvZ1VIWHJWQTg0bjRuRXRRMnN5UlBGUE9XaFU2S09EV3dRMFJCbHZDd0hEMnRrUUt2UFhvczBlZDctMTgxSDllOHJNbWlRRXhnZjJfV2xucEh4cy03WGY3YlktZXRTRlRzejdNd0RzQVJKeXduSTVXa2ZXVmxWaXBlUmxTaGdhSUtUWDZVNWFJTS0wdGFn0gGfAUFVX3lxTE1jX2dUMEplUm1OaHppTGpOR1BJX0ZidUVwYmt6RGdLLWtMMEJ6RHJ5NTBYd0RXVE5EX0tiUXlTUGVLdl9LYWVuZFktY2hsektwbzh0eU14WVVGcUVfSTdkbXhPR0I4MGUzUmk3N2FuOElxaGxFN1g2cjBBNjJMbXloTnJHazZSRGprVjYtMzFkb2lTUUxXQzNqcTI1c0tqdw?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "EU leaders rally around Zelenskiy as Trump calls Ukrainian strikes on Russia a 'disgrace'",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0hRTnFuN3FTNE1pY1cyNVRLbEJ3MmZ0UWZzUDhWbEhIU3R1RjY4dENuVi12U0hpeXRXM25vQTBOSWFjUFRrYlgxSWo0Y2tZVTU0bk9FQmlJRW9zcjhCMzRiNFNod1RuSWdoUUJwbDVaMmtNYi1peWgwMFhpQnVlbkZRUFZvSXliM3FYRW9IeXpzaUdGdW11Y2pNWlZwUGh2ZWdyRGZ3blhqUW9lUkcwNnI1UVk5OUJ4bk5PUEJLYVRkNVh5aHVV?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW5fbkZTYm9qdzQzT19nUjIyTVZDN1hhOEhkRmI5Rm9PQ3RKUk10Z00wUWZ3a0JFZlVyQV9NQlFSVF9jZU5MTXBPQXBwbFE4UlJEa3lGTVpELVktUWJVRHB5MHRFMWNHVEJHMWc3LXFaYXd3LVNtbW9ycDJydGN2Q3pOWWk1bTRsaWV5c0RvLTZDM3JhdUVSWHc5U01CLU9GTHlObjNqRXNibU5MbUxndFFBWV9jR0tyU0E?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDJJWk5UM21WdXJkejdKNTMxcHg3VE5UZ2d6aWpLSE41OVpYV3VidzN0aXo0STNLZ05SNGhNVUcyWlR6cHNrWWhTWnJDWXRUV0IwR3BiNEM5UXI1Z3p4VUo3eWVydjVkREg4Z1hKMkVZQUZQZnlvUUs4U1NXV1luemxuWkZ5VkhpRUZ5WlpWZ2o5ajM5QTZlUkVBLUJWdDY5V3FFY2ZzaVJZbVI1X1d4NW83Nmk3S09wU0ZlYU1DMG5UejNMaktZ0gHHAUFVX3lxTE5QMklaTlQzbVZ1cmR6N0o1MzFweDdUTlRnZ3ppaktITjU5WlhXdWJ3M3RpejRJM0tnTlI0aE1VRzJaVHpwc2tZaFNackNZdFRXQjBHcGI0QzlRcjVnenhVSjd5ZXJ2NWRESDhnWEoyRVlBRlBmeW9RSzhTU1dXWW56bG5aRnlWSGlFRnlaWlZnajlqMzlBNmVSRUEtQlZ0NjlXcUVjZnNpUlltUjVfV3g1bzc2aTdLT3BTRmVhTUMwblR6M0xqS1k?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "Hezbollah says it owned confiscated explosives, meant to attack Israel",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUNqWTJxemdBVVByYW9Cc0N3NlU2UW9zczJReDZOeWdKMENNbUZjQmF1bE9IQ1VEOXNrcXpQU192ZUhHTVZ0cDN1N3IzS2lxY0ZTOXdGY3RvWlVObFZ2RjAyVF93ZUNCWVJKSlBpNDVINmxBNGRORXRYZUt1blF2RzFLV2VjZWJZMUg4X2tGMjd5VlpOVExvbFIxN1ExS1lMMnJXUXJPOWhfcnVXZEl2aUpDeHNqcnFSeUJ3NQ?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZXb0UtbHJiTHdmLTZhUENYcXNNeVptZDFGV1pUUEpuS3A0RzROVlBWSGw2V2tvdjNabmlnX1llVmh1Tno5TW5jUjhLWm5BY3VOREdYTnd5Q2RpdmdyVnVzR0lFTlp4SDV4a3JzNWo0US1xdER1eUkybkRtOHlBT2U4RE43NFI2dGVnb29fSmdPVmVPaDY3NG5fNXRabFR5dkJBU0pwNDFZSkN0NkxaU2lEd2c1Mk9HbUNUYTROV3BJUnh3TEE?oc=5"
     }
   ]
 }
