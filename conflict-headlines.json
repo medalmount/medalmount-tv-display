@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T13:55:41.817822+00:00",
+  "updated": "2026-10-17T16:45:51.036569+00:00",
   "items": [
     {
       "source": "The Guardian",
@@ -10,11 +10,6 @@
       "source": "BBC",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RS3I2MGlpT0lTUm00NkJ5SUpIbVZRX0I5U3N0ZlViR1RXbjlDR0VCcEppZmVEQVFKU29vSE5Nd2RYc3Yxc1lyTGxURHhUUjNRQURHT1RSWDhZaUE?oc=5"
-    },
-    {
-      "source": "ABC - Breaking News, Latest News and Videos",
-      "title": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5"
     },
     {
       "source": "The Guardian",
@@ -48,18 +43,28 @@
     },
     {
       "source": "Al Jazeera",
+      "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1Fb3NNanlYcnFPaTNpRXU2UjBBaDJMRGtiVnJIZFNpTi1kR195a2xnZHY3dmRHcDQ0cnBmU0JPTThaYmNDay10cm1kM2hHZmpsUkJnWlFPQU0xRG02Z1J5VWR6MHdBbGZJTndYY0ZfYVU5Z3RIRjZrTmdMYjdPdGhvUkIwOGxmN2JYZjFlWlBqWk1BY0FMYS1VVHVndU5qSkRLSEx3emd3UzRLMkhLWdIBtgFBVV95cUxQbVBiM1hhLTRQcGtDMFRJSmN4Q2pYeWpKby05VmRMZnU2LUdnbmo2YjVjUG85ZmpFRlZ3bGFFUEpSLS05eC1abHlHb1F5eENGbkxOeHhWSHFveVF2b0lrNHZ6RjZiUzR4UEdHT3gzWnl0NUd0WUl1NEEwNWEySmk4Ri1JZXUxb093WUI1YXl6OUZXaXp6c3Z0T3pyYWtYakdDdG93LWxfOFVLdDBoOEpOMXktYjNtdw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
       "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVhUUGZEdkhGc191dGhfWFNwZlNvaDBMeE9mTnJEUFZucFY1YjloR2RIeHBuekg5ZzUwNXFpeklQcVJvM0M0bkxIbGtGS1M3SW1sb0dUSlQ3aTNHd014YmtEZmRkSDVhX1Q3WjdNLThhejktNEgtYkJnaXp1RzhBZ0lqRDg3aXhUZEY3S1FSeGFWazIwQWZueTlXUmRBa3pXWjltVHRRMTlMYknSAbABQVVfeXFMT1NGdURoYUY4RmhTZ0tReWl2UUw4ZFl2Vkx0QzB1bmlHdEUxZ2x4UFhUVTQzUUROLWQxSWd1TmJzVEVsYTBWbjFUeFg4WmlucU5ZeG5EXzcxNVFKODRzdFpPMXViU1RQa29ObDZSTEVUdENVY0pBVmNUUWVkSTE3M1p0UTl6Qm5LU3hxZlpZOTBUQnpCaF9SaFZJbU02TXpSdWxoaVV0NjZNSkMxWGxiRkc?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUxxNHdOQmgxVGhJOTE3NDVyR3J0RUVSQkVDVjNSZFNnbnN0eU02ZHNOcUtvSVBuVmgtS0t0aGxWd05DNllrSjFRYnNMOWtJRmJJNG1hRmh6eXJkamNEek1sYUJKU2d4bVhuVEcyMXF4Y2hVUkNiSWtnOFFNZTNpTkN1MFU0Skxnb3BlTVgwODVoUzVZQVhudnJXRk9NZWpLd1ZuT3NIZmg0VE5iOHFKdE1Nek9CMWvSAbwBQVVfeXFMUFozLVllVm1zdlA2QWo0aTFOck9ZNEozcHM4RzRmeXFSTGJodmlBWkJMVlpBUHpuN2ZVVlVVLUZ4UFFYMExVeWdpVFdVV2tKUG40VV9UVVgyOWppeFU2cWxWOHdBV1ZVVko1Y2N6eW1jdERsZlV4QnpEaHVhRVFpWTVFM004dFdQbzFVVG1QM0wyRVhhcTJ6NkY4aFZxYnlmZGFMaW5ib0hKdG1KSDNEaGRTQ1VHZ2s4Xy1Oekg?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
       "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeDhiLUcydzlxRldTNi0wbl91U2dwejJiWkxUbEZzY2twcnh3RGRvZlZVc2pFeXJMSDN6WEdBeWsyb2IxRS12WWs1QW5KdXlKNnlDamdOVUllUDBIRHk5WUlhc3hwRG9fN1E1UzRXbWJYQTlGSmZwRXZ6d2t1VTVNSUdidWloeHVhZzdTdzNTS01Ia1lwNGJYbW1wUnFBWHNDNTFMMUpNaVdfVTFHbGdHX19fLXloZHhnQ3VUMFdYbUnSAcYBQVVfeXFMTXlqN1VMUHRJc1p4R1BTREdFQWhCWExsWmFuREdrcU5TMGV2eTc5UUlzMDZTNHZnRE9SZVV5SDZEbEtKbDdmOEZjUWdsTGpLRGlYTGgzVUQ1blhJQVhDRWlpTXF4UTFoaHBBb0lmNWlSS1phcUdENVE1WE1tSU11RXl3bE1fWXlFT2VIbHVBY3A3OGJLWmF1dlBZbHl6ZDNfRzFjdGRLR3A0endEYkR1THp0dUlDWHBvUThiSkw0UThPVlZzaDNB?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ013QTYtQ0JudFVITVllWWh1Y3Y4WXVXOW80UmlXbEw1YXcxSG5RUkc4djV1X255M3BrWFl1ektoZU5vS1pMYzd4MW5jQ19wS3o4NEFDdHEyT3BsdGl6dDRTNXRDTGVKUnFlVkxSamlaVXRRaGhCeTBCblhQaDZUbHh2TlFRbHYzWUQtODRtVDFjdGlyRUxJR3A1OGdXWU1NalRGRnlhTExDbktfdHpWMmpoY1ZpdTlacmtiN0o1TEJaZ28?oc=5"
+    },
+    {
+      "source": "ABC - Breaking News, Latest News and Videos",
+      "title": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5"
     },
     {
       "source": "ABC - Breaking News, Latest News and Videos",
@@ -73,18 +78,13 @@
     },
     {
       "source": "Al Jazeera",
+      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2J3andQTW1UOC1yU3dPTUdSZHB2R0l4SVlwSFB6VzN2a2VoSnc3SWhjcnF3cTd0RG5KcVB3UldJOW5FU29TWkg2TkM1bFNqc0F1dXF6WFl1Y2ItbU84UlpYMTNVQ3RxNkNGVE9oNURSREtKNXp5UU15U1BKOFB4dllmNDlpLXdIM0lucWoyTlFBWTNfZXlZenRtQ0M1YzlUOHg3U0VsWC1WSHVBNHFiRFhZTdIBuAFBVV95cUxQa1NLdm9ma2pEWjVNczBpY3VfeFpHcjVQelNreTE0QjV2eEQ0RGlzcmxkSU1ndkVOSi1LMnl6cS1EU19hZmE1dGJRT3ZCZDN2VDdSOUNyWEZWRG9ZemtRalVmNXV2SHFqc0pvVHBQdFRoT3VQM0EtWEotWG9pRVJfNE5rREhlanRQbzB3Vl9VM3llZGljN3JyXzBmV1c3TUxRY0Z5T3VraGhMRHlXQTVOYW8tblVhTU45?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
       "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUM4T3BZOEVlNWJJeXJqZVc0cGlVcXZhRW1NTkpiSFpBVlpoQ3ZRa3NXaThrY1A2V09hT092dTkxWFZDOC1Sa2o5SW5xNFBFb3JfMUVsX0RkMXA2cFAyOHpjMldnMjRFeUM0SVB2UUNveUhkdFBaeGxoV1A4bmF6dlpqNEhtUlRJYlhUMmRKd2RfZEVOd0J6ck5HNVdTX0RBSmJBUEFncjNqek5r0gGyAUFVX3lxTE50Nk8wdVJyUWJJZlNsc1dteUc5SmhPZkp3Qk1PRjFHeGpISDA1aDB4WTRkVnZubmthVjFJTTctRTBJYi1qR1JGNzR2a1RhcGlwS3o0RnVxd25Bem1kZFRWS0o3ZlhIcjh2Z3ZnNkFLOFBXb2Z3TjhJaFpaZ1F3VTRNY3Y3LUhxdXM4UlNVMXQwMEptQTVLeDlwa2RiYVI2TWRrUThuR1FLa003eHBjUjR5SVE?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The Israeli politicians seeking to replace Netanyahu",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1FLWkFRTVJSWk1oMkluNk55X2gzcHJrcU50eWhHb3l2QTIxRVM0LWoydG5Ec045REozQWdHc09nTGg2cTIycHJ5S3dwNDRtMFpNeWhEYVVDcXpzWE40RDVJTkJsT2FqTFotYmVBbjJyaUNydTJfc1hpNmZEbmQ5bDNaaHNqLVdabEszWEc5Nlh0Mkhhb0YySFFR0gGfAUFVX3lxTE5VZ2NDb1ZVR3JsNzZrQ1NHeWJyQVVqM3NwVWRGT3BaTzRnLTVGRlloUFZEdk9ITU5TdGdTRlo1Q2N6QTJVNDhmenkzWnYxNVpCdTVJWm5sVk5SZ05CVWJUUXhISXR6SlVMdUJ0RW9nY290ZkZFMEpRSzZrMVF1R1RWb0RjNHMxOGh4T21WNTlVUGEtZ1FUQ29yS3ZwR3N1Yw?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnRrME9ZQUVSeGlIUVp4Q25qU2NFZ3BHeDlGdkM5Sy1BNHkzVlJDd3pWNHpuTUhmcWFZUnM2NmI1NDVQV21iNm5GU2tHV1QxdlpPcl9mSzhmVjZLSTZLaExIbXBlWkFmRU1wdjBNdXhjSlZVZF9yRUt6UEhBdVZackxoOS1WNE9DdXM2RElnaVoteWpveHVEQXk5aC1reUVZcUYxaG5KdHdJTzlrQzJXMFFKcTA2T0nSAbwBQVVfeXFMTll2bEE2R01ucHJ5RTdqQUtiSV9sdW1fdzJkdmNMTWo2a2RpNXhoejhObVRWR3M2VndNQlB4Vkl4WjJ5TzBRMzFqQlFHVHdCeUtzTXFKbjhlX001SWRFS21lZ0lpcVhSMUYyR0ZuVnVjOG9kendRbzE1ZEVoWnJQdnQwWU9ySjdnZmhDOHVJeVRxN3VGbm1tS0dxRDVXb1lVdDJBVFZFRWVLU1BWZk5GaW03RmxpY1JsVFVlSEM?oc=5"
     },
     {
       "source": "ABC - Breaking News, Latest News and Videos",
