@@ -1,55 +1,15 @@
 {
-  "updated": "2026-10-18T09:52:52.007403+00:00",
+  "updated": "2026-10-18T13:40:29.013288+00:00",
   "items": [
+    {
+      "source": "Reuters",
+      "title": "Iran urges US to accept proposal to reopen Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw?oc=5"
+    },
     {
       "source": "The Guardian",
       "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaVhFZmZzMkExNWFNeFp5S2dJVUkwMjdWbGVSQjhsN0UwM2FjM05fLUF2VmVTaGwxMUEwMHl4bmRTRUpuRW80U08xekZlUi1NOHBZbXJzYWo4dE1lbzM1U0hHLUF3Q3p4eDJnWnRHcmdBYWhSV3liQW4tb3Y3VUxyWFNpSVNiT0JJdVJMQVFPM2J4UVJsZjRXbE1lbVlTTGJ3Uzdwc3BuRm1UczJrLVdCNTVzWE9yZVFqSWNIc21XWW1JTnVySmZUMDVHaER2RjlXVHhZQmFqbkFvZ01TOFpV?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "St Petersburg under attack from Ukrainian drone swarm",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZMWDY1UWZoZzRJSUFYMnZHbDFGZ0dvVHlxWmpBS0JUVlQyby1BQ3ctOTNTdDZWa2h0cmxrMDlyMlJSZWhCTjNhal9mcE9HVVBWT0JxZVJ2VUMyZFpMRVM1T0Z4NjFsZ2pSVFJ4YjZQUXlpajVXdFpvYXFaY3BuMFp6QzNTMEF1WllwVmlWUUdPNTNpUHZNTlREU1dUZjhoejJhTC1fUHPSAa4BQVVfeXFMTVZKUmZRZFd6eEo3eGw1VGVuRGxiS0hnTnhTMGUxS0ZCYzJ3SmQyUlQzcjJqdHZ2R19qb0Ytc0ttQUt3eENZbDR3UF94dlJMaEJaTVVsMk9RY1NjeEJoU0stLTJzN0dkd25qeXdRektNa2NDWmd3X2NxQ1MzejlMeHExNTRKNGdlSGhEWl9NZ0JfcmpPb0pQbVMwRGc3dVhhaEpFcE5sbUN4b1QtVHhB?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1dUTUxGUjZOM0tsVmtncWRlV2ZaZTRBUDFSRE94Q2U4ZktGZ1FCVFpDMHZ2VlY2aTRsSDRWaHVrWk00SDR4YnFueFJaYVFKT1daa2Ixc3BuNElkM0ZINjN0LWxMN2lYZ0xPdGF3U3pjdXpMTVg5c1oxVFNCR01zcU5YUTVLbzZ3Ty1LM0NuU1VGa3pZcHV0aS1BLVpfUQ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVRlRFBGN0J5dV9yQ3BqWGduQUlmenJldi1DT2EzSzl0cWtSVjhJYjBNYmtfNzk5aEJfN1cxc2tYalBXLTJteDBMekZjdjVTb191XzRyRFFLZWc5THA4bzZ0RVdKcW5jNWVEUUVuWEZiNlQ0NXNwVUxtRU41MjlCOFpOYkphTTVWbmVMekg3ZVdLN2pPSzdzbjhBUzB2c2NaRlpMRUxqS2dLUdIBrwFBVV95cUxQcDFWR3lSeGVfcW1ZRm1zX2wyd3NSX3A1aEQ0cUxEOGpfaG1LWmQ5S3h6Slc0a1p4N2U4OVdQZ2xELXJaaHVLWFc3UEJ0RnAySFlXTmszZzQzR2MzaEVNUlN2Y2VDSGVHUWRJVkd5MHdERWNCZUY1LURLMUNCajJXZmQzbHlIdW1GSU5BbUZpYUdGVkFOUm9EaUNMYW1FWjN6SmF5eFZBdUtxX3puOGQ0?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why Iran-US negotiations keep failing",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2Z0MklEaG83bDd1T0x3akFyN2J1WGdkcXpiWl9tZFBvaWI2WExfS21qbzN3aDN1MFBtOUZXZklURnhZUE1VWEJ0TDlST0tLNWlhX3ZJRElxVHBPYUpSbERTbTE1QV9XTVJqM0tTcjlrMHlrbDduQzNuajc2bnBEQ3VjZ2tEbTFEY0dXNzVudFLSAZABQVVfeXFMTTdmdDJJRGhvN2w3dU9Md2pBcjdidVhnZHF6YlpfbWRQb2liNlhMX0ttam8zd2gzdTBQbTlGV2ZJVEZ4WVBNVVhCdEw5Uk9LSzVpYV92SURJcVRwT2FKUmxEU20xNUFfV01SajNLU3I5azB5a2w3bkMzbmo3Nm5wREN1Y2drRG0xRGNHVzc1bnRS?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmwzOXE5SlU5NWhjUjFoYi1MdXpqMENieXhTSDlBTWVpVFFNUHNpVnY5dnBhenN5d1lnMFdWaFBPUHp4U2p1MUdIdGR3Z3o2Z2x3dkVpX0hzaHkwRlhjMGVXLXBCQS1fdndHUEtDX2FNb1d2Rnl3RHAwaTNBUVZNNjBTZ1lXMVI0NW9ZM1BHVS04Sm1sbjdtYVBKUk9leUpKWTBqQWp2LUhEWjk2em5mQW9Ud9IBuAFBVV95cUxOQmpGRTRldjQweUxrbUNIWVRLYUNrTndZSGRRVGdKNlpNQWtOR0l2UlFoM21xWUtwSEQ0WG11ZE45b1BfTW5sY1hkdG9hVlAzMURrWDZDQnVlUEt4X0hjSmRTSXFTS1NDWGpCbHZUNEdZSnhiN05RVFRQZU1VT2FWeXdTNkxTRFR2TGJsMEd2eFRHUFhjOFJCVXpIeTlyZnlRWE9EWWNMeHBZUFVmZ1RmWHR5ZVh4ZW1D?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXlMdzV2TjVqTzJZOGNOaGREMzdHN0ZTZGE1T2hxVUlzMDZaMkZwYVUxTkhrMmwwbk44ZDdkQkt3UDVndzc0S2Q4RXFGbzB2eGFVcUdNampfNks5ajA5WkxRamVKOXRGdXhDdkRmUzJ1VEJUdmRMRnRYUmE2UVJFQnNSTERiS2tnbnE1ODlFczhNRzQ1VkI1Qk1sSzRGeHBBNjFjaFRDM0hsS3puV2FvZFdNNG5sUdIBuwFBVV95cUxPWTlXTUZxNEQzdllmbTFnc2d4MzFIYUxDUlkwVUxwd1JaZmsxaVlheDZaYUZnQWZkTlcyME5RSktKWEtkSGRLX3ZtRXlWMk5DQjB2SlhHamd5UHh1cnV5WVQzUm50VGdxNnlySHgydzBpNlR1Z2p6aXgtek9PZFltYWtreG9fbXhDSEhRVXhWdExSVHZSQzFpcFVzak82R2h0SUVfTGczd3pOTkx2eE5hM3FsSm9aNnFWX2Nn?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVZhLWhnbllzUmRRZXROblpYMW1kN3hKbFNqb1Z1QzdFc2FxMXNIV1IwUW9zVHdvY05pb1BjUUpzSVo1dFRhVExwQkNnNkd6b1RhQUk3Wmh5VDRrY1VnUGwtcjQ4UGJtaHBvNUhJbFFRVGJ0V1Fyb190YUtJNlMzaXZKQjhOdnZUNkFSZ1BULWVJbG83ZDdMV2ZkYmgyMk9fNmtManYyNWstYlZSMy1mQ1haUdIBuAFBVV95cUxOY2QxSFJMZlhySlh5VGtHZmhCUnFjaFVZVlk4NUVickRHSG8wRUgyQTBXcDY1OFM2RDFnZGRWWVBubUVzZ1BHMjg4bV82NjloQ3Uwc203UVlLS0lJN3BDbU1ZMEpoRFkwZ0RjdHhkT3J0OXhzVEllRFR5Zk5jNVhici1RdWlFdWVscklpWktzcTVkNlpzSkY5aGdsSE5Ld3pIRndYNEhGWUJhVXV0WFlLM1NIejhsdlZV?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzE5OEQ1YmtRaTQzMEN4ZC16UVlZOXRXTm9kZm93dldxWmxwUkMwYVJPMkx4YktUcm15d2ZzbHJVbFNaZUZ5RDl3V1lxVzY2eDA0OHFhT2RINHhNMU9GRFNiQ1RRUmo0akRHOEhieFZiZkYxOEEtSkFWUkMwQ3UxdWF0VVFSanNMY3M1RDVBSzk0ZE5lRVd0R2U1TE9HOTEtRmxEOEduRlowLUpv0gGyAUFVX3lxTFBsajZwTGFfQ0YyU0hzT2drU2xPM1haeGl5V1JOamM5TXFDeGQ0VmlCQnBNWDNkanNELVBBZWJTREhPSVRUd0tJM1d3T1pKRzlvZTk0VVdQTHlJdVJUdWhndUFrbnFvcXJoaWwwVVNDM3kwWEtBdWN5Smt0b1dtZ3lFYkFIbTE2Z0Yzb0FXRVNSVUlhWHRJRENRT21EMnVjN3N0c3IxTjBHT2dqemFJZ1VIeVE?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkp6amhHMk5rdjhLTWxhaXdRanpXQnBPZmtkOFIxU2MteXFTSzdCRFlUdUFHZUk1Y0VUeHg0dGRVaUdQb05VQkxsY183Y3ExVTE1al9MZGkzYzdHQnVpV0hkLU1pSnJOVW0xWlF3TU5tdzAtTkRrLV9ORm9pZVpESUZ1RmZBTnVIMVFxcUxYV2lSc19CaEduNmVJcS1STnBNNk1OUEh2S2RLNEhFRWVJTXBHSnlDQ3RBUkHSAb8BQVVfeXFMTldCMFJTcU5MRVV4WTFpd05IX2RRTFBpNDdtRC1FV1ZjcU9tc1dmeVZNNVczamM1OTJ4cEpaYzVIYXdIVzVZT2ZhWXh5Nk41MEd2YVcyTUlBbUtVcEREeUEwaUgtbXVhZ2ZNY2ExUWNsUlpmeHNuY2dKN3RRWGYtRDBVX0tMbUphbTV6djlDVVNYNVAwWVc1alBmSDdDWmQzRmpMOFFjLUExZk80c1lFbEVrUlhqeklWZEhlTGVDYnM?oc=5"
     },
     {
       "source": "BBC",
@@ -58,38 +18,78 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWx4S05qQkt5VWg1eWJOQ0ZvTjl0QmRKS0lnSDh3LVpOYTFXYWdESGpDNDJremRqTDZuTVQzVmFfanBVbTlPbTVTNlJ4NDc0Y2I4U09GaVpXMUFJUDZRY3ZEcHNObjI3RHYxRmlEVWpvb1Frei1Vdjl1TTZaRE5XLUJXc1lWWk90Tng0MTltUENpZVpxWmprTlRZQVZqWHJ0OFFzaUI4b1RVUVBwam5HM3RWa3lZeFd6bGZYRtIBwgFBVV95cUxOaGp4Y1JHZ1lHMWV3N01leEkycTlWVnhiUHBsLXBZZXN4ZHp3UUlfcXI3TUxGSnpKZ3REYWRqSWs5Tk5PdEdBanhTLU90WlBpRG0wOUVLYzY4UFExQXkyTjJlSUxWR0FFb2lja0JDMkhMWDhwMVdvVUVTRFdLdlQxVGpZN19OWl9TWEFmMG53UEphZ0NfTjVmZndONklOckF4dHhZbV8yWEZtUzEtd2R0aVY2eXVybmdyemNIZHNfc2Zmdw?oc=5"
+      "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRy1XbDZOeHREUlNCbnZHejI3VDVWZmNWbFNXRFhxSmNtYWJwUnA3azVHWHNqb2dIbEdjN2lNY25YNGV4dFl3SDF0R2JVMkQzN0tleF9xQTBNNlUtbGpzTTUyR08ySmpJUjVUNnFnLUkxaU10eFRjUmpPSmFwRmdQamhJSUJHREMyRWV5Zkxua045a0UxSnJJcDRzZE9GLU1PX3AwRUE5NNIBrAFBVV95cUxQSUF2elRkNkFEWThQS0FuRWdScTh1dFdlaFZkQUZBWmd2MkhTQjhCd0RxUmlMaEhya0hqbTNuVHdGU0VDT2JIaWM1QVZYUUJzSG1IMWt4S0FuQjJ1TlFqTE5hTDVaSEZHMmRUZ1lwTWJ5RWY3d1ZWU0Jza09zN3dQanEydTA0NlMxRGRYX3lfWl9KNVdiRzRZazlkNVRUdGJ6QWRKZkdmUXd1V0Fl?oc=5"
     },
     {
-      "source": "The Guardian",
-      "title": "Israeli settlers attack European diplomats in West Bank",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1IwNHJlUXV4YkJjMC01bkZ4TlJLS2E0azlhY1Z1UU5lblh2d05LYlRfV3ltMWR6aDUyS2JlVFFCWERlWGFTMVdqcUNKLTRYM1AtRjFZS3lVT2ZkZnlJd1pjQVJBWDN5Y3E2MTJkSk1XU1k4emx6WlFTY3JHV1ZhcWViZWY4UHU5VmxPenVWVXUwdlAwLV80eDAxdWU1ci1aMHdn?oc=5"
+      "source": "Reuters",
+      "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2VkdUthM0tJaW9aVmdFeW9mYVVmdmVMZU9UZml2RkhQNHhRZElTZ0tfcWhlTXFReEdTN3VROFVnQVFkMko4ZUsxZi13Umhwb1d3TkF1QmpJRTJPMWRaWG1PS2EyT0V4RjJsazJ1bFQxSTRqLWx2MG1LTDJ3N2Mta3hfZG5aeGhyaTRUaThtLWhoZ2hkYmJKVkZMcFZydjduemduQkk5YndraG5DWFlnVUtKeWg2czFBNzBhYtIBwgFBVV95cUxQZmZON0l4MHRJdUR3NFdFNEJabXdrWEhVMkhKM0lkNUJCbWlKZ1Jnd1Rqd19qTzJ4U2ZKT1JCSjRidG9BN3FGbHNpeEJ4Nks5SERXY2dvZDNMWnUxWUgyc1ppZXdKcjNwMXpZd05pbWpiUXhqVGFtNWxndFhCUWRzUV9XeHhZNDhidWdmT0RpYU15cjlpZy1VbWZZazNXbEY3WFVNZXZ0SFlVZXRGUjg1YUtJWUNIaU1iMHhLeFdqQWEydw?oc=5"
+      "title": "Why Iran-US negotiations keep failing",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzJfRTJ4WDA0NTdUSmF4MVVvZzNNMVVUaTJRZkkybFNuTVg3dGtHV0RDTGFvM2V2dWk5YnpRSjFQSHdmZFdWZVdPLWJWYjFRWXFSWkVQWERDcW5CeWNXQ2M1U0pxZ1ZkNXkyT016Zk1lRElfVVBCRDAwVVIwOHZqMlpSYlFFWlpzOGtv0gGQAUFVX3lxTE03ZnQySURobzdsN3VPTHdqQXI3YnVYZ2RxemJaX21kUG9pYjZYTF9LbWpvM3doM3UwUG05RldmSVRGeFlQTVVYQnRMOVJPS0s1aWFfdklESXFUcE9hSlJsRFNtMTVBX1dNUmozS1NyOWsweWtsN25DM25qNzZucERDdWNna0RtMURjR1c3NW50Ug?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0hLWEJLMnJtamZLbEhtMUZleWYyMUN6dFRCMjhuZGd0Vy1ucmMwUm01OHZPY2RCWE00QVAzNEtrNXZtajVTUTlJRGFHOWk4VzNxNnc0YzJlOGVpakF6VW5EZzFubGxYdjNsNmVUR0k5azk3amZ0TWJGeURrTDNtNkFocUFNd3NnckxxQy1oanlyclQ5aEM2NXdWM0dma0ZGeFlqNldOdDdoakh4Q2pQcUtmSDBQd9IBuwFBVV95cUxOTjlHLThmNE45Z3gteWs3S2VvU1hRTGsxdml5eTF3d0paWS1rNFhMVENZbHlKTFctcTRhcENxNzlqRXJVMEhQeVpnMzFaRzhUZ2l5ZGZrTjdOdlI5SEdPNjdxTFJ3MHpiaXBMeF83ZjBKeDVrenh6QVlyVlFUa2h5Tm5wc1hYbEtOYk8zak9GeW1TSHlZWDRPaFZiNFBxVUxnWEI3Sm5GYWJmU1JhVXRVR1pnaU0yTV81Sk5J?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVRlRFBGN0J5dV9yQ3BqWGduQUlmenJldi1DT2EzSzl0cWtSVjhJYjBNYmtfNzk5aEJfN1cxc2tYalBXLTJteDBMekZjdjVTb191XzRyRFFLZWc5THA4bzZ0RVdKcW5jNWVEUUVuWEZiNlQ0NXNwVUxtRU41MjlCOFpOYkphTTVWbmVMekg3ZVdLN2pPSzdzbjhBUzB2c2NaRlpMRUxqS2dLUdIBrwFBVV95cUxQcDFWR3lSeGVfcW1ZRm1zX2wyd3NSX3A1aEQ0cUxEOGpfaG1LWmQ5S3h6Slc0a1p4N2U4OVdQZ2xELXJaaHVLWFc3UEJ0RnAySFlXTmszZzQzR2MzaEVNUlN2Y2VDSGVHUWRJVkd5MHdERWNCZUY1LURLMUNCajJXZmQzbHlIdW1GSU5BbUZpYUdGVkFOUm9EaUNMYW1FWjN6SmF5eFZBdUtxX3puOGQ0?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmwzOXE5SlU5NWhjUjFoYi1MdXpqMENieXhTSDlBTWVpVFFNUHNpVnY5dnBhenN5d1lnMFdWaFBPUHp4U2p1MUdIdGR3Z3o2Z2x3dkVpX0hzaHkwRlhjMGVXLXBCQS1fdndHUEtDX2FNb1d2Rnl3RHAwaTNBUVZNNjBTZ1lXMVI0NW9ZM1BHVS04Sm1sbjdtYVBKUk9leUpKWTBqQWp2LUhEWjk2em5mQW9Ud9IBuAFBVV95cUxOQmpGRTRldjQweUxrbUNIWVRLYUNrTndZSGRRVGdKNlpNQWtOR0l2UlFoM21xWUtwSEQ0WG11ZE45b1BfTW5sY1hkdG9hVlAzMURrWDZDQnVlUEt4X0hjSmRTSXFTS1NDWGpCbHZUNEdZSnhiN05RVFRQZU1VT2FWeXdTNkxTRFR2TGJsMEd2eFRHUFhjOFJCVXpIeTlyZnlRWE9EWWNMeHBZUFVmZ1RmWHR5ZVh4ZW1D?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "St Petersburg under attack from Ukrainian drone swarm",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZMWDY1UWZoZzRJSUFYMnZHbDFGZ0dvVHlxWmpBS0JUVlQyby1BQ3ctOTNTdDZWa2h0cmxrMDlyMlJSZWhCTjNhal9mcE9HVVBWT0JxZVJ2VUMyZFpMRVM1T0Z4NjFsZ2pSVFJ4YjZQUXlpajVXdFpvYXFaY3BuMFp6QzNTMEF1WllwVmlWUUdPNTNpUHZNTlREU1dUZjhoejJhTC1fUHPSAa4BQVVfeXFMTVZKUmZRZFd6eEo3eGw1VGVuRGxiS0hnTnhTMGUxS0ZCYzJ3SmQyUlQzcjJqdHZ2R19qb0Ytc0ttQUt3eENZbDR3UF94dlJMaEJaTVVsMk9RY1NjeEJoU0stLTJzN0dkd25qeXdRektNa2NDWmd3X2NxQ1MzejlMeHExNTRKNGdlSGhEWl9NZ0JfcmpPb0pQbVMwRGc3dVhhaEpFcE5sbUN4b1QtVHhB?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Russia’s war in Ukraine puts Europe on edge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0VDa3JaSWZYWWlwYU5LQV9TU2JMYURBYTRJbDcyM3Z2UzhTX1dPSF9adk5zdFpkZEpBdkNIQzhEbmJaV2pJaUsyTDIwRl9qUUp4WTVTeVdPY21iSjB6dEU3dHN1cGFjRWRzRElfRENVbmQ1UUoxMml3NU9rNURhMFdOYlBrMHcwLVdjaGRyV29FeU9oTThXWm4zemcwZTlncWFLaHNrRklWdlRy0gGsAUFVX3lxTE1jRUNrclpJZlhZaXBhTktBX1NTYkxhREFhNElsNzIzdnZTOFNfV09IX1p2TnN0WmRkSkF2Q0hDOERuYlpXaklpSzJMMjBGX2pRSnhZNVN5V09jbWJKMHp0RTd0c3VwYWNFZHNESV9EQ1VuZDVRSjEyaXc1T2s1RGEwV05iUGswdzAtV2NoZHJXb0V5T2hNOFdabjN6ZzBlOWdxYUtoc2tGSVZ2VHI?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45M0swZzJOdkdYMHEtLWhPMXdfNzZJNE1pTTVFUXJUdGQtWWgtVTF0eTZDWVJuWHQtbW1KMDRHWlVBQURyTzBObm1FSGllSUxMYzJZNkZxNVVtVVdzN3dyN2JwSGEybDNvX2JEc2o1OHB5OGlrNnFVczlYdTFTZ9IBgwFBVV95cUxPcWUtNGg3akk2OExnWjkyaFl1a0FrTUwyOWxSb2YyUDRuUHA4elQ2UnJDbGQ0b2ZNQXJlSGdWbnJIWXVEUnBYYXVxUmNmc3lUTUJxekwxMU9QS1Y3V1g2b1FHRTdoWEg5VF82Wk9hQndMNXBCQmJVa3R6SkRQTXdiZVZvQQ?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Egypt to provide ‘all necessary and possible support to Saudi Arabia’",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWF0M0dkVUhrblpKX0d0RTN2NWJVV2NpbWh3UWFKNHhUSXFkQ3p1R0RKem45LWNZNHJCRUZlQUxKOENQS1U3bGZhOGhyeFFlVVJRMmtzeUxUTjZJTnVnM2RYcTNITmFQVjdoSXdENXRDdnlLREhKYUxhd21NeUVPM3h3Tm5oTnh2dW45ekluTE9jSFBmaE5OVU8tOTNpVTZjMG1tVE4xWXRud9IBqgFBVV95cUxNLWF0M0dkVUhrblpKX0d0RTN2NWJVV2NpbWh3UWFKNHhUSXFkQ3p1R0RKem45LWNZNHJCRUZlQUxKOENQS1U3bGZhOGhyeFFlVVJRMmtzeUxUTjZJTnVnM2RYcTNITmFQVjdoSXdENXRDdnlLREhKYUxhd21NeUVPM3h3Tm5oTnh2dW45ekluTE9jSFBmaE5OVU8tOTNpVTZjMG1tVE4xWXRudw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSWdmRUh3bTI1UnAyYWNla2pSLTk1LVNWNF9fYWs4bmRLUFlXOGpNRXRHczBPb1MtVnRpbnNzVmhoVkRubjloWGYzbndVV1lwWjJXQmxMUTRnWVRsc29hOHBKbDJiaDVZUjdLQlRCdloxdVROT3FRYkd3WVl2cDhYUlRuSEhJeGNOV3o4eEVsWVQ5U1ltZnZJbXRuU2hDTVJHRl9HM2lqeTJ5czjSAbABQVVfeXFMT1JiZ0FwUTZ3eE04dHdtNVZKdFBlMnJ2ZEpqTmdTVEdsazVwSUxiMUhHODZmUHBvQ1JWZEEwVFFRNWZGalBuRjRpYUgwMGQxSkdYLXVnZDJrVFBGSFNhc3RrUGRNNFJla0w0cWY5N29kYjRMWDVVczU1dDVjY2Nnck4yaWswSzlGMUsxamhVY0xsTXpHX1hhWEl6YXhDX1czS1Ayc0ZvNENPejJDV1NfeGs?oc=5"
     },
     {
       "source": "The Guardian",
-      "title": "Masked settlers attack European diplomats in occupied West Bank",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnNmZkVmeko0bnYyMlFsdVBhemQwWFFPcEF0Snc4THA1TERPZGdlS1RscFpvNDZqWndNSEtCWENzU2tDVzJjckF4T3FWT0dVcHphdVI2NHVWaWlpeEdJbTVBSmoyVHQyVUdrYWhLd0IzN1p3VE9RZnp4R0xWaHFfOXNsRWxJZl9haTFWLUNhRzBqTkxrbFFuNlVSMTk5d3U2amZEdUxfNGR3Zw?oc=5"
+      "title": "Blunder in, abandon allies and court a dictator: it’s the Trump doctrine, now playing out in Myanmar | Steve Bloomfield",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSURmbUNIZWk0Q3h5VDQtMzR4QU1mWENiWEJqZFdDeXNmdGdHVVBQXzV2elhPOFhOZ1FrV21YMWJZWS16R0E2eWV6VEZfc0ZMcjRNVVFJMVo2NWVOXzVtVHAweTZXR24tLUpHcUpwTGZxRGdJNkZHVHJlTEdhWHZ2Ylo4WG56eS0wanQyRXl2SVY2a091VlhwazhuUy1DbDlkb0ZF?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0V6UWxfY082czVzOHFkTm9ySE5ucVR3S2I1eVl4Z1lWLTd3a0hESXVSV3ZkbHdJZ3hUZjBrZVh1cVhUaWtCaTlkTDZhUHlBa05QX3A1cUlLTjZRSjIyQXR6V2tDYkQzZ1VxSTN0ejl5cmxLNUFTVWY1M1ZEMHRtLXEtdllIZmpkVTJveFA2WHZtQ0VCTmtZV01Bb1BuMV83NHVGa01oa1dvYzFET3fSAbMBQVVfeXFMTUJBTkZZRkc2Y0RPTW9TTjNJVG82T3lYX0VGNE15bjlueEVSWE9ud3hQTDNJcDdsWGhIZjAzeEhCdTRFZFhfTGkwUnRfYUw3M3VoR2ZoYmZRak1qQTlVdV80TGlVWWhzbXBtLWl6azhkWW9TR0cxSzB2TGxseFVlMDBnRFp2RzUzaWhvM2l2bXNuRGE2M0RnYi1MbG5IN3Jwek5sVWVyUy1PZ2pvXzNScGdmNUE?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXlMdzV2TjVqTzJZOGNOaGREMzdHN0ZTZGE1T2hxVUlzMDZaMkZwYVUxTkhrMmwwbk44ZDdkQkt3UDVndzc0S2Q4RXFGbzB2eGFVcUdNampfNks5ajA5WkxRamVKOXRGdXhDdkRmUzJ1VEJUdmRMRnRYUmE2UVJFQnNSTERiS2tnbnE1ODlFczhNRzQ1VkI1Qk1sSzRGeHBBNjFjaFRDM0hsS3puV2FvZFdNNG5sUdIBuwFBVV95cUxPWTlXTUZxNEQzdllmbTFnc2d4MzFIYUxDUlkwVUxwd1JaZmsxaVlheDZaYUZnQWZkTlcyME5RSktKWEtkSGRLX3ZtRXlWMk5DQjB2SlhHamd5UHh1cnV5WVQzUm50VGdxNnlySHgydzBpNlR1Z2p6aXgtek9PZFltYWtreG9fbXhDSEhRVXhWdExSVHZSQzFpcFVzak82R2h0SUVfTGczd3pOTkx2eE5hM3FsSm9aNnFWX2Nn?oc=5"
     },
     {
       "source": "The Guardian",
-      "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXhkalJBQ2xwVFhIUExTLWw3UTRGbHdXVlhIQ0ZLaEVOREFzNUQ3MkJqSlMtOWQ1aDRwazFhaVA3ajdqNTREZFN1andxLV9QaE4yUWk4T0ZGeXJfZDIwb0JhMDRwOHN4Qlowbl9ET0x4cVMtZU1zdjBXY3J4bEp3VHAtdDItcUhzM3FfWmNaVFljamJ4enBhb1I3dTZUWVl5Z3c?oc=5"
-    },
-    {
-      "source": "ABC - Breaking News, Latest News and Videos",
-      "title": "'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3N3QWRxSWRObVZaQ1JBQWxYOUxwQU9DNl9IdWJ5Yk5jelc4aEpPMnZkblhGRXRLckpxWmNISmg4WUVBZ2o1RWxsQmdsSE1LMmF6V0ZOQW1wNjQtejVHYlJRZVNwalVOSndIZkZFLWNCNi00Tm1qM3BMMGlxdzlFUTRqOG1XWl9OZE5nSmZkN1PSAZYBQVVfeXFMTUt0b2FHckFRN2sxb2VLZUU4UnhCSjNiVnpyczRmdW42RkVPRzZxMzluTFM2clNQb0c4WWppNEFtb0xNQ2Z3TkN4Nm93ZWFOWnJKQ0xBbHd0QWlHYXpDSkczekhhUWR0dTA4SGRQXzh6ajlrbmtnMHNEdlkyX2NPUFdJc3RZR0ZtdEQ3VERlMHdsRGVHRHpB?oc=5"
-    },
-    {
-      "source": "AP News",
-      "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5"
+      "title": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1dUTUxGUjZOM0tsVmtncWRlV2ZaZTRBUDFSRE94Q2U4ZktGZ1FCVFpDMHZ2VlY2aTRsSDRWaHVrWk00SDR4YnFueFJaYVFKT1daa2Ixc3BuNElkM0ZINjN0LWxMN2lYZ0xPdGF3U3pjdXpMTVg5c1oxVFNCR01zcU5YUTVLbzZ3Ty1LM0NuU1VGa3pZcHV0aS1BLVpfUQ?oc=5"
     }
   ]
 }
