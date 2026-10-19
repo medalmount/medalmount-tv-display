@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:53:06.442752+00:00",
+  "updated": "2026-10-19T23:12:37.340453+00:00",
   "items": [
     {
       "source": "Al Jazeera",
@@ -7,14 +7,14 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQURxelJpODVFeDRIVWZNaEk5cFZlYXpMdUxxa2owdTRGbmV4SHI2a2JHaDluMzRTNFdobDdNeUN3ZHFuR1hfQ1lmSU1aWXFJc0hVaklCaWw1cEJjUno5Uk1Dc3FCcktyZV9rX3J4Rkd0UDZtMXV5NGhacDRHTTdoZGRkRGJNcG1QajFvYXk0Mkt3MS1UeDN5eW03U05COXVzOWFPbncyZFV2UkZVb1RMadIBtgFBVV95cUxQb1pVOUxXRU1SdmVLRmRkVE5qRDJ1dzdoM3JfZFlZSmxKa2d3a28yTXVReGFyWEtqNVN3ZmRIX1ZseWpsNzRscDVLZWFiellubjJsOW9iM1ZyT0FkUF9MUWljckF4WFdrSmhwd3pBWG15dGl4cXJyV2ZBY2RveFdkS01xT1hkc3JHMXFzNXFfVy1MUk9vNk1ocEVKTGFnMjROcVlMVmF1X3NYcVU4Rkd3TDNsTG1Ldw?oc=5"
     },
     {
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "Toll of war in Ukraine cited as Svitolina, Monfils announce end of marriage",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVBLVE9kem5CSlJhSklGNTRFZk1VVnV3UldJSkxIZ3NlTFh5ZE1oejBZNEtXWlF5cmVEZnB2X0ZrTnJvWW5BZm9yU2phU1Zfa09YTDhTZEhkSENESmxxQnQwZDNkTlVleVM0SmFnOVJ4Z0hwTHBaVlF4RTlMTXZ2cUhLLU16Z2ZmYUZab0Y3aFpLN0tVQ28yYkF5QzZiMWRwV3gxTEp6U3c1UDA?oc=5"
+    },
+    {
       "source": "The Guardian",
       "title": "Drone attack near market kills 80 in Sudan",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnRGWlhjWjFwQzdtaXg3eHJvLXpMeDE4cFduNmRYVTJmcGs3SnktM2VOX184a0V5MHBEa1FvNGZ0SjBjNzBlM2JMX1FIekotSnhmaVN3dFQtcUd2N0hNVm5VZmNac2ZjSUk5Y1p5by1pYjFIb2c0RVFCRERELWRuVktnUFZHNjc1R01aX2FvQjVsVkVDNVhJRU5R?oc=5"
-    },
-    {
-      "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "As Russia-Ukraine war changes, Zelenskyy could be 'losing a strong partner'",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXViRF9kbjBSb2JfRllXWEJOREJDWUdxd0ZvaGRwQWdaNXhjb1ZCdW1TU3pMc1NMTGFrcTIyY1N5cmN6cDFGUkMteVh3bE44b1VPR2UwczdRRUc0NVlsZFBmQk9fWGZoLWg1TWgxdk5Nc3Vwb2dFREtZemJHRzNkMEJnNHpkUmsxd1V1UElsSHJLSWdodkt5eWtyQXZsLXBObks4TndRTkQ?oc=5"
     },
     {
       "source": "Reuters",
@@ -22,9 +22,19 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEFCaTJXdXlZR1NxZkpndXE3d0hRYWpmRUtBOXpXeTI3M2hUVnFSVVJrQm1NS29LLWlobDd4enF2OWxOY1h1SmJidXVlUksxeDdZdVMyZF9tVklTdWJiQzJZZzRNVnFEX0tMQUdCTW04WHhmdWdhQW42cERybkd1QzBDTHgxMklXU3dvbF9mbUt3a3RSb3NhZlpNbkpWcFNaWXZhMWE5TUkzTTVFMlI1YWV3NXJjb0lSMTRQVFNqbzFsRmZwRmtB?oc=5"
     },
     {
+      "source": "BBC",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZXdMd0l5UkRDUDE2NTlZT3dWa1kweUJMTUt5ZFFWeUFVek9TYkVGYmJyNDlEVlVXS3ZONGVISXZBZ0F4XzdyYms1ZzdidWszdGVuVUNWdTkzYU0?oc=5"
+    },
+    {
       "source": "Al Jazeera",
       "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlNET3hzZkR6WThWY0ZMbkpUYjVCY1pqWG5GQm1CSlNiXzNzWXJTbFAyZEhROXljekhHenNVcEZfVjgyQ3VvcmRuS2VNWjVvYVRMWGxaaXVoUEZPZFZNV1NPUHBtRUFRMUZCTWhTT2g3cEtDZWJabGVLdDhDVGN0UjJwNGVCUWZGVnFYZ2Z3WkZqVllVWDI2eHRZaXozY1dLdVdyUjd5Q2ZuNlJOaTFhUF9pVEF5VnR00gG-AUFVX3lxTFBzaVFoRXFEcWhGVFVLaGo5OGUwWnNicXhwSzdhQ0lJT3VfNk5ySFBXcFhpQkotdnpKNzBSeWVJd3ZKaTBFRE9aRmFfTjcxRk5fLXZfdU5oX205VWVNX1dzS0g1R0RjTG9nTXptLWNKWUcwQW1VN1VwOF9QTkNGaUE2SGFYcFB2N1lDcmdzbzJUS0pMZ0tUSkxYNnExMmFrR2NFcktfMC1YS05mOFBnZmN5ZWhMUEQtOF9rYi1IbGc?oc=5"
+    },
+    {
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "Ukraine receives 'no early warning' as missile barrage pounds Kyiv",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUlTcjZseExXLUhPYUZLcHZ4M0lxbzZRLWVKT3RMYzREUUNWNmE2c1JDN3lNOHhvSlBkVm1leENuYVBmUjVQdmhrS2FCeTRKYWV3R3Q4cWVjeFJkVWlRMFNGUG0xQWQtQ2ZFdU5yQW9NVXlfMjZBZjNEY1lkZWEzOEE2RVcxd3FQSm5CdFVvSjlpeVdIeTFYMw?oc=5"
     },
     {
       "source": "The Guardian",
@@ -33,13 +43,8 @@
     },
     {
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "Ukraine receives 'no early warning' as missile barrage pounds Kyiv",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUlTcjZseExXLUhPYUZLcHZ4M0lxbzZRLWVKT3RMYzREUUNWNmE2c1JDN3lNOHhvSlBkVm1leENuYVBmUjVQdmhrS2FCeTRKYWV3R3Q4cWVjeFJkVWlRMFNGUG0xQWQtQ2ZFdU5yQW9NVXlfMjZBZjNEY1lkZWEzOEE2RVcxd3FQSm5CdFVvSjlpeVdIeTFYMw?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1Zud0l3Tmd1WENUNlFUTXM3QjVudnRWdnVrTHk2enF0eTZsWmtyR1RsMFRmUHhHTzYyN2NRdVlNamlMUFhlNkNsUmI5TkQ3V1hhMV9ISVlPaUtxYkYybkJfYzljcFZsUWtjT2oxOTdPelJ4UmZMeVNDX0U2QVRLZ2tIdXo1NjBFMTFSVGZDOHN5Z1RMVGdUc3BzSi1oRE5FMTdSaGNBdjJyMUYwYjFKdWh30gG3AUFVX3lxTE9vR1ZvNVZoeWNMbnYtRWhPalliR3NjZ2NsbGNWckR6bURQN0JLYkxqQUtRZ2lJOGVtMnZ4T29yeEFBczlFQWVQR2xwb0lnTFdZelVOaUxKTVBEbTYwUzN0ZnJoekZQZUVmOXJYdFE0VEMwdVQ2MWxJZ1FQbDEyUy16ZTlhSXhfMGhKSnVoZS16bW5rcjJvb2RJTFRHcHdxUHltUkZSMHkzQ2tReklsNE1UT1N2NHNBOA?oc=5"
+      "title": "As Russia-Ukraine war changes, Zelenskyy could be 'losing a strong partner'",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXViRF9kbjBSb2JfRllXWEJOREJDWUdxd0ZvaGRwQWdaNXhjb1ZCdW1TU3pMc1NMTGFrcTIyY1N5cmN6cDFGUkMteVh3bE44b1VPR2UwczdRRUc0NVlsZFBmQk9fWGZoLWg1TWgxdk5Nc3Vwb2dFREtZemJHRzNkMEJnNHpkUmsxd1V1UElsSHJLSWdodkt5eWtyQXZsLXBObks4TndRTkQ?oc=5"
     },
     {
       "source": "The Guardian",
@@ -48,18 +53,33 @@
     },
     {
       "source": "Al Jazeera",
+      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1Zud0l3Tmd1WENUNlFUTXM3QjVudnRWdnVrTHk2enF0eTZsWmtyR1RsMFRmUHhHTzYyN2NRdVlNamlMUFhlNkNsUmI5TkQ3V1hhMV9ISVlPaUtxYkYybkJfYzljcFZsUWtjT2oxOTdPelJ4UmZMeVNDX0U2QVRLZ2tIdXo1NjBFMTFSVGZDOHN5Z1RMVGdUc3BzSi1oRE5FMTdSaGNBdjJyMUYwYjFKdWh30gG3AUFVX3lxTE9vR1ZvNVZoeWNMbnYtRWhPalliR3NjZ2NsbGNWckR6bURQN0JLYkxqQUtRZ2lJOGVtMnZ4T29yeEFBczlFQWVQR2xwb0lnTFdZelVOaUxKTVBEbTYwUzN0ZnJoekZQZUVmOXJYdFE0VEMwdVQ2MWxJZ1FQbDEyUy16ZTlhSXhfMGhKSnVoZS16bW5rcjJvb2RJTFRHcHdxUHltUkZSMHkzQ2tReklsNE1UT1N2NHNBOA?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "160 people reported killed in escalating drone attacks across Sudan",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnQzVUVBdDYyOVdmTnFrLUUxNVIwX2w4ZnVqUWNmVVJsamFtMEpORzRHZnh4OE4xcHdwVXZZazZwR0ExeEUzMm96TFU4N1VHQkQ4dXQxMkxJY1VFWHJKcmtUa3dJSlNEbC02Z1BxSGhtRDNTdTMtSmdFM1EtRWdRQzlJMmtuejlxOU1JRHllUlQ3MEZwYTJBeThXSFNPaEVKOVh0cm8zaEt2Z9IBqgFBVV95cUxPYnQzVUVBdDYyOVdmTnFrLUUxNVIwX2w4ZnVqUWNmVVJsamFtMEpORzRHZnh4OE4xcHdwVXZZazZwR0ExeEUzMm96TFU4N1VHQkQ4dXQxMkxJY1VFWHJKcmtUa3dJSlNEbC02Z1BxSGhtRDNTdTMtSmdFM1EtRWdRQzlJMmtuejlxOU1JRHllUlQ3MEZwYTJBeThXSFNPaEVKOVh0cm8zaEt2Zw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
       "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VIWU5qMkFsVzFscGFuVFV1VEtOTWx1Wmg2OE1fQmZCalJJbkJNMHJid1JBUjJTLXVXYThDMEQyMVc4dGlMakxOTEFudklpU2NhdDU1Vm1xZDB1NXZ3RVU5em5IV01uTVI4T1RjMFhVbW12bV95Qy1EcnVkdURuT0Zyd3VtYVI3M25vN0RIUjVNeHJkU1dPbzYtUWw0RmJ5UWttS2g1b1NxVzUyQVHSAbMBQVVfeXFMT0V1ZDUxUjhWYW9iOENYbi1sNFhfSXlNSi12ZDZRbWJ6ZTVJWjRyd3BvUnBJZ2xRLWpSTUlnLWNVd0ZNZ0xTU2EzVUVsTWpNcXlJbkxLXzE4LVJ1OHNFM0NTQ1dxYy1IRUJLSGlqenFYeGVCVjhGVU5GYW1vSldqVE1weWRpRjhjeHk0QVFxVFE0aTBzN2hSQ2ZWYkd1YnlVaEYzQzN4TXIxcDFnNE5FMlJMTzA?oc=5"
     },
     {
-      "source": "The Guardian",
-      "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdmYm1KSUNkMm9QcS10VF81SWJBNDRBSnc3X1RWaFJsNnVjQXBMbnZFTE9uS1lrdVJmRGxya2JpR3A0RkkwZUd0VFgwVkNOTnhia1dDcEFiMW12cW9xLUt5U1d6ald0b1NKWUVOSHhxdzVlT1ZKc2tLSllLMnlYZlozbHdvckpWY3o2NjJ4M3lYdk1idG1RZ1FZa0dDMnBpZll6anBaMkNCcnNBcENYZTZzMTBiNDhp?oc=5"
+      "source": "Al Jazeera",
+      "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGY3eEp1ejlqZ1BCWkVka0pFRC03ZXQzc2VVclNpM21GZUlPZVh3N0xvLVpydVpyTTB0ZXhsQm1WdFdrT0RuaW5SUU9BbXlCVXNpcjF1dEQ2cmExWG43VzhiZlpwZUN3Zkl1Z2xraHVVcWFQZmZOR1ppd3NHazVTYnJ0N25sVGFYYW12VzJlRUtDaXNTeTFvMWVPZmFFT1pHZXQ5eDJKYU1KcVRFTU4tOEpubFN3MzBlSFJfdmdn0gHDAUFVX3lxTE5qTEpIbW1EeTcwM2dBQ2ItX1MzTVF4NDR0NG44ZHpzWDdINm1OUjhLT243cHRvQVdBb1dHbFVLdjlZN3FDaWxDR25oeXBZU0hIbnBnZmp3d3djZDl0WUFYRURTR2JzS2YxRXVmcUlIZ0tIUE4tZDZ5QTN3YWJGQXZoODM3el9XS1RINVF4dlB3Y2RsQzRUNTNQUXBTUFRWRTd3amI0OVpFSDJFUDJHSVVpbWR5eTc2dTlka3Y2N0xSQllRWQ?oc=5"
     },
     {
-      "source": "The Guardian",
-      "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVd5NTdZejdJLW9KZFpNUFVhVFpHaUxWU09tMU9lTXMxNGl3aG8ydFhmekpmcEZEdHNWRWs1MEVrUU1JamVKN1NVVWxyTXUyVmpQOC1lcUJTWUtFSkNEU2hweGJ3cFVaa2hfQ0xEZ1hTbEFKcTlPMGY0RTRXS3dpWXpIdWVXUWdvcV9MRnBqaEJlS2pySWNhbXBiWTRYVXktMFpmWjVn?oc=5"
+      "source": "BBC",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xREhveGpiZDNtbFlTX0F5NFBNbnRKeDBZSDlUeWZsTUVEcXcxajhoS2pSdGRFTnhpX2JqbmpMRzRBWk9tVlgwYWtSeVVkbHBHZEJXU2FtVXlHQms?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Finland seeking one million land mines as it eyes Russian threat",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTDN3UV81YXlzLThPMnBYbzZzNThwWVczeGNVMmhHMGJnMDZ0YzlabkJjM0l1QUdrX1labkp0TkZWeXdFYmRyNHM2QkgxUC1jMGYzdDNfcnlZdllCYVhRZDZmZTRnaDVlaUJNanVKWGlEQjFZS3BmNnFzb25hUXFESEJ3YUc1LTdweFJvajJnZUpKVndiM185UmRZRGxuSTRJV3NnNUlXVE5zd9IBrwFBVV95cUxPb1RYTWpzNUlMX1haRF9oNmo0WVhacUZNM0JFVmx0LUpPQjRRUkZRc2lBU01rX3VJdkFheU51YjMwc1g0eGVTMng1QWJCLWJiVkIwdWMtOG5ucUUwb1BFYXB6bU9pdkhKNjR0RGlhdTlEeW16YVZZRnNLaVBqckxSLTNCZWs2aG9rTVFEMlN5LUNkUHREMl9tX2pPbGEzYWdpTFN0Z1RjWjdodkFBaGNV?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -68,28 +88,8 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran War backlash threatens Republican control of Congress",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2o5SGJXWTd6cGpCQlBhOVFpajQxeXdHNHBZOFVYdEFEcGd2YnlqMkE3RW53a1EwN2ZkZnZCZzVoX25NdlpKc2xsUlZPRnA3YzRaZzcxOHFYZlQ0UkkzY0VDdHpHOFoyX21XZ1UtbEFxeVIzaUhLeTM3bEdmOFpFMVZ0ejRhNXl0ajVZVHJVbWtiZm03Yjc1dEREcjI2NGRHckUwVXhNQzNSbXJXRTBCTQ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
       "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcEJCSHJCeWRoX05HaTVfaElIWE11RVVPQkE2bzk1dUVjVm1ZT3JMRFV3Wm9GdjVXOGZSMEc5T2MzVlkzdk9hXzVQaGRmUVdTSXV4a1RxemFyUXVhS0c1cWE0eEZ4c2RvRG5hMUVVZ1JabldKcXVnRnlXUWFDZlQ4c0NtZG1CNEpVLTl5aHdtSGZHZ19YdlpZOXp0QW11Q3p4eEx2R2xsMlh5dk1OenRqS1lTSE5xUdIBuwFBVV95cUxQUG1DbHYyV01VRGEwR1BKOWtXWnJ4dFZqZDBCbnZMb19vV3E1Y0NabzJqZGt5Y3NSS05JT3QyR2xnOXprX2NnR3FxbWc3dk5EYXRfRzdwLTRBX21YUXFHdlZnc2F5Wm1zbkI4REk4ejk2VmFIVm94X01TMWp0SUJ1dVNvWEZjSzVlVndwTlpSUEJ0OTFXcXE2Qnk1LVlEVXRPSjNVQUhSc0hfbVpJY2w4dm1Zalg4QkIwNHpZ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDQ3Mmh0T2tYUGJXakxFbkI3QWlLTGd3eHBla2lqX3pLQS1EUWMwU0x1V0ZvaTNzQ3YyTEs0MVVfVVdxUG50dEg0dWkxN1FuYkJoOWs0N2daYmxZZ3ByVTBfRUdtNElQX3JBbV9VaU1KcGllaVRYeUUtc21MWUpCbVFueEhpOG1RdFVPaFExaVhGcnU2ZGppaGtmaW45UTZEdjVaMEkxYUvSAa4BQVVfeXFMUHJkRW1Ec0ExdGM0TDNTR0VLUEZRZkpic1JWM1Y0SHlhM01KQTAyRzdJaHhsM2Jjd1Y3R21yeF9jQm1TZUN3WFdsUTMxMzh3Z09tMkZ5Wm5tS2N6MnBra0NfWEJtdW0tX2xoR0owb1NPV0JJVVdvbmlwY1hNOW1wYjBsZUNyc3Itc0VFMEVZYTBfajZrU1hEem1OeEZuZ2pBS1FqUUtmWi0tVVI5bWxB?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkRDTjl4OHN6SE9Vd2l6bG92eFh2YV9pUXJZOWMyQUdIVUhWd1c1eTdRLTNGWW1VOHh2WTBTQ1htUTg4d0ZaOEhQTVFwUFFpVHZNYTdFQmROcnc1aHBEUUkzbWJoRGNpVGkwajU5TjRsdUhIRGlJbFI3WXU1TWlNOXQ0WmEtY2hMUDBHSGNqbl9FaVhRWlFBT2FnZ1JkdVhXSGFvSGIwXzVXZTDSAbABQVVfeXFMUFVTNmExR25uQmxRX2dFVWtBVnpkSDRXUVdvWlhLbGlreTNmUjk4cWhNQ0diNWcwSUU2bENyV0QwbFVFUVlVdHpiNTlQeVBubDZ3cjlQNlVnN1FSMnQ2SHVoS2luVTdQWWI4MlduUE43M01YWVFVa3Bfd1FIaWV3UU5fTEhLYUgwN0xJcVlDdjZDbWYtRDdvRXhrR3RNRlh0c2FDRVdLRVFYaHozMmxHOW4?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump endorses Netanyhu ahead of elections",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd05ZaXZaY3JJZkFkOXBPamYxZXZGSENTMzNLWGs3Y1pjUHg2UVBjc0RNaVhlX3RXR1Jmak40WHlJcWJ0OUZJWnVpYlZ2OTl2eWYzX1JDS1FaN2E5MGZ4ZndoLUptMXZQV1c5NFRPdHpOc2FVaWdQYmQzQndUZDJIZndTQlVyR2pyMEVuLW9WbkxiWTIwMThEZ3lBTVjSAaIBQVVfeXFMTTQ5RTBYTmtmYThERmNmczFKMWN4QWoyOWwzTnpPVmNjeURRT1VJbW1zYXR4VVFIMmV6Z0tGcDJlV0d6RnYzN2kyWXI3UXozT19NMmgzbTh0NWtwYnlJblRuV0duZzMwbTNicWg1RW9MYllsN2xwME5LRUtOR3RPZXdBUklIYmZ2ckNwREp3M0JvcENoMFpWN1VhU2ZIanhlS3RR?oc=5"
     }
   ]
 }
