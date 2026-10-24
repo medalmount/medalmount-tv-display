@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T21:19:07.518438+00:00",
+  "updated": "2026-10-24T23:28:38.758044+00:00",
   "items": [
     {
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
@@ -17,11 +17,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYjdBbnA0NDM4dTBXQlhrTHlGRVFMRmttUFZsVGY3aHF5X3ZGZGRIN2RLRXJVVUtPNVB0ejFJRk5WQUx4NndCd1g0OVYzaVFJNE4zUTJlWWJKbThBQUZfZGUyYkp4MnAyWmUwSmx4bDVPVlRYTGxoZE1kLXdwU1JCZWpFUURtS0p4c2dyaF9RaS0yVThNbHRtZloydzBZZktBMUtHS0JZRXFkQlpyaFFoYUpMRkE3aDJZLWt0NE5WR09GcWV1eFJpbGk5eTRybmFVVlplbHRfWXZ6MHMtMjRuZnRNVnFQSGRCOXlCeVhYR0p0QQ?oc=5"
     },
     {
-      "source": "BBC",
-      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5"
-    },
-    {
       "source": "Al Jazeera",
       "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5"
@@ -30,6 +25,11 @@
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
       "title": "Ukraine says Starlink at normal speed after delays impede military",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUN3TTRXM29Hclc4WEhQa2xCanRTdTVyeFU1R3EtX0g5cHRRemFWRWRUVWotZ0F5RzFTOVp6bVh6MmE3aVZjMThmVXVCTWZ1c3c5OHRIVVRwR3F0SlFLNWl1Qno4XzZYbDB2cHlNTkpkRjUxWEFQUGYzZ1czd3QzR21ZN3llQ0JteUhnYXNsNG9UZHVxemxMWA?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -43,13 +43,18 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWNkcVZKWlJMQ0Zxd0RrS0w0bWdFY1E0QzlrZnRKWWpBOG84MFNVRVFlRE9wYmJpd1IzOFZTVGJ3ek5EYVFwMDdxYmU0TWtFckZ6LXBDMHc3ZUxDeC1ubm95YlZBR1N2UmRmT0FWUXJ0NXlialV3Q1VjcENyaXJ0QXFhenk4NnpwYnlrZjkydUw5THdKdVp5blNSOFRxV2w5eDdFeUpUM2RRdnBUdkdEeWQtX3PSAboBQVVfeXFMT0NEdmVTblBycGotZklrLUF6LXhEZ1pmSnU1ZFhSai1uOUFtdnNMMUVHU0dBbFhjY1ZjZWNLOVpYa0RuNkRjcG9zRUl4VURxWWlHM3J6N1NsLUNRU1pGN3NaTV9kZ25EQnlIY2lGcnNFU0NTY3h2UHF3VXRBNHNETi1BNHNwcTJYVUQxTU9Ya3QtenNPRTRoTE1MZ0hZb2ZlMTJIcnJkYlhzY2RqNkQwZEtiQlhXbUlzRGNR?oc=5"
+      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejJVeno4cmRWUWhlWHZNR2NoWF8xZ19jNnVXTS12b01LRFhpbFdpMUZCTXdJSVk3WFFhSy11dHZlekhOaUxxZTNOR1VObXdtZkQtRVpRZGhQbElmV2dJbzNWSzJpTHlrV0drQ0EtZ2hXVXJmTUZZUklOQlV4NmdoMHV4OUp5MGtXVzdTb19WZzVWTVFaNzNma1J1cWTSAaIBQVVfeXFMTTVxZm9xZlhCcDJhb0p2cV9GeHl2eWFHM28xak5sT2J3cFBiNW5hdk1WamVxdXBiQzd2UmIxcnd0VTNNU3U2MUNZVW1xTmIwMGRsTndWZnZENlR4WlpvZXJUQ2N2LU9LMWRpSURFX091Wkxfd2xFMFM0Yl9uV0xNQTg1cEpZUjE3TG13c1lKU2NIVlFmT2J6b2I4QzNLTDBMVEtR?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Israel raids towns, arrests dozens of Palestinians in occupied West Bank",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGkwaU1WMmIteDUzNW9JNHlLSTBIY3ZGYVZTbnRxUTRyU1FHZnZVTlZOdEpFS2FEeENaLWlvYklmX0NGSmZFaGdkZFZ6SVhLMGxHbHFVQkt5LTlneDJBRWsyeWI3dkRmY3ZYZ0ZETzhpckpfQk0teHlYSklKRExIT2JwU0F0djZ6S18yRHhjV2hDSENXbktNRnRnMDVGOFN4RWlRMXFsbnN3TzRDNmNlOTNOd9IBuAFBVV95cUxQRDBLckJ3U1dSandrMmVWN3JQVFEwWXFsa0JRLUxpV3hEeUVFb1pXbHhIRjJQVzFTZTB3NnJmOUZocUU3N24wMTFYYWVSYU4tdVJmT1MwQ25LcFdpU3U0V05LQk00SzExRlVPTEdQY3h4RXBQRTZXdU5wUHY2dE1fYUZDdG1iR2lMTkt5SFVFU3FnQlV0dHhXX0x6bVpMbThGc29JM3lmci1KNk96YTNDenBDVHhLY202?oc=5"
+      "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWNkcVZKWlJMQ0Zxd0RrS0w0bWdFY1E0QzlrZnRKWWpBOG84MFNVRVFlRE9wYmJpd1IzOFZTVGJ3ek5EYVFwMDdxYmU0TWtFckZ6LXBDMHc3ZUxDeC1ubm95YlZBR1N2UmRmT0FWUXJ0NXlialV3Q1VjcENyaXJ0QXFhenk4NnpwYnlrZjkydUw5THdKdVp5blNSOFRxV2w5eDdFeUpUM2RRdnBUdkdEeWQtX3PSAboBQVVfeXFMT0NEdmVTblBycGotZklrLUF6LXhEZ1pmSnU1ZFhSai1uOUFtdnNMMUVHU0dBbFhjY1ZjZWNLOVpYa0RuNkRjcG9zRUl4VURxWWlHM3J6N1NsLUNRU1pGN3NaTV9kZ25EQnlIY2lGcnNFU0NTY3h2UHF3VXRBNHNETi1BNHNwcTJYVUQxTU9Ya3QtenNPRTRoTE1MZ0hZb2ZlMTJIcnJkYlhzY2RqNkQwZEtiQlhXbUlzRGNR?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -57,9 +62,19 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHdDYk1ZcXVjMGFnay15UVVJdndSdUM4ZlFWdXdPR0VnVThuQWdVR3VxUXptbnJQNzF5WkM0VUpkc2NyZGVKa0Q1MmFmWDAxVGIweGlIaHBTMkh4WFVOUUwwX1JMcDNSSjVGRWZlNFdkdEVaRWRTYUVyX1hLQ19ZczUydzN6bkpVSDY2eVJ5T19fQVFfVmctMV83c0trWUY2NkhSQjBzcXZ4SmpHSmxRc9IBtgFBVV95cUxPUUItTlpaVlVmb0ZCTnJUWXpfNjd0WEdpN0xnY01OVHRJTU1ETmttRzBhZEdMQkxuQzVtTjFISm5DQkRfSzFvX0V6Nm1JaXZJTUVMaEV1RVVTM1BReGt0NGtGclBqSjRnazNuR24zVW1CZFBPZHM2NHBzZEFETDFDRzFRMnJTb3MxaXp5SzNvTE1fRGs2ZVdmMDE4RXpGNjNGdTMwZjFoU1NfdkNGWW5MaEI1VjNCQQ?oc=5"
     },
     {
+      "source": "Al Jazeera",
+      "title": "Israel raids towns, arrests dozens of Palestinians in occupied West Bank",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGkwaU1WMmIteDUzNW9JNHlLSTBIY3ZGYVZTbnRxUTRyU1FHZnZVTlZOdEpFS2FEeENaLWlvYklmX0NGSmZFaGdkZFZ6SVhLMGxHbHFVQkt5LTlneDJBRWsyeWI3dkRmY3ZYZ0ZETzhpckpfQk0teHlYSklKRExIT2JwU0F0djZ6S18yRHhjV2hDSENXbktNRnRnMDVGOFN4RWlRMXFsbnN3TzRDNmNlOTNOd9IBuAFBVV95cUxQRDBLckJ3U1dSandrMmVWN3JQVFEwWXFsa0JRLUxpV3hEeUVFb1pXbHhIRjJQVzFTZTB3NnJmOUZocUU3N24wMTFYYWVSYU4tdVJmT1MwQ25LcFdpU3U0V05LQk00SzExRlVPTEdQY3h4RXBQRTZXdU5wUHY2dE1fYUZDdG1iR2lMTkt5SFVFU3FnQlV0dHhXX0x6bVpMbThGc29JM3lmci1KNk96YTNDenBDVHhLY202?oc=5"
+    },
+    {
       "source": "Reuters",
       "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Why Israeli tourists and investors are unsettling Cypriots",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEZNUkdmSmhYYlk3Rnl0VkpLSmpPaHdtbHdtUnlreERQczI4WGZRUFVhRHhZMWFIZmczNEMzTXlXMlFYOUl2X2lGX0tldE94SHM2QWR3VGJoaUQyY2prRmR0dlcxOE83c1p6T1FtcGlKV3BzUGtsYkxabGwyWW80dUhyY0NRQnZIV2FkTDg3RHpjTk5qUUtORmhwZXN6Nmc1cnl4QXFnLWIwTzAxVm16RnBIQ1pfUdIBuwFBVV95cUxOWkgxU19FVlZlTTZGdmxlRU5mamF3TG1ubC1zcUV3R21iMkpJN19UT29paTRfWFMtLTRXSUhWRmltRGFvNzVsTGtGbTREOTJDd3pUbkNralp6V2RFVTlQVTRYUC1zT2NOOGFHX2ZWSjN0cnVVaDVLYTZqaTM2bkxwcm94elQxUjgyTnpGMWFKY0Rsc3hvbFo0X21DSm5Ebi1SQzJvcTZ5blNEc0VMYmNVVTA4OEplS0xDcnM0?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -72,24 +87,9 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTVKVU8tajFBRnZmQ2NNNldFMDZ0S1F5c2hKYjB1cEo3bkkwdjZodFFRU3c2V1ZPN3J5NzI1UzZRV2s3dndKSFF2UUxMQ3BTQnV0WkNUVGdQeGdnU25oM1lNUGRTREFsTUF6YUJFTU1lVlI3Q3U2bjQ0RG1vOHJCMC05eTJTNE9hdzNwMkNvMHBjNFAyb0ZUOExhaVFCN05EdWUwM3dlOXNkVTZyMWfSAbMBQVVfeXFMT0p1Wm5MMXNsSDQ4SUVzTjBlajdXUFBWM1EtNzF1MHJJYkJzTzhsSFZTMEx3eExROHhHQ2xBQmRUQU11OXFjMFFmR1RqZDl0NkxLdV81UHZqeExiQ3JSM3QyQkVST3dXeXU4OEM2ZU5tYWhJLWhKSTZtbXJFNURJRXNZTzRkclkxZ3ZZRzgzQjd3V2RIeEFXXzdXblNYVFNWaVJGZXhxcHp0VHlhZVZWeTJRNzA?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWV0blBhdEcwOWVJdGpWaUp2dTZkUmc2OXJIRFNsdm1SVGxETFJpenh6MkNxN21QNVJKLXZrTEhhamliVFBZQXhsZTl2M3BMNmlQTTRrRW0zdko1TnQ4WC12UDR3UWhrOGRiM1I4N0FFQXVUZzdjdkZmOFF6SWN6X1lMSW56eEhTRmpBNnpHNDhWbnVuZWFYOGUtODdWQWFuN09fWWhxS1A2QmJxdVpOTtIBtgFBVV95cUxQMmtWMDU1THd2cVJpV3ktNGtsa0dtWV9ORDN2ci1yVUFjN3F2dnlleDJSbjRpWC1TTUpHb0FWcHZlNHdlQXAwS3B5NV8ybHhYOTVIUHFRRUR2ckxybFhJVVpERHhQZUpxS2dBNm5TRFQ4RUdNOHFvNDNGaU9sWkpSZTVmdW9oSlUyWmhBY05mSnNURWZGM29FcGxRdzJUQ1BMRmdGU0FtUUF6Z0V6VDMxdXIzdjZxQQ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSV93Z2pWZFVTR205S1hNcVQxQU1qcHREVkdKZjVTa1VfODNLNm80TVZzNnQxVUpqQjVmaWVZVW9QazctNGZ2SW9XNUZvT2NiYWJ2TTgzRFNJRXJzSHYtY1d6MDFONjBoNXgtdUlEQ0lGRUpoeWM4V2xiUWVBSS1haEJTdWhWUkUxb2xjOEpsOEhpMllKT19hTGROUTVyeGg4bXpCOFVaNGF6enFTQkl6RNIBsAFBVV95cUxNSV93Z2pWZFVTR205S1hNcVQxQU1qcHREVkdKZjVTa1VfODNLNm80TVZzNnQxVUpqQjVmaWVZVW9QazctNGZ2SW9XNUZvT2NiYWJ2TTgzRFNJRXJzSHYtY1d6MDFONjBoNXgtdUlEQ0lGRUpoeWM4V2xiUWVBSS1haEJTdWhWUkUxb2xjOEpsOEhpMllKT19hTGROUTVyeGg4bXpCOFVaNGF6enFTQkl6RA?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1Q1elN5ODBGYTQzQWJEWGNiTjE3NWtTSlBpTzVQcFZOamlOYzhyY0pYT2hBRXkycHBZZDlza2haM0FLaHdsNURMWUd4cmZKb3JNWGZfM2FjQ05ieEs4eFlPM1hlVVpTY3oyYVNUVEgtcXZ6Y0huUnJDTGl6YXNHUk1LRldTcGlUci14THhOZGZvVlVRZjJXX3kySlRJNy0tSzRZQWNac1E0REc50gGyAUFVX3lxTE1sMl9BNjhaRzZBUXhHUF8zN3c0UlB1ZWZDazE3RnVlWU13czd0VFdOSExONFBrYlBFX2FQZEVwenZTM2hnNXJndk5qTTZDb3Zva1VrQ2NoTUVTRnhHS3BFVUlvcXNoa3hyR2kyWHNUdXdnMWktTG9XSWljR2QtbkRBZVV2dkJlLUZKbE5lZVlDTUdjY0xweFJ6aGJ4eThacFpKVzgxdHI1aGkxVEpEX3dNdGc?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Who was behind the deadly church shooting in Jordan?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVc3RzgwbFotSklHa19HWmhNM0d2N0xJZDFzakxBdkRnM3hrOHhzWmRKMUNVVVZMRnpJWXhidHVqQVNyWGc1X2pCUmFkUktuU0xpd3ozb0NzUFJHVXNTQnpSMDMza3BhdG9zNG1wY1J5LW9KSnN4dkZfRUVoYURPNzZLYkIyNmxXQVpVR3FhcGk4Vm9vTEZOMdIBngFBVV95cUxObVZSV0hlMkhHVGs4ZEd1akpNMFFWdGFVZUhCb1QzQUdob1F2ZmtyRWdfczU4bW5KNTUzU0Q5THp0aXJxQWVHYTkzbjVEYkpqSUsyQXNzWE5YTzdlS2lMYWdNUkdadGxGTERPV2VTNTY5MjdtQVczQjZKYktSR1YzZU9GbWlwelV3TUU3ZEJ1RGhEZGpSMV96akU5Wl9Sdw?oc=5"
+      "source": "BBC",
+      "title": "Obama hits campaign trail to stump for Democrats as midterm election nears",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5"
     }
   ]
 }
