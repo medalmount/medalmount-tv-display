@@ -1,35 +1,55 @@
 {
-  "updated": "2026-11-03T07:56:11.450169+00:00",
+  "updated": "2026-11-03T15:41:56.889224+00:00",
   "items": [
     {
-      "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "US has struck Iranian targets in Strait of Hormuz, US official says",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUhWelJGVUxZcW9nSUNGbGZrQ1lnMllBc3RwOWhncW5tU21vOWFXM1J5WDJlSF83TG04U0NjME5iWVlTRGtWTFpUZEhtd1BFVWhOa1haVEt0anVvbmgtdWVQRi1BMFktU25LSzRleGdxcHRHWThUYmFUSzhrWWoySEJjMEVUSzZvVnFuVXV3?oc=5"
-    },
-    {
       "source": "The Guardian",
-      "title": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPXzVEeFJxc0VZdlI2WG5FRWVweTBJOHlVVU9WNjdLc3NMb1pnd2ZjdmFzOW1TS2NGZUh0WHQtQkw3WDh6SU9COHJfRUZrOVRCMzNuV2FqRTZBakVjWWZEN1llYm9nc1loNUZabktaa1ZmS1BMVFdxODNlWFgwRl9xa0F5U1VGVml1V2l6ckR5anV5TGlFUHFKVE5VTVVrQThwTndRVEZkMzdRMUg3cHpBVjNEQzZqX1RuVmwwaW1Xc0FmaExhNXJoU3Z2QS1TUGRVcTgzS3RBSVFPTW8?oc=5"
+      "title": "Will Trump relaunch his war on Iran after the midterm elections? | Mohamad Bazzi",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWVTai1BdzlfVXk5ckFsajBvVGs2U0JQV2JodzZqSWJmdEN5LS1aQmtNZXNmd2dMY2c1Z1JhSE9qMEh2VnJidUN3UWk5a3dIaWhrSEZzemRETG1fdVNJUEVqcmFUTTUyN25wSWN2SVdFdVNwcXZjVkY2akl1eHNudC1Eanl1XzRwYWdLck9QbU9hRnVid0k4?oc=5"
     },
     {
       "source": "BBC",
-      "title": "US launches strikes on Iranian island ahead of election",
+      "title": "US strikes Iranian island ahead of midterm elections",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5"
     },
     {
+      "source": "Al Jazeera",
+      "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3VQMEhEWThtQUQ1MnNyMzlyTTNkVE5YQTljdkRXOHFsNjc4WVRMSVE1UDhxb0V2MnpVd3otLVJSempBQnRwVEdIbFN3emJKRGdWMGZOZ2ZuYm9zODY1V0RmZFFWV3ZLYkxZZ1ZySmY4WWU1bWwtcUwyT011eENIMlUxLWdCV294SXZxcHZ4ZjJPT2VGODFjN2xkRjNLX1RzSHVNQ0cwTldvaDdlbzFfMtIBtgFBVV95cUxPbVZiTmhvSjJ6QjNOVVBhQWFUSDFRNFRYaUFMMzhDR2xfZXVpMDQ4R0NFT3pmSVBwZzk4T3ZaUVBpQU4tNWw5dWZxVXNManh3LTIzcS1ZRHNtUklpazV2elZuNzZMN2FFUEhxbDZHcVQ5SFpxaGxjanhmN1JiNWpYWmsydFNxa0t1bGtXVnB6X1MzSzJtUDJXYm90SWZUZFE1UDZJS2VfY2VCV1FrTFFvb3VfaG9RZw?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Iran-US deal still out of reach despite diplomatic push, Iranian official says",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPalRYN3p3UkoxcmdQWFZuQ2xvU1FaZG0yX25XcTJreldvQmIyeDRCdWVKNVliZ1hHaTNweHpmRXpOWUZSVHRLMVdDVmJTOFdOTHRhOGFFS29HYlU1akVQdTFIdGNydjF2WWM3LXZVLUpOam5WeWxFaW0xMWUtRWhhMXdROWlXVFFuZnExdU5RVjlsRE0yMTBxUDh2bkVkeEk0QkwwU1Jxem50WU9yU3hmUHhvSEJyZ251OWM0cEM3dmJ0TzhaNzZrb1FHc3g?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "Russian bombing kills 29 people at humanitarian aid centre in Ukraine, Kyiv says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBobmNycnhIV1VVdURoRlpfdW9PXzdYVF9PMl9uWURzWGc0X3FZTUVfNDF4Zzd1LV9jUjhMSUhKNkh2akxPcEd0b2ctYk9EeWw5UU16X21mc29xNmM?oc=5"
+    },
+    {
       "source": "The Guardian",
-      "title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+      "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3daWnVFR1JkRnZ1NTVRbEE5Vk15QTVMR2p1WXJSRXh5TEFpc0FFV1JBdWJhNWVvWnEtNmQ0UGF6c3g0YW1zMmpnYVdLSXVBVEJDc25odUEtS25LeDB5VUE0aGlQenlweXhoUmVPMkRENFpTWm5hZFlISzUtMHBJLQ?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Russian attack on Ukraine aid hub kills 26 as US announces new peace talks",
+      "title": "Iran commander sets out five conditions for regional security",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXFkQnJ5U3l2WU9GN09nSWlKaUZ0ZVRzWlNpZXBOMm4xN1pvYUpnNG5NU2ZBeFV3dTRiM1Q5MDBBTnZpdndVdXcxM3E4LUVwRWJmUWg0SXlZQUpXamFUdUdNNXZwbmVTYnBrSVA3RVZsSmRybGtZYzJ5WWZLWTBaUkdON0RvaEhhRFJwUnoyYUNZVFhJZWJWM0d6V3hvMU9RM3NVWNIBqgFBVV95cUxQbk0wZW9zWTVydEhvTUJBVFBCcFNJMUZNWk5qQWw0UkV5RjVpbDlldXVQSjYtUFdHY25rTlNFU3VfNm9zaFFQLXExRjFialZ2eWRmWXB1QXhSN3FVYTYwRm1lRDhIckV1N19QbFRiZTlqRDRsNFRFdjVnYWFxUlk5LW5aWF96SW80RDF0WHFtX3VkeEZSUDFsVDh6Uk85MmJjMnNLU05xU2Q3QQ?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Russian attack on Ukraine aid hub kills 31 as US announces new peace talks",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5"
     },
     {
-      "source": "BBC",
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBobmNycnhIV1VVdURoRlpfdW9PXzdYVF9PMl9uWURzWGc0X3FZTUVfNDF4Zzd1LV9jUjhMSUhKNkh2akxPcEd0b2ctYk9EeWw5UU16X21mc29xNmM?oc=5"
+      "source": "Al Jazeera",
+      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1JqejhVRHgzVnBpcmZNcW42MzBsQzY0Nl9udzExRUhsM1BoSS1vNkxXcmVyUHFHZkpTcFc0YkdEWFlSSnk5U2hlQWYzYnJfWVZITGZVU1YzWUxCX1JXT2ExQnNPN1pteUhZSUM5MVNEel80cFVKM0ktVkJXYUJ3cFhsc09lS0Rha3dudGJZNm43RmNBMWtXMEtQTW84OEZWemVmWXlXb1E5Y3lmN0lzZkJn0gG3AUFVX3lxTE9ycXhtYmluM2c4UmI5UlU0OWlJU0ZnYW5fd1oyX0dzM1JVcGV3bm5nZWptS0E5aXVyRFlXYmxnLWRrY25FQWdhbkNfaW92WjkyZ0lwV285MzRUVzFKQ1pWa1dsMy1fS19tcWZpNkFwY1VISlVJa3dxaUFycl9PaHhWVlh5U3VpNEM3Rm1iNkQyNWRVSTNiZ0ZBQXBpX25JVE4xMUxCdHhPTUQ4bWlQNGI0SmlMaXpYQQ?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -38,33 +58,23 @@
     },
     {
       "source": "The Guardian",
-      "title": "UK and European peacekeepers in Ukraine would be allowed to fire back at Russians",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYk5vcVJ2a09YSFQtT0IzNTAzU1FNNDVRUEFUbW5vZFk4aENDSXQ3QWVOLWRFeEMzaXdIYjF6NE5MaS1nWGVjS2tpZjI2VWotbDU4UTFnSmxtN3g5Rm5MOHQ0TGV6ZXgwS1lOMGJEb1pGak8zei0yd0R1OXFLa3F5RmRLcVlxLXZqUnd4d0VrOUZKa0h4dXNKRlBOWHlxYkVh?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Oil price falls amid hope of a breakthrough to end Iran war",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFFqOGFUT2tuNXpyMGN0LVN4YlVCMFZ2VjZyeDc0OEM0WmdaOS1kRDVzWlREOVF1OW1FaTBLQ3NDR0NhSGlhSThXWU9sODhOdHFTQ2JKYldHNTFOb2RwQWJBRG9LVElmQVMzUDhjQWxOUTVvcGhWZjRFS2xTU0k4NU9fbU1Ic092RkFtRU1xUjB0UzlmRlJWUlJYZTZxVTJ4aWJnanF0MGxQM3R0?oc=5"
+      "title": "Trump’s troubles with Iran could open the door to China",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0lWRVpoU2dBYjh2QzBRSWd2NS1vd3FleTM4VWFwMkh3SmtsWDVCR0tuQUNpNElWLTZqeHdCcjJDc29qREd3Z2dBMllxSjlFVGd3QnhETVRWeXFodGgyYkYxc2Y2a0x5MHBIMzZRdlJ1cW1BeGtzX3VFUFdHbXdyWGk3ZmVTR05qdjloeHhQY1ZGSmRNYWJkU2FDVzZ3Zw?oc=5"
     },
     {
       "source": "Reuters",
-      "title": "Iran's foreign minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPalRYN3p3UkoxcmdQWFZuQ2xvU1FaZG0yX25XcTJreldvQmIyeDRCdWVKNVliZ1hHaTNweHpmRXpOWUZSVHRLMVdDVmJTOFdOTHRhOGFFS29HYlU1akVQdTFIdGNydjF2WWM3LXZVLUpOam5WeWxFaW0xMWUtRWhhMXdROWlXVFFuZnExdU5RVjlsRE0yMTBxUDh2bkVkeEk0QkwwU1Jxem50WU9yU3hmUHhvSEJyZ251OWM0cEM3dmJ0TzhaNzZrb1FHc3g?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "US carries out 'defensive' strikes on Iran's Qeshm Island, officials say",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5"
+      "title": "Clariant lags core profit forecast as Iran war weighs, but says the hit is easing",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2Z1QmhrTXBNRlR4UGFXTmZHM0d2ZktQeUFfaVFMbk1mcXZBZ1dKX0cwM3VsWHBfV200UDJuN3FGbnJTSVJmRlJ3d0hOVnlDOE14bDVxVnpkR1FWb0NHVXUzTjhtNmlwS183YU95aE1XbmFKNnZHcGhRTFY0VGVndlZiQmVLM2o2ODlEY2NNWTFLOFltV2NLZDQ3eU9BVWQ3V1MtVzlQM0I4S1k3VjVuaHhxUzU?oc=5"
     },
     {
       "source": "The Guardian",
-      "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+      "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNEZhZFNybE93UWN0cXJ0MktaaHJYRU5tRXhYaG5FckJNY3BMLWJfMC1PSk14TUFSSDBKVjUyWF93X1NHenBSQ3B3WXBBTkl5bnVzQ2VTU3ZQQmhRSmZJYlhKTGZpUXE3TjYwS2FrcFF6NWRTVVNTSmhfSUZQRC02M1VSeURLcnNwSEtuX0podTQ2enNiYWFz?oc=5"
+    },
+    {
+      "source": "ABC - Breaking News, Latest News and Videos",
+      "title": "Asian Football Confederation postpones the 2027 Asian Cup because of conflict in the Middle East",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnRScHYtdEhhd1RpbkgyZ3U5TjVoR0wwU3pzUmNFRklCYUNlMk5fa1F4VS14RFN2ZkVpaE94bTNYNzlBT1gxVW0zSGxTa2s4TDFRZm9RazBpaXdhYlhVNzlSZ2NPR3Frc19IZm9Wdmx2VF94NzVLdE9tVFNJTmJaY3NZTjJUR2cwTnRkM3ZvLVV3QWtxXzJtU3pBWGZiVXExajQ3RzFUbGd4WEUzUnfSAbMBQVVfeXFMTlRXak5qbkhtQU45MS1EeVpzTlZnZTg5OFAyVlpNV3lkN0h2eHNVLU54Z3ZSR2FoNXJZa1AwNTM3U3l0RjIyU2RVanhpSEhZM0UtTzBpZDZTY1kxU1g2aTBIdXV1ZE5xMnROWC1uSHg4Wm43a0d4MmJlZDdwUGtNdXpWX2YzVGFzWWFnLTJGaUNTYi1MaGdtOERBSnMwSGxUemNqbDBFZ3kwR1dnMl8wdXI3OWc?oc=5"
     },
     {
       "source": "AP News",
@@ -72,24 +82,14 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2haQzUwOU9pdTJxRWZwbUFEaDE2YW52Y1p4bnMyNFA1Q0dWbVhpMXk2aC1KMnE3amdyX25RbWczVjFSSjA2RmVOekJVZmVkZnFSd1d1cGNoZW4ycFB6TUllRUVLSHZLRGRlN0xsTHRSSThuWEtUUmM0MHJPNW56ZURJWkRyWXZYZXhSdzUwV2gzQWt0MnNsUER3dlF6SWpqZ2Y5Mjk1RmXSAa4BQVVfeXFMUERhQkI1bXBJOW8wWXZLNGJfbWU5SS0zYzJmR2puYmxtUFBDaVcwMkJkeWM3WDlDSTJZZTdaUkszR2NLRTJtR1I3Vm9mR2FUMnF0X0pJb1ZpcFFyYmY4UTlhVTM4ZmVJMTJfeU1pTms1Njl2d3pkTmdnalhfTU5ITmlzVU1Rd2w3VWxHVl9DalFXb1pLTGZhT3gxSzRYTXV2MFNseU5peXNmYjZfOW9B?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzExSjhLZldVQ054Vnd4REUzSnJ0WlZoU2VCSnRRWjNFb3p5b1JqcmpjcXpPYUpfQkJwckRIM1pILWdqekxlaDJKQU9BVmRaWXlrUS1PQVdtUWRZdFdLRFJ1VGZJeXd4NXJmYURPb0tEVUk5TEdQRkNBREI4d2Y3Z1dhZnpkMG5zdjRmRGo1UzdZLXppQ09JV19uWVc2TDNia1FkZWtJbDVHVE5paHlWWGdpSE55QdIBuwFBVV95cUxQbGc0ekM3d3Bad1pCRmY3ZWpTbHd2UkdFM0VGZUtmU3JVdWdlM3dNeUZSVUdjZkJSZGhSRzRUVjdpUWJ5MGNEemJLNGwwUDNzUXZaMGY2UVpPckktVjZ6cGQyMnh5eW9JS1NnQ0I2MTU2Q3pkNkRwTTJlY1poLUtzQ013MHFGU1U3ejkzdWJBTE0wUy00Q2EtVmRxNU5FMzVfallBRXFhN0lRWHB1aFAxRXBPVUtfMHgzS19R?oc=5"
-    },
-    {
       "source": "BBC",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sQlFtX2dDT2taN0tLckw1MEJOYlJuOFNTYVRnZGtGc0FUaVFUWHVmcHRFbWg3eEkwZUZBU1I4d1hhWjlmS1ppbG9tcHV1TWtzY0s4OG81M0NLanM?oc=5"
+      "title": "High costs and Iran war shape Iowa's election",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82RWhyMXdSVDhTYlhzUVJsVVJzdDc2RDZheTlNNlNrVFFzbUZzMmdETWpQUUtJWGNPUnZCNXAyeW9aOUUxYmNMNEU0QWtqR0lqZWNlTm1NNHBxNE0?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "How would Tehran respond if the US and Israel bomb Iran again?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWpHWUZHZ1N3ZHppaFdQSUtWcHVIVGxRVUYzeERWNk1mTG1WRExjeVJQNW9kOENBd3UtNWtWTUdJZW5VZUV1VXUtckg4OXJ4R1BvcnRwdjdHQmpqQ2t3OElBVkNaR3VLakJCN2oyTWNlaXBfSm5ELTZmRnlFSlBOTVZNZlJ6aUlzem5SOFJLY1dTaTQyQU9rU1Z1WV_SAaIBQVVfeXFMTmdGYTllZVRpWXY5MnlmNy03Yk9zcEw1N1J3ekV1bEtMNW5zaGU3T1Y5OFdRR3FUYzJkUi0wZjk3TVZ2NVdocV9LZW5BSktWWGYwYTE3TzI2am9rWklnYWNIbnBhMVV5dVZHVlJHOVhmblB5WXRHcDMzdl9CUlZzSGEyOU5ubldUMWpfVUlPS2Jpc3JSemtCbHlkY3gzajFpVnZB?oc=5"
+      "source": "Reuters",
+      "title": "Oil services firms face major cost pressure from Iran crisis, execs say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOczMwcS1vUnEzdnFTRElKeTJhSUt3Q2F3bTZJMFRkT0h3cU5OSHFpTUFzWDRMd1FzaDR6RGV4U3FlbFZodDFuXzNjZGRNZUdYeUFPdzZqQXFqRWxnaTVBYkViYkZ3VFVxZ3ZkRDV4Q09TRjlUSUh3WXZRZjgxUkMxXzB6VWl1bjl2eW5YZzVacjFycGdHMHc4NHlpbjZZTG9aekFBaGVfcHNNZkktUTRKMGdNWjVoVkpK?oc=5"
     }
   ]
 }
