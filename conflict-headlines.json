@@ -1,40 +1,15 @@
 {
-  "updated": "2026-11-07T01:53:13.999697+00:00",
+  "updated": "2026-11-07T08:00:25.767625+00:00",
   "items": [
     {
+      "source": "The Guardian",
+      "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5"
+    },
+    {
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "Albanese weighs in on 'very significant' US midterm results",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmZ3RTlXTHJkeTBaY3I4ZVVaeDZ3ckFvclFubzNmSjduUVA2OHNzWmJFRTRyX1diUmlYeHZrSDc4Z3k1ZDlSbWx4a01yR2VYV3YzWG96SWczUzFIXzZvaTFWZ2JaZ1dXRnc1a19iY2J3SEF2YUtaNlJxX0hIMG4tREx2SjQtWExuc1g2UUhFazFUcW5wdnBjeENR?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbUZXOXBNZWtMVHlwOUV3TkdQaV84SGFKVnoyVG5mX3M1NVlTVVFadkMzVThCS09Za3dBOFluUHlXTWh5eEtLa3ZUYV9BNDRMWnYtdFZubVFqTzZ0Ty1WRlNGd1c2YXVoY3J5ZHdCd3JUOEs0SzlVQ0RUVk9DVWI1SnMyaERteFdpWWFneVhESmVaS2NnVVNxLUI4T1lYMFQ4Wms4b1R0T3MyMU53UmpmY3JaaVVuVl9BNjB0OUlscXdzZXVDWDNyR0xBU3N6amhsMVFtY1FDRzZWbXk5RU1iRjlfYXE?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHlBMHZFa3Q1eHBGSGRLRm1KZlY3RTIzRGlYUEdMVGdVd0NDS1M3Njl6N1A5NFBlenRxOWNXUW1fajgwNjZoRUNiZHJHSjlmcDM4RDNvRnYwbkVfMHdPV0lJRmF4NUMwZzZ1RFlIZWpTaHotS281eDdpaUdKaEludk03ZFJuTXFSTl9KcFpFNFV2STRJdlUtQTliS2JSVWxYTVNxb2VvXzE2ZzE4ekVqTNIBtgFBVV95cUxNdTd6bkY3ZG5QQVFlNXZkT19JM0pyVERmQXNaaFdfNGgwTUlSc2t6enllcFpHWGR4a3lXTXV6cVhPbUtqVTd2aVB1RzdzeXRva3huVjZEejRORXlvSGRGMktPWHBOaW54dG9NYnk4WS1YbzJMZGRJSHk1NTRVRmdJbUNtVGdrQ3lxa2dNcWNSeGxOR091X28zRnlPZ1VLZEhmdFNoRlYxa0M4YXJHeWxUZTJXQ1dTZw?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFlvY3JQTnZCQWFyYkdUbFpHS2pXUGRrcGhabjgzbmlEWldlTVBVeUJiRG1lQXR2eXNkZlAtWWtzZUtDQ2dkZ0VMNW1WeWc3NFJCbUExUENmOFF1YUJCQUtzTUpndnZUeExBS2JzeDdLNEVqQlVPMFZXUjVNcjJTdTFQVjJvNEdrejh6VVdjRXVMQVMyR0ZjZkYta1VzOVZRclFaX2QtQm1ZUQ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGpDdXFxU0JuY1VWRTZudTNoY2NFeGNqVE1UOUMzTkRBR0kwQU5taFgyclAtdFBnMHMyQUcyNzVVY0ZaX0xXb1N6eFN0NjFLVENzVG5YODNPenJUQVlXSWVuR1JXTVdMV2Y4dUM1eVc4Y0NsWkVQYmZNV1hRYm9UOVlvZm9mV1FiQjJIb2xVYXVDWmRQaUNPbTI0RTNldmpxQlNGN2VLS295Y3NINWxr0gG0AUFVX3lxTE1jLTJmLXJ2d0hSLUZMTzhRdnRaSWFoRmNybWtjWHEzdjFWNE0zb1F2NlE3dmY1WTZVZGlBYUZkNmdFSVZBU1FwdG9lNEpfRExJR0ZBYUY4bjNKQm43VGdRTlI3UGt5c1U1NURpdUZoUjRGT0ZnUEFoZWZCbXBtZmxTSkVYUFBQX0s1LXB1LUpaRGtac1NSR3A3MVpBTkpXMExsOG92cGowdWJVcjhIT1dfMzVJTA?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWVqajZxZDRIQXFLdUc3XzRCOElUT1pBUkJEOV9meHRkd0d6elpGd3JIQkhoUldubFpndUxINWx2ZmgycFA2VHFvdHNBY3J6bGNheGYtZ2JiVUk1UW5tTDhDek1UTGtXeGNuMWtYWkhmSWx4ZGhZcVU2OGV2a2o4WDhqdUVMYzU0NncxQUJXVEF2M1Q0NWdDOGZodktXcEs1ekVFMVd0SkjSAa4BQVVfeXFMT2p6WHdMM3E1TDhKYXJTTDUxQlc4OGQ2QmR1OVNodVdpdVVaZWJ2NEVrUEphdnZRbGZUN1JIUTI5Nm5fUHoyU0U1YThUand3ams2dVBScjNkc1U1cnIxWEFtRVUzcm5vNDk4eFdPczJoWWhEY0UwYzl4emtNT1g2SVF2M1NveGZ2ZnVpVHRMWXdTTDdVY1FNMXNFOGtEXzhZNFJlYlVnQmw2QTdPYl9R?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREVEWGlac01nYWJUY3lwTUdnLXI2WW9mbWlmYkZzOVNxc2hoVWdnWXFtVWNXUVZ4cnpuUnFySWo0cDMwYU9HVndHRmt0ZTg5Uy02TDdxa0x4RXlLY1NQMUdSUkxGV2l5emNVX0dKaUlsV0F4dXkzUzRBQVdldGRxYlkweEZ6OUVOYXE0Ymtla3VCLVYtbzhucXNIYlp6OGkzNDdTTEg0eWlDUnp1c09B0gG0AUFVX3lxTFBzbG90aHg5TTdmRVd6bEI2Y2NsVUJUa1c4Ml81eno0LWVSbXM1R3RMVl9CR1RrNzBVeEk5UVpRQy0xU2xkZ0dPQm1VT0NTeFAyVXVySmJIYlRJNzBOb01oaklFeHdQeTdRcTFlS1BPb3oyWm5OS3BsZXZEc3dPLWNPbURLZXJTTEg3Nk1kN2ZCTUZFQnFPbWZYWVFpaERtY2tWTFN2NlhMa0g0dHFuRHVPNzVraw?oc=5"
+      "title": "US offers $29m reward for details on Iran's nuclear program",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXFTNW44QUEyU1RVVFpJMFJwRFUwR1NBYVFLNDV3ZzBicWdPVHh5VnRsY2t6NlJWSHB1cUNlTjh0a3FTcUhETktldmdZZTIxT3BGR2JvUnZ5akFjTVE2cTdqRy0tWlNsdU12eEgzUEFVUUE3UmlrMmpPLS0wQno2MERHcWVLNWJRRjY3bUpER2phcWtKWXM4ZzlERS1ZeDVOQkgzbzV0UFZvMXV3TlhqUg?oc=5"
     },
     {
       "source": "Reuters",
@@ -43,8 +18,53 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Born to be torn: A generation raised under Houthi rule in Yemen",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2JPUmxpNktjMkFlaG80T2hhUXQ2OXNIajUyall2MU1KTVJOWGQxMktIMG8zYjZFQ3BjUmJyZjhmSUNyQm1NMURiaU1FSFc1QmxwVVR4NkowTzIwS09HTGpPSUlXd2JnTGNsZHQ1ZlRjcXM3d2ZtamlkYVplSzRWOV84SkRNUGpHeGlrR3ZfZlFRb3dDLUZ6OW5aUXREc2k1VTc4cWZKVm5zOFnSAbABQVVfeXFMTjdabTgyWU1pa1h1TUFYTjdGMF9GbnBrMzR4Y3FWam9DSDZiMU9FQTVEQjZxSmpFdUpOM09kQ09XVjNPUWREMUNKT3pTdTNqSkkyWFpFLUtBbW9US1VCRExRQllNRFFWb0RhZDBBWDVobkd4aENFQXZtelZ5R0JKb29RaFVtR05qZUF0WEVJeV80c002Qk45ZGN5Mk5MSlJQOU9qTmhCbFZLTXZVNFNvZl8?oc=5"
+      "title": "Russia launches missile attack on Kyiv, injuring residents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5"
+    },
+    {
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "Albanese weighs in on 'very significant' US midterm results",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmZ3RTlXTHJkeTBaY3I4ZVVaeDZ3ckFvclFubzNmSjduUVA2OHNzWmJFRTRyX1diUmlYeHZrSDc4Z3k1ZDlSbWx4a01yR2VYV3YzWG96SWczUzFIXzZvaTFWZ2JaZ1dXRnc1a19iY2J3SEF2YUtaNlJxX0hIMG4tREx2SjQtWExuc1g2UUhFazFUcW5wdnBjeENR?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlhQNEhVWUJ5ODk5MkxWbFlVZVZVUnU4dGxYVWJzdTh2R2x1aHdSd1pkVHlERGNod3JCOEVSWVIxdC1SbHlRX0RPVGM5UkVCTk5KR3RWb0lWczUza01JWkNwNU93ZnpKV1pGRHk2ZW1ZZExxeGEzYW5qekxFM2dRZDhFUWZ0MzVka3RYajRBVU96cWlDTWhvM2NpVm85YTlZZm5JdkxUQ3o3VVVFUzFR?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump confirms new US strikes on Iran’s Qeshm island",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpOc3NISlNqd2RIa3JOMjU1TUxPQ1loWXFoN2ZycXNmZ1QyU3hBVG9TWVhHcDNuWlZ2MGE1eVdLRGw5b2tCOTdseGZ6RHQ0RDB6UzZQVWpMSENnTmRSZFhWaGpBRWgyZXJEalpsc0xIbnpHQi1mQmJya1BXTlE4MTdnd056SkZlc1BXTnE2YktwRmhrR1kw0gGcAUFVX3lxTFBQamY0WVlzbUcwRjcyeXRQVFhPZWc0cTZmZWw5WEZxQmhwRkk0TnZlNDhwMFBLb2RZVWNKcGRjTENOV2NKeDlDbHkzUWs0SnBFS3ZkRkpwOXl5VWUza3RELUtQZm1HbTkzMlZCUjJMdHRoN1dHb1FTTTZxZlF1TzFKSXlnU1VWbnBSSjFJUzBqWWVPOUFHYmJua2pabA?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFVzN1dmN0xGMGpGLVNmc3ZkaF9zRUJ6cVg3MkloZGtZeER0RWw0MkZEY0Y1MnJyai1SU0ZyOFc0MnBYQUdCTm1KVm04VXRITGQ4R2xRWkJ2RktESnRVZDFlSncwUEhVS1hhZ1JadTgxYUd2VDJXdFBCZHppU0RQTkk2ODBzNFJnanZvcmw2dUgxQjExamdkb1lxQm55QVhQbTV3ONIBqgFBVV95cUxQbDhXVGdyNkg4RFljS2l2S2U1bDFyYU83NnNsUm45OU8wbnYtWTdPMzJWVUljUWpmQ000dk9PUVY2YURYdWxrQi1USWg3MDVpM3dtanN1SEZTNnFzQnlMM3RoSVZiZWdQNFZnMEVPbjhMUVRCSnZEVndFYVp1MjRSNkxEbkVYMDdJUU04YXh2Y1NqbVJIZGVnLVRFajFhMjh5a0ZLX0NfQ3NWUQ?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHlBMHZFa3Q1eHBGSGRLRm1KZlY3RTIzRGlYUEdMVGdVd0NDS1M3Njl6N1A5NFBlenRxOWNXUW1fajgwNjZoRUNiZHJHSjlmcDM4RDNvRnYwbkVfMHdPV0lJRmF4NUMwZzZ1RFlIZWpTaHotS281eDdpaUdKaEludk03ZFJuTXFSTl9KcFpFNFV2STRJdlUtQTliS2JSVWxYTVNxb2VvXzE2ZzE4ekVqTNIBtgFBVV95cUxNdTd6bkY3ZG5QQVFlNXZkT19JM0pyVERmQXNaaFdfNGgwTUlSc2t6enllcFpHWGR4a3lXTXV6cVhPbUtqVTd2aVB1RzdzeXRva3huVjZEejRORXlvSGRGMktPWHBOaW54dG9NYnk4WS1YbzJMZGRJSHk1NTRVRmdJbUNtVGdrQ3lxa2dNcWNSeGxOR091X28zRnlPZ1VLZEhmdFNoRlYxa0M4YXJHeWxUZTJXQ1dTZw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Qatari PM says US willing to seek solution to war with Iran",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0ZScEt4eGdOMlg2RHVubFRkU3dORWNtbnRySWNYWG5FN3Brb0h6c1ZQZUZTLXJ1b3ZZbHQyWGlwWnoxUHBfdjFzb0NpdGRhNmJoYURTaVB5U3RTMmtjVGRpY21HQlFVbloxUWJVY2JGdEZFLV9MOUdwRVVJd0k5SWxncXJCdkdOa0VQZjJIUWZPUUV0S1IycWFQdDlxTVhzeW5pZlFkbFZsMmN6UUpB0gG0AUFVX3lxTE1ZTEpycFhWRnp5MUlHd2hOVWp1MTM3RkdwQkloZDJ2TFRGREl6WnRrblByc0t4SWtGOFpnNnRJcHRzRXpXMEFPZGZqRE9PZUFBLU43dGFHdXplT2s0THl2NVItNGNBaXgyUTZFRkJPcExfQWJDVXZQNXg5Q1JJRl9MUWc5RkxId195OGRMaEs1dVhmUVNEekx4dDg1WG13dExFZlZtbFFxZlphbzk5NEo1TVFQeA?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How the Iran war helped Democrats win the midterms",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTlvSktaejJVWTBCa1lwSnV3MDFUMVZUR2JpTXBhMTlpWk9tSFRHeUwyMkpSelpvWDJmSW95VVFMMjRUQkdpcmtzZEVuVGRUanJVWE9uZkh3cWdpajhUOXhQdlFhNVZnMDdlbGUzMllaTVNCU2RhQjlzZHdTdmVKTi1qY1FBNUNmWWEteE5HRUVxNVdGdWFSX0RHWdIBoAFBVV95cUxPcnE4UndNZk5zb1BrTVJwUXVhOEFmR2JjemI0ckw0ZVhvb0hmTlpMMU1JU1RSMnpjdG0xXy1uTEN4M0wzcDEzbTBUVElBd1pBWEZfcnF6M2VCdFhYM0YtUEdSdXRrTHdlY0N3emhFREIxR2t5SDVnWEIzbzhWWnZLV3FIa1hSQXE1d1dWcWJET0MxdEdBaG9SUk5qY25NMDN3?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGpDdXFxU0JuY1VWRTZudTNoY2NFeGNqVE1UOUMzTkRBR0kwQU5taFgyclAtdFBnMHMyQUcyNzVVY0ZaX0xXb1N6eFN0NjFLVENzVG5YODNPenJUQVlXSWVuR1JXTVdMV2Y4dUM1eVc4Y0NsWkVQYmZNV1hRYm9UOVlvZm9mV1FiQjJIb2xVYXVDWmRQaUNPbTI0RTNldmpxQlNGN2VLS295Y3NINWxr0gG0AUFVX3lxTE1jLTJmLXJ2d0hSLUZMTzhRdnRaSWFoRmNybWtjWHEzdjFWNE0zb1F2NlE3dmY1WTZVZGlBYUZkNmdFSVZBU1FwdG9lNEpfRExJR0ZBYUY4bjNKQm43VGdRTlI3UGt5c1U1NURpdUZoUjRGT0ZnUEFoZWZCbXBtZmxTSkVYUFBQX0s1LXB1LUpaRGtac1NSR3A3MVpBTkpXMExsOG92cGowdWJVcjhIT1dfMzVJTA?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFNrLUQ1dG9iaVNVYWYzRjRlbmNnVEFHR29rcWh5NnFpaEx5UWs1RjNTbWZoc3oxd2RQWUdBaXFaNzJENjlUWVdNOHNsQzlWOFVYdDZHVTFvQmpGWEpSSlZFLXRVTUxWX2lQaHl6VjJMVDViVEM2NXF4cnZJcUo1aWJHc3MtdTZFdFRhLTF5cXBTallDMFVZY1dlMkd5RFU?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -52,29 +72,24 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUFFT1gtN2l4YndNOENnbWhZbE84UWpJM0dsWU1CNzJQbjRFTWZIZFh0b01wb0QxUTVleklRZWVJaEgxcExlVWhDWFFVMEVIaFZhVHF4S3RQOFZTRnNQWXRHRGY4VTZLZkc1Z3hFQVkxTHN6S0hheURfZFJaTjRKdjRlclpwQnU4cDhSNXJCR1RuOVl0N3k5Vlc1Qkt3dGhNY1FMNFhYaXlHRmFsZ0hva0hjRdIBuAFBVV95cUxNUWFDV1ZCNEtVOHVHWXVQbVctNEhueXlfazF3cHk5UnBIWWhLU01wN1UtZTNwcllVdWw5NGpFY2tzcEJDMXIyRXktYVJkcjc1NlV0MndQYnB1a3dHd3Ixc0VqeHNCLXQzc1dUaGpycklSdjNDZ2RfNEs3U1l2Z29NMGVUVFk5cFNRdWhtdjZSa0Zva29tZE5Od3FuOHFVdWVfWnRnZTlIUVFzUlVZcEk5ZnJCUGhtdjNB?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnVkOVN5OTNTeXZHZ0FUWE5halRMcHMySFhaS3plM2h6Ykt3WGI4NjkwRVFxSmg2aHo0MGVTb25YOXFucjJEcjFJXzYyOFlxdDV6QjJSbE5lNHNwWENhZWpDZ1VSR2RqQlRVZFRLbktJdXUyTVBGQk1vTXVnTjVkdDYyZ2FmQkhlc28tdTJmbTZJNlpXSzFzd25zWllERWVROFFoemtKONIBrAFBVV95cUxNTXpROFF4dEJtRkR5ZE5sN05admFlZEpxS3VPb3VveE5SWndjMG9ZYk1QZXdUdERYaVlyTThkZl9nQXgxRUxJZENQWEIxc3AzcXBKcWx2clkxcjlGUThrQm9LWEtRenlaeHloMmVjSC0ycDNWMDlXRGZoajlRZVZpT0N3a2lDWWsxMm1LcUIySmlXTHd3azc5S0lIUkV2c2dvZUpLaFdMSy15TEN4?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFFuV2xuOUtpNDJEVlB0Q0NMYV9BQkNZTzkzRkNVWHBrVGI2TC0xeUk0LTVzdWJrclByYzR3OS1PV2VJaExTT0hud2hzSENNUnlZb0J5cE5yclAtcmljYnlRcFFTOXRuOFVYbUlnbmh3cU5qQTNQSWJ3SEJ1UENMTWFUOXVBZ2xVckpNWjcwOG5meGVBWFBZRlRyZ1Q4ZkNweDlsREhMRWFwX0NrSDctbVoyZDhfdUdzOFAyVmFReUFDNkVBcmc?oc=5"
-    },
-    {
-      "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "Qantas flags fare increases and flight cuts as fuel prices surge",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNclEyMklKZ0lXQ3gySEhRei03bGpReXN6Y05jVG1Velp4TFBXaXZrcWFfbjNYOGRLTVkzM0FyWjBTalVhTEFBTy1Ea25RbkxuZ0VMZm9Ldk9rY0R0SG8zN29aTEdpN2F3dEUwRW9MWnpzbEMyWHJPNVZWSXZzN2E3Z2NPYkxFbFE0NDdrZEZlYVdMNmlF?oc=5"
+      "source": "The Guardian",
+      "title": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFlvY3JQTnZCQWFyYkdUbFpHS2pXUGRrcGhabjgzbmlEWldlTVBVeUJiRG1lQXR2eXNkZlAtWWtzZUtDQ2dkZ0VMNW1WeWc3NFJCbUExUENmOFF1YUJCQUtzTUpndnZUeExBS2JzeDdLNEVqQlVPMFZXUjVNcjJTdTFQVjJvNEdrejh6VVdjRXVMQVMyR0ZjZkYta1VzOVZRclFaX2QtQm1ZUQ?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnVfME83OVozQ0xVaFhEaUU4bG9yRWZBTmNVbHNVRXJLOS1hWFZBdnM4WWpiZTc5bG9aZ3pQcVJuLW85bGx0QWJvSU45bUpZaTdQWWp4cXc0OG8wb242SGdSSEk0VlMzSHlxdjFUbldDZnAzcHpISi1RdUZyNHpPNjZCQmNIdnZJdFFwM1hzTDNLcGNxVk81a3E5SUdlREtoQnhpNU5KNDFEdVdqenVfVWNMVkHSAboBQVVfeXFMTUZFb1JmYk45YmttZGZYSG9CTmpYd19CN2tSTlhaR3ROV3h2dk53bU1Ud3lzbzFtb2FZRkJVX256VkNlam1CanZjVFk0TmVEaGk5NFYtblo1UnBNUDN0TkR6cnFxV2hmUUlJRVJkOFVqRlhiekpkTmxxdkIxVFE5b0VyOWxvZ05sM1N6c05iUEQ4VndkSm1qWXVYZk9GVDZzYzNzVVF3VmliUFgzTF9kb053c2UySHZnU2Jn?oc=5"
+      "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWVqajZxZDRIQXFLdUc3XzRCOElUT1pBUkJEOV9meHRkd0d6elpGd3JIQkhoUldubFpndUxINWx2ZmgycFA2VHFvdHNBY3J6bGNheGYtZ2JiVUk1UW5tTDhDek1UTGtXeGNuMWtYWkhmSWx4ZGhZcVU2OGV2a2o4WDhqdUVMYzU0NncxQUJXVEF2M1Q0NWdDOGZodktXcEs1ekVFMVd0SkjSAa4BQVVfeXFMT2p6WHdMM3E1TDhKYXJTTDUxQlc4OGQ2QmR1OVNodVdpdVVaZWJ2NEVrUEphdnZRbGZUN1JIUTI5Nm5fUHoyU0U1YThUand3ams2dVBScjNkc1U1cnIxWEFtRVUzcm5vNDk4eFdPczJoWWhEY0UwYzl4emtNT1g2SVF2M1NveGZ2ZnVpVHRMWXdTTDdVY1FNMXNFOGtEXzhZNFJlYlVnQmw2QTdPYl9R?oc=5"
     },
     {
-      "source": "Reuters",
-      "title": "EU backs one-year delay to methane rules over Iran war disruption",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkpSMHRzYkVzbXBIaVBGSnhJbTlaRzhidV9fXzJuTlZERHpLblZJTlhnLUhpc3c4ZjN4TGlnNklKOUlLVUEzRFVEYUlDbWlLOFpLQXZ3TVduQk16S3M0SWd6SkpITlZZWmtzdjc1V3UzT3ZpaWtLSmt0SGNieDJTRU4ybzZRdC1TSTZPaHJoWllTUG1maVNjUG80Uko4c0dDVm01UG51QQ?oc=5"
+      "source": "AP News",
+      "title": "US military carries out new targeted strikes on Iran as Tehran's leaders weigh mediator's proposals",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzhSRFZOUUdVTUxvUEhJUkpCcGZrSnNyX0pSc081QmlIUXY1NmZHZUFiU1lDYWFDdFJncWtkdVRxQWRjSGV2Z3FXVEItNmRNMG4zN0VfWjVXWm9xdjJkZ1VLSVc4NTZzUkZ0bDV1V0VWVC1mamVrQlB6VHhPUEJ0eGhDMWdBOFZrZU5qRno5RFJyZ1FuWExPVXFjNmFCSmRMX1VnZWp3?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkZpaVVfVFZ3Y2VIY3pzZkJSckJyNnZBMjRGT1lTUXV0bUZ1elBKd3JQVWlFYjZ1NTFMU0xabll1dk1ZRTJzQnVyQ29JaEhmeXZXLWU4TWpJQm9uVUl3SkV5bmgwVFVNaDZRNTJQLVZ3SnJsSTJtNDBpSm05cmVFTW9lb2VuWGZya2FkVnNfWGlxczI2TGxGTGN1VUlHZktzbjBuUUN1U081QkhTN0xUdUkweV9vNUnSAbwBQVVfeXFMUDhaaEt0Y1Jnb1BVQ2VSMEZhd25XZ1FyM05KVTExa2I3eFZOV1F0Q3VMOVBIaTl4V1NOTHloLW9DclN5b2VjY0dveDhXc0s2NUxHMmxNR2o1V2R6SEt2UGlTTlFocFFMeXJpeC1wTzA1d0wzOGhCb1d6X29qZXotVlkwOVMxbjA3X0owMFE3SlByUmQ1X0F0Wm9VOXZvbFNjMWhBTmxtMkN6Q0phYVhRa3pRMHJjOGFiV1ZUeVg?oc=5"
     }
   ]
 }
