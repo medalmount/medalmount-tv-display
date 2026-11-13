@@ -1,21 +1,6 @@
 {
-  "updated": "2026-11-13T17:55:52.286612+00:00",
+  "updated": "2026-11-13T23:05:03.853729+00:00",
   "items": [
-    {
-      "source": "The Guardian",
-      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejhqODA1c1hwY0NTYTVMYzJleE56MnNCSlkyb09lcDRkcUZEXzRRbmtReWJjLWlrUDlNak94OXZIUjYwZ21YMS1OZlJ2ZzFIeUNYRWJLMk93RUVYV3ltMnBGcVFlNzJGRDhOMHZ5cnZ0eTV1VUlFdHlBMnUwN0FwX2FFdkpCVFE?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Can Netanyahu launch a strike on Iran before he leaves?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDVpZXM0aE93SXF5aVY4RzJ0VWpkdExxa09ab0VsdEpkUWVLRDJWZk9QbzJ1ZDRRRXRTaHBxYUlPcEp4VlhqY1JnVlVEaTU3UFBaVk0yajY4MWlkZm1kSmZIOWVSampraEd5TnZ1TnlNVWJER2g5R0p3cl8ycmRraEg5S2ktaTV4OTFQaGJlbTVta21SYlpPM1BnUzLSAaIBQVVfeXFMTS1nUFo2cWt1eGhEcG9uNTQ3R05sMzZzSU9seGsweFlYMFRlNXBQS21uRU44SEtrczhpekRVaW11Uk15N0tkbzhMcENKWk5FOXdLcmh0MGhwaEdRbGVkdzFINUo4MjNyVld1ZXVXQWQ2c3lvWUFoZlY2ZFgtcEJUSjREVFpZZDdoUnFwNGc0bGlSZXAyWHluNEJDTC1DZjNlRDFn?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5"
-    },
     {
       "source": "Al Jazeera",
       "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
@@ -23,8 +8,13 @@
     },
     {
       "source": "The Guardian",
-      "title": "Ukraine war briefing: Europe to join negotiations, says Kushner, as Putin warns against peace keepers",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ2J6akdFMTJ6WTVyVlJyZ3ZlUkp3VzE3QTBHVVJpc2ZEcTdJWFB6R29tbGN3VmFMODVSMzhkUHZsNzVzZDlXaHE4WnFkcUllalBzT0xQbzVlTUVvTExReHVKQmZtMElZaG1kS3dMN0RvU0s3N2VRTUg0c3FNbi1KZ1lrd1UxNFh2OEpzb3JFWjVsek5BcE9zcTlOR1dySzYwdkN1V3IxOVdDZFdhaXpRcEJDMzNNc3RqaHBtWThEUVkzQjFHZGN4RVJ5NENfVVVYdy1rcXJ6QzJVMEtk?oc=5"
+      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejhqODA1c1hwY0NTYTVMYzJleE56MnNCSlkyb09lcDRkcUZEXzRRbmtReWJjLWlrUDlNak94OXZIUjYwZ21YMS1OZlJ2ZzFIeUNYRWJLMk93RUVYV3ltMnBGcVFlNzJGRDhOMHZ5cnZ0eTV1VUlFdHlBMnUwN0FwX2FFdkpCVFE?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -33,13 +23,13 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWk2V05hQVJ1VFBPdFFySGw4SU4tZGlNT3JYdDl4akdMQUJVQmhDeVZkR0VOSV9TN0tsaGZnZlJPYTJvZGRGc19KOU1aOFlHTlkzZG5qMFdjSjhXQk5xd1pLdkdlUHdkcFRTcnNSUVM5a2F1S0p6OTd0WjR6dUE4VGpqWHVLbVZYZHc5MkNESjhSdjN6bEh6TmZXYnY2a2EtN21SUXhRX1R2Tkw1QVRZ0gG0AUFVX3lxTE9OYXAyaC1NazBMTk5GdVYyeV9ZU1lmUTFGbFRkWTdHM1hEa3I0VDE5VXQtVkVjR2xuUkUxTWVMc0lLeEMxYW1fWFlSeE1aMnNoVkNjM2hBRE5OREE2QU93Z0JJeURrNHgxVVU1QmR1Vm5jRjVJbl9XQk9UY3dBTFUwdVIwZVRaMmFOaWdIUmhDUWR1aWtLcnpzcWdsaXlzS1V3THRRSWdpR2tPZDRkUmJ5UkUySg?oc=5"
+      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY09mNTcwMnZZUWxoenhybVJxLVEzSzlkbTJRLWQyR19pN2tPVXpfbGZ1RlFCMnZWaUxVY0NJY3hYR2ZIaVJMYnh1NUNMRHlINTRFUEZIOHphaktBLVM3TVhITU9IeUcwa1NRSkRlalB3T3ZYX01tdGc1Zzg5dnF0a25VVUlDa0t5NXlfei1jTUdGSkdz0gGaAUFVX3lxTE5uNmpHeTRzT1VPTkpWdGFqdV9HYmtwd3RUODczUDFMSDBrXzhPUGI2ZGFzaXlXcHYzckZwVnNCV1FzWlB3STlYT2RCUnpsNFhpVkNpV0JDOXdlQm9oZi1zZUZVU1lxUlp1YXRDUFV5cnA0VFBkazNJcGtOZ0Y0bldCTGtlTEVhb0J2NkNXcDVsQ1Jobm9DZDRBa2c?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY09mNTcwMnZZUWxoenhybVJxLVEzSzlkbTJRLWQyR19pN2tPVXpfbGZ1RlFCMnZWaUxVY0NJY3hYR2ZIaVJMYnh1NUNMRHlINTRFUEZIOHphaktBLVM3TVhITU9IeUcwa1NRSkRlalB3T3ZYX01tdGc1Zzg5dnF0a25VVUlDa0t5NXlfei1jTUdGSkdz0gGaAUFVX3lxTE5uNmpHeTRzT1VPTkpWdGFqdV9HYmtwd3RUODczUDFMSDBrXzhPUGI2ZGFzaXlXcHYzckZwVnNCV1FzWlB3STlYT2RCUnpsNFhpVkNpV0JDOXdlQm9oZi1zZUZVU1lxUlp1YXRDUFV5cnA0VFBkazNJcGtOZ0Y0bldCTGtlTEVhb0J2NkNXcDVsQ1Jobm9DZDRBa2c?oc=5"
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDJoa1FmMFVyS3gwTU9PTi13Vlh0eFZCN1pwOVFzQmJRckNUMXhQR2tiMXhWeTE1NkYxUjYzanQ2ZHRXcEh4SUhEV2lVUXdLTDRILVJPbGhhVmUwVE1sMVp3clVNWXRQMlE1V1phaC0waEdyX25uR0NoQ2lfeXU2SXhrQndBRHVtVGtUOFVDYUFjdFotQTNITDFnN2FnZlZxQjhZVEwzVnVlWFp2VFI1YlRNXy1xMjJObGfSAb8BQVVfeXFMT2gyb2JYQkdxdjN1aHNjeWhMdi1TelBtSVF3YmNnTDlJMzVHWUlBeTRLVHp6czNBUFluTEtuaFVhbDZEVjZtWUtpcGwwMVRfUGlvTFp3aWdfMHpTRTlLakZYNnRpa1ZmQTR1cEhnM1lORGFLRUQ2ZmNKcndnck1uX2VZTU1KUDJWWFZ3bFgyQ29yeUlfWnBtS2UtYVZHc2p5UFI4WmdXaXI2dGt2Y1FRdXlCUUZxdXV2RW9PamhXOW8?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -48,18 +38,8 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWUwQ21ocVdEWHpGUlltWmpJa0Q2ZW5IWFM4bko2SkZiTlhGZEttd3V0bmpHTkZ0WDNLODJleG5RV0JHWDkxN2tvZjFxRy1US2FlUk9vNExqOVFYQVRXd2hLQnVaWWotYnBEa2JreW1pSFplQVk5LWJFekhKeTcxWkd1TjRfM0ZORklJaEliUG1wQzd5MFlabW5hS2VzU2hNVlJjazNRWWNuNEdwUHJr0gG0AUFVX3lxTFBkV29GcTRUVnFTcHE1Vi1pSVFEVllzeGNmdVNwSkJnN2Z0akMwOWFvNEMtTHVzUVlEMGdlR0ZtMkpWeTMtYTJTWTVwTG51U2FZNUZwb2xIRjRpb2RPN1dkQmQtSXU4b09laGxacVNSQ2ljZEM4RGdVVXotTUVZVHZpcklTa0c4UjdyalhtNkpUWEs4VDlFSWJxTHJpZ2VINVNTQmIxZHpVbGtHVGJCMDF3UFc1Qg?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQk5HZ2otLXgxVjM2Y2t3MVVGZllBYWlRUTBIYjJZb3FGcW15b0g1ZUlfR0FQT2NTZGhUcFpGR1JYczNaT3hucW91SE92U21TMW9lZEtkdUVTQm1hYUx1WmFJYmFzODdaUXFRSjV1aXZ5VzBRYzhrcHhvdTBMNVF2V1ZPTVhoWVN1dmdWRUUydWFFQi1mblE3a2dhN3ItSHhIWkNKSm1uMjVhS09NbW9na0VR0gG3AUFVX3lxTFBZTDVsS0F3WXJrQ1VlTDd1dUgzWC03ZlFSQjdSMzUyNG9JUzhzNW8wbmc2YXBiM1ZXbjlLa2NZc3VTTWtKY09QeHNOWHlFQl9mbVp2aFFId1JtdEFwb1N1WWc2c1VqYTJaX0U4ZTNjV1d4SUJJRW9WckF0Mm1hUVFQWENJS0xiYUNOTnRGdkk3WkRSZVJRUWxrRHlzN0JIX25ybzVCNk5ob2FjWEpobHJBblJabzhjdw?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWnRseEJJZGFmeEJBQ01KRnpVUkV1RUM4eU9EZGRaaXNudnhBclc4aTRFWVRCdGFaU0N2bWVWYjZfaktmREJPdm1MUTQ3S3BXZUgtNi00UmE1OXc1YkJYYldiV3JPemF1Qy1BSGRucUU0VklGOU5obXBpVFdNeVZpdmFISTBPMnp2U0l3QTBHRlAtYlVHVkhpbXpBdEhIWjU1MVY5OENRVnNTWWI4M015U0ZMdzdEZUpLckQwSUF6TdIBvwFBVV95cUxNWnRseEJJZGFmeEJBQ01KRnpVUkV1RUM4eU9EZGRaaXNudnhBclc4aTRFWVRCdGFaU0N2bWVWYjZfaktmREJPdm1MUTQ3S3BXZUgtNi00UmE1OXc1YkJYYldiV3JPemF1Qy1BSGRucUU0VklGOU5obXBpVFdNeVZpdmFISTBPMnp2U0l3QTBHRlAtYlVHVkhpbXpBdEhIWjU1MVY5OENRVnNTWWI4M015U0ZMdzdEZUpLckQwSUF6TQ?oc=5"
+      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa05JYmc2ck9zZm1XWkU2cVVUaDd0M2hKaG8zTFhNYnRCNTRoNzZhcDRLTmpmdXVWWmRZbFFvZFdwVnIzQnpYX29zZXRZUU53T3pVbE1xY1N1dWEtMjZfM1FrcFRvZ0hiZ05Rc2NXci1qTDM2Z0thUkIwbndNOWxERGdCQTJEc19yR2h4RDluT2N3NW9kVlVUamJSaDB3blo4UXZuUU83VmFRWkFrY0pKV21n0gG3AUFVX3lxTFBlTlZyWk12bUJ5NHpwX1dycnlBa29XT3FGTDFUbjBwTWVnajNTQkREaEVNRHJCdVpSRDNhbzN3YzdaYkpaUTY1TjZya09zcWtTel8xcm5jOTRxcG1jeVY2NDBldFFwQmdCdERHUUlEQmxOSV84TDRzNEcwZWhWNS0zMDRHLVBuZjZXQVVTZDM0bXN3Sm1ZSWI5MjB4VGFWOXQ3OWFqcGpRU2dMa2xQTjYxOWhtWDN4aw?oc=5"
     },
     {
       "source": "The Guardian",
@@ -67,9 +47,29 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHNDQWF5VDBTVmdYOW5Ha21wTlp4NW9wQ1A3QTMybnh0S1AyMUlsMnA5MlM5QkxwdTVrRkdLanJITUhjTWlrczNwZ2E3TUd3UG8xenFZSFpvMGYzdkpPQV9zNmI3eXV2eDFMMzhNWnM3bVNjVFZVWDU3dEtyS2VKMw?oc=5"
     },
     {
-      "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "Trump says US does not 'need' Iran deal and tells Vance to focus on Democratic fraud",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmZoS3FfcTF5cHgxUjBKM1Mxa3hhY2NxanVPcHVDeTU1Z1h6aERqa3I5SlFRV2ZfT3hudTZFWFE3LWRSUWFEWVp2WFlYREtmT2g1M1Z0SHdMOHRnam5GQWhYUkU3aFI2Sm9xdnNUSXZRQTFOZWZCdzN4VVFIa3Vpdzl6b0ZrV0JhWDluakUyaw?oc=5"
+      "source": "Al Jazeera",
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGxvcXBWUENpeHd3bVZCZFpRS3BRYlZ4VHlSTmFfYXZldHk3eG9GbFhtYTlWRHUtT1dqcnliMVNTVDJuWFlwbnZoZUcxQ2EtTVptVnl2Mld0NUxNZlEyVHVLTVNXaEFERTl0TVJ5bG05RkR2X1hyeW45RUNRa1hUMzNIQWU5UlFBUG1BY3c4Wi12WmRUcVNMSUNTdngzaTRzR0t1bEZxX1NMX181NmtBUGg5enc1bXE3YXJEMtIBwgFBVV95cUxQZnNHWWlFZVl0SU93c0Z5dWkycUtFNlNQMm1KNHBDb3ZzQ1F0cHBoU0lZM3dNT3h6bXBQNmFDQXUyb3JrMW1JaE9BWnVmNUh6am1XWWZFNHU3eWMyRHNGU3VFMmJNaDVub08zNGJTT1RoRjEtNmRsaXIyZGI4ZlZldTFXYl9rSkNXZXl3Q2hxY1Utb2RpZzNxQktqalVjaE14a3ZZMXhjSGl3VGFQYlg5NDljSmdOUHlSX0tXN0RlOVJ5UQ?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US grounds all flights after ‘communication issue’",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWklFRmpJamZ4MHlORGd6WWhIbFlGdzhlVE1Ld3JIeHZ6M0lVMWxGTmpSdXRXWTdJdnJpMnZFVTM1Um5fR2VxeWtwSlB3eHYzRl9LQjR1YTdrNVJoMWFnWXcyR2s2RTB4YkxTVmVUM1k4Zml3Y2F1aUQ1cDcydUZ0emFHLTNiZUtBb3drTXhBdzl4d3pJ0gGaAUFVX3lxTE9ZNnBOc0lmWjlfcURIR2VtdVVsMV9fcUd2Ykd3emJFZnpud0piMmF2MGc4TFh4ZE9LaUhrd2hCUHFxaTFIbjVqZGdsdWdYanhDTVFVTWpzZGZpUmZBcFNjaFM0VHRmeE9Pb1NnMk45bFM2Q2ZKMTB0S0w0Q25nNEtpa1h6OWJsWmxOOEtIMVhRS2FuemdrNEpMbVE?oc=5"
+    },
+    {
+      "source": "AP News",
+      "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWnRseEJJZGFmeEJBQ01KRnpVUkV1RUM4eU9EZGRaaXNudnhBclc4aTRFWVRCdGFaU0N2bWVWYjZfaktmREJPdm1MUTQ3S3BXZUgtNi00UmE1OXc1YkJYYldiV3JPemF1Qy1BSGRucUU0VklGOU5obXBpVFdNeVZpdmFISTBPMnp2U0l3QTBHRlAtYlVHVkhpbXpBdEhIWjU1MVY5OENRVnNTWWI4M015U0ZMdzdEZUpLckQwSUF6TdIBvwFBVV95cUxNWnRseEJJZGFmeEJBQ01KRnpVUkV1RUM4eU9EZGRaaXNudnhBclc4aTRFWVRCdGFaU0N2bWVWYjZfaktmREJPdm1MUTQ3S3BXZUgtNi00UmE1OXc1YkJYYldiV3JPemF1Qy1BSGRucUU0VklGOU5obXBpVFdNeVZpdmFISTBPMnp2U0l3QTBHRlAtYlVHVkhpbXpBdEhIWjU1MVY5OENRVnNTWWI4M015U0ZMdzdEZUpLckQwSUF6TQ?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGl4M3I4cEx4Q1pteUwtd3I3OFBYWWFUU096V1Y3X2oxdl9KOFprODJXTEoxallGdk8tXzNuMzlWSXdjTTBFNjUxUHFwWmdVZTFHeTh0TEVYcWtNSXI2aUJkRFdKVFgtNmpWS01zTlhMS21ndThYQjY2bDhXSFpnV2c0Sl8wSzdBWnJzNmZVR05iUGdxU3BCUnBIYlcteEQtRkNMbDBQRF82QXVESmZSRGNvZG9yaGtfbm5QNHBTUE1jNjA?oc=5"
     },
     {
       "source": "Reuters",
@@ -78,18 +78,8 @@
     },
     {
       "source": "Reuters",
-      "title": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGl4M3I4cEx4Q1pteUwtd3I3OFBYWWFUU096V1Y3X2oxdl9KOFprODJXTEoxallGdk8tXzNuMzlWSXdjTTBFNjUxUHFwWmdVZTFHeTh0TEVYcWtNSXI2aUJkRFdKVFgtNmpWS01zTlhMS21ndThYQjY2bDhXSFpnV2c0Sl8wSzdBWnJzNmZVR05iUGdxU3BCUnBIYlcteEQtRkNMbDBQRF82QXVESmZSRGNvZG9yaGtfbm5QNHBTUE1jNjA?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlpudTdoUl9kSVNiTF9ITy1TUS1jLWtvMVVPN3lrQl9zY3FacExZeGhwUHZPWFpMdUlsZ1c0TW1zb1Z6NDZjWXptcWhrajNZbGxtQTY4ZzR1TkxEcUF0cHNsLW80ejhMX0dZVWl3Y1pyTzN2cHBRQlBKMlAwa3o4TkN2NmFFN3k4Vy0xNXZhQ1JsRk56V0pRQUswOUc0c2dHVTY2c1dLMjdnZlVkWkYybkV30gG3AUFVX3lxTE5adFZ4YndiWjM5NC1SV3prQVJ4b2RqX0d5Skg0amx2NUI0V2VVMXllTlo2Yzk1Qk1rNkRSaEVCb0lxMlJIend3SElJUFo2QWRZdzVaRE5lQ3ZEaVdFMUdhNUUxZ1VGbzhSaUpveTRKS3ZzSFdRcmlKQ0ZVXzF1NDhMSkNFN0pPVVJieWVxZXFVSFJwdXdoNXY1V005NnJVU3B1Wk1IR3ZJUmxzcFNhdXp1cjVpUXJvSQ?oc=5"
-    },
-    {
-      "source": "BBC",
-      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ISUJpaGVUMDU4Q3VLd0xnbUZMWjhCdE9sek5ScTFwbjFOa2xabFhRVU5KQklkbFhCUmJFTU5VZ0tzUW0tYUdBZUNDazE0dU9WbFh1N2ZnY0lmcG5LZVE?oc=5"
+      "title": "Turkey, Qatar sign mutual defence agreement, pledge unified stance against attack",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5"
     }
   ]
 }
