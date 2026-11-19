@@ -1,10 +1,35 @@
 {
-  "updated": "2026-11-19T08:44:01.017433+00:00",
+  "updated": "2026-11-19T17:40:34.716878+00:00",
   "items": [
+    {
+      "source": "ABC & Headlines – Australian Broadcasting Corporation",
+      "title": "Trump, Xi and Putin release joint statement after historic talks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0pPSVVScDRYVG5BV3NodEJRd2Z0M0U5ZXhtOU5Ua2FzaXNmV2RodVNjcDdVdVljSFRKVjVOdUdNRGQ4VTBFSERxOTFIdW5MdEg4MEIzQzM0MG50UzI0MWlUT3dHZXNlZUxsNFBuMjJRTlN1akdlWWotWjlRVXRNOUotSlpXZS1yQ1lpMkxfSjVDX1ZsbTRj?oc=5"
+    },
     {
       "source": "The Guardian",
       "title": "‘End your war, end it now’: Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMUk4d2picFhEYzg0dTVkcHN6U2ExZzBiQ0lQZmVDc3V4bTJJQnkycXBBSk1RNHVfclVCTWFFWVBwbnpiWDJnUklDSDRqN3lUUnU1bG54MVJTeFo3VTFiTWFXclY5TzlZNVcyV3llaTJrSDhPblJrODBnZWhEeDBPSExPWERwTTIwRW5zQVE5WjVjWVU3MC13S1gyWW5OYjlJT0YzbXRfT043UkgyNFUxdkxKMUJ6S0hiejFRVnBkM2JIel9EbmdzUVptM01Xc0sxUVE?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WV1BxNmRrQUFiOTMxd3laUEdOa2I1dzNZZWlqWnFfQW5ic05OSTJuYjhFTkpIMUprN2tyeWlEMGRmdWJEallEUVRjSnpzcXdEbTl5SXdFZEZtVWM?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVwVkxCTGFrV1g3UXk0R0xScDhlZWk4LU9HWWkxazNZLVFVRnAwbWdaWmRHUDR2aUxOQlN6dnZjek1CWkhFZG9ST2t3R1I2WVVpU3YwVUtHYWFMWnlDQS1GLU1iM3pmNWt0eTlQQXYyblJhZFZKUGZRZ1c1VG5jRUtRMVB5YlB5Nnc3dzBFNGJ2RW12MXU5b0VCOFhOV3ppdjFTT3FzbzI0QdIBrwFBVV95cUxPOUtWUVFBVEJRNmQxWjRLaENMZUM0aXpSY1JBM1ZyckFPSWlsc3liODdLOTEyNWhwZUVUVUtSd3A4eEVqMHN4WG16R0JLNjZ2cm5mWjd2bTVTOTQ3NS1Pd2pHSnRFOVF0X2xsM0l5Tl9nRG9sM0wwOEp3TzJfVVNVSmpqd0dYNXdpWkN6WFltVG5LSTl3VVdxbTR6c1dmNk5STWpBVEZyZjc4ZjhBc2xZ?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUtORUpMeGRRZUFPdjY2UlJ2cmpsd0ZNZmNwdjctRW8tbmtlaXp1Vk5UVkRqREZHY1BMcVRxMDFYOVo3VnJ2dHREWHRYdzhnbEFDOWlkNkl4RklnTk1xMFdHUjFyanpySk1QYVB1QVZmemRvRFBYYmJzT0x4Y3E2a3hpcjF5LS13TTRNRmtJcV84bU9fdl9fNDdRNm9ScjhER0VvWkZnS0tDS0ItUmlmbEFB?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "UK to provide Ukraine with long-range drones as part of £260m package",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XT3J0aUZ6eHYwYUFSVE9QMXgtMEpWWnhLVmJVYmVuZThGQktEMFdWWUpRS2dvVmNwdlRqNWlDTUtHYjBsdzU1TnVpX2lnb2xnR19DeUJmMTM1R3c?oc=5"
     },
     {
       "source": "The Guardian",
@@ -13,8 +38,38 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0tDOEoxcE1oTWlVYnFZX2w3SXQ4UHY5ZGM5NUhiOVNiblhqMm1ZblFiWFF4YTVPM0RaZURuMjFkNjNFOHRiaDExTGtFZEJrN0tMR0EycjdieDZCRHRPTFdvVDlqSE4wMnYzbl83TkJvRE11bWRtdVU3a1RWLXdwdzhyRXhmVndmU0ZHZ3NJLWowdWh1QVA3TkJyS0RfdnV1SFRRQlNCR3lGSnplWXVmUWgzMWfSAboBQVVfeXFMTU1hWUtoLVAyQ3VmUW1hVDJRRUxjYXRyODAzY2RrdWR0SnE2a09VMDROQjRfdUc3azJSU0R2djhtdTAyb0hwTHREMFZjcURxTDlyMHVKZjBlcDdYbzNtOTFCdzNadnZhZ3VjUV9tVmlDcUJvWVJNNU1xa3puRzVXVVZHNmhiSmhBai14WWQzbWpIVHJQVXIyVWlBaDVIWElzeDNmUVdDMTRuYmFNTzdUMVBSNDBXRkxaX0Jn?oc=5"
+      "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWNVZC1WcFBHZ3NmVzI5cG9vM2VMbGdmNnlJejl3QU96Ql9hLTFyX3BYcFQ1OUphN3FsWWVoTDNJck1vWGhaZnFNbnJnSVZmVlBVRDZ5ZnJCa0lJdl9NVkJnSE42TDgxZm5EYldpdE9seFJvS2wzRnFXdENXYkJYVnFxY1F1LVd1NDRyeVNQVDlXaHZvMElISkNyQk9Mc3dHdWVJ0gGoAUFVX3lxTFBOcGN3dFlLaFVTaTVmWi1WTGFscUl1ci1sdkFORm1oNVNHZEpGdHFraEtnUVlyb1ZCbC1JQ3BDeHAybWIzYS04NjlmV2tCaFpoX2NfdG1MY25CRG42YVJaSm1abVVsR2Jkd3Vwcklweks0M1NEYmtyNUFGS0R5UFRicmwxQjhOTXk1blFhc2p2ODNIaFpfRllmZ0lqTmlkM0xzY2F1Sy1mTA?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Putin vows ‘painful’ response to Ukraine’s bombing of Kerch bridge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemI5QkZDNUlldjVMZHNwb3hVZFp0bXI1RHRRMHhwUmhac1JtRzlPZURvUkNZdng3d3FlTGJjWWJYc05YbGx3eDUxQ2dweGtkdVhMaTJicDRKS1UycDlZTm1ONTBrUTlRV2xzTWhTNnZYOWNvSFVhNFgyT0NLYnVPR3R5OEd3dl85OGlqUkg3WmFNN184aWloN084R0pPRFp4N28yY1BYU2kxMHVX?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Global courts under attack and four more takeaways from the Trump, Xi, Putin meeting",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUtWd210TUZ4UEo0RmNWV01MQkJ2a1pKNEs1OHRJZ2JuX3B2amhfanR5a0puRlc0MzliVkhDQVRaZDI2cEp1RFByRVk4Q3VFbFQ2N2RPQmZmMjRXem9UbE1WRXlkXzhsczJQQU04NUlQVDhqcl8wdlVlTmJHcjFTRENUTUlMOVJNYlY2UWZ5ZDBhZXJuV01GaVlLVFVyYXRjVmQ4?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BblY0ODJpaUlrOGdtV1g4YjAyQzhZLS1TaFIxTDRRSUQ1X0lpcGgyZ18tMDVrZG0zNHJhSmMwampkaG1YNmh2dlRQN3kwM3lzbGtNMEtRYWVYZk0?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Houthi attacks on Saudi Arabia",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXVIQUMwVTA5TllQb203X3V6XzNUVlNqaHhXd3NlNjJ0VF9rVUp1OTdRRjBWaVFMREswSVlfNjVESFAwb2w0NGMyVk5LeWNjTU42RnBIOWRsR05kWFktNFhrNnJtMm84cGNmekdUYmlvREJLQkt6NjUxMEZ2Sy1wUjVQbnhMS2JG?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmV3ZHFqcUdsMFBzaXBCa243Y1Bua1pja3VXUGMyaHc3NUpCbktpT3FybVZTTHh3MFJTSU9QckpoRE5zNzRfWDQtSU9Wd1dhdlUxR3VGMjV2VlhsLWZPRl9paDhWaWlQZUZhUGlVbWtxc0pNNnlDMFFaZWs3dDQtOTJSUzVnMzFQN1hUWDgzNV9rUWFncUlZREhsbi1Lc043a0wyMWV5MThpU0lNS1E?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "title": "Iraqi forces strike compromise with powerful pro-Iran militia, security officials say",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVE54c3Eza3gxMTYwRmh4U0tZR0ZvWmctdm1OV1dkN1BzZXNXdFFiTjZkZlc5Mk01YVQzN2ZkZFZzUVVPdmMtc3ZzRjJZY28wdFE3ejFtcnlkbWZmUkZicXFKMU1ydEJZalZwZlFnQkhWSGVaMXFUUkt5T0pVaUp1WUxJMjdiVDhCWnlOLXRKaFh2UXhvQnNNQnNnZVBkWEdwMFBPOEEtc1ZzOTFIOHNfZklhZWJuQVVJaDBpU3hPNk4ycllOcTg4WmZoRG5zaDg?oc=5"
     },
     {
       "source": "The Guardian",
@@ -22,54 +77,19 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkhuRXZBS0pyYWltUGM2UGg4ejdvOExOcVhTNnJqeVVOS2s3T2pEdU1SV0J4SUhDcnp6WDVWaERPR19taTd3OXRvdEg1NGdmdWtwOWdadkFOOXMtZVN5T29Yak9hTzJpSVIzSUU5bXBEcGJua1dzRVFobVVDcFlxZi00MzBfZWNnQUZwdmRuVWJsczlja2ZBOXBndw?oc=5"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQm8tY2VXbVFuOVhOU0pKX2c2bDd2TzNzUGpfLVFjX1haT0ZuWWU5OG5hb3V1anhtMmM1cFNYdUZ1b2RXUTZXaFJIOW1VYl9zbXJSSmdrS2FmTnNlckQ4dkR4bjViVFd5dGRoYnBTSm9oVW9IWlJhaWtMODJiaTFoWWtPMEc1V2ZXSDBzRHRtcF9PSWh1Qmk1THlKMTN2TWU2Y2p1VjhSUjJoMHVVYXVtZFIyN1c?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2dSRXcyNzdIa2VEZW4zd1NlS2pyb2gwaTkzVUw1aDQ5VDVsdjJDeFJfekYtekhlNFgzRHE0VnNxVXN6dC1ZNUoxaXA1SDZ5VW9QLUl2REU0d3VDdEpFSXNCWDJIaWZtMUJKanU4amNhWExFY29pZzE0RXpnQmVhbFQySl90STgxdkFzTzllTkNUYnBlWWhGSXdOaWRmS0hQUVFVZkw5S0dNbXpZSXpBd184Yll6QdIBuwFBVV95cUxQYmoxb3ZGV0R2YVcycm1LM3phc2FRaWJoTXhMc19TVjhISWJ1ZERTNE9Ra2Exbjg3QjNuZEJMcGltNWZ6Y2N2cHJ4bUcxcWw0aU04Y1RPV3l4dEh6cXVLRDlxSGJubGloeGVSbGZrUTRJcjk2YlRiWGVTT1Znb19xdmgyYlZHYVZua2NvcXlfNW1TdHJ3YmhEOHRzOVpKMkpObTh4Qkw3RUp5OHBlMDRIZ1ZYTVo0X1dxa2s0?oc=5"
-    },
-    {
-      "source": "BBC",
-      "title": "Putin's Crimean Bridge comes under attack again, Russian official says",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WV1BxNmRrQUFiOTMxd3laUEdOa2I1dzNZZWlqWnFfQW5ic05OSTJuYjhFTkpIMUprN2tyeWlEMGRmdWJEallEUVRjSnpzcXdEbTl5SXdFZEZtVWM?oc=5"
-    },
-    {
-      "source": "BBC",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1AxOUxYTnlDdkpEdHpkU3NETy1XcDZaX1VTNlNEU0dWTmxER25jS3BSMTdDTWM2MXluamRyd21GamVUTmZ5eGRiQ3lLVGFaVEN3MU9ZZFZtREJQN2VKSHBXTk5faUd1eDAzeG5LRjg2bnhhRmszQzFZU0ZmQkIzSEowdERFTlZPWTRVSmd1UzBDOTlhX3lvTWl1MXFFRmNhQXhXSlJZa21FcGlYaXJSWVl2amNzd9IBuwFBVV95cUxPTE1aQ0N4dlBxMzhta01ua3puNEJXNW9oTE0weTRPZENSN1RlUjNVSkhpNzBUSWxSME5HMnJxclNxY1dDeWxrUmJmWWVRVnhadUV3N3R4bDhCN3M4eHNwWUUtQ3ZfdC1sZENYanpjUHNqcXV3NTN0bldRa25ydGxlb1NZZHJfN0FuanVaMm55d0VYVDdmeThjYXVoMGVDeTNDQjJLYm5vc0xaN3kzYWV5UzRQUVVVd3lGbEhj?oc=5"
-    },
-    {
       "source": "ABC - Breaking News, Latest News and Videos",
-      "title": "Crimean bridge attacked for 3rd time in a week, officials say",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2R2RlIyVDdUc3FSWTNsbkZxSVlqUzNmLXpaMHpwMlJhZi1QYjVlZjVJaDZVRWNyUkZrdHZkcTVBNmpjeEpqSmFTMUZYclhEZ3J2b1FoYWpGMHZIVzE4QVVkQWxSVUpUcnhqMkQyQUlBaVMxUWVEWDVISThnVTVsd1hiYm5vcVlTRFR4d3Z2NWtzQkdiSWZ3aXNsR2FsQ3VwQl9uN2NPN01tdEnSAbABQVVfeXFMTTRkRUJPVnhWbDFZeU9DTzJWSjlWOFNRMjdPekdhVHQ3WTN1TFZ3amZBaGM1RmlBb3Y4a3hjX0FPbDE0NmVBYVptNktCaDE0dUJDb19INWdxLTUzSjhvQjJDTjI2RUhQX0JEZmNEbkJ4MGNMV2JSdDFMZlpkaGg4akREXzctSm55ak5ObDQzY3lPcUhsSlJ0VldVMmhrRVNVUlQ3eUhYT3Frc1gtNHI4Tng?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "EXCLUSIVE: Saudis preparing for Yemen campaign to last well into 2027",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0txUndxQmRJNU1nMUZSVFc5d29OSDkwSWMyOHB5VC1iVVZwY3IwaEs3VlRkbEtHVGRmazVueE1YSjA4N0N4OElZRVdfM0trQ0dnaVptanRtRWVoWERLMWlUUjlac2ozVlRjMWdqMDQ1ODBOZEtPb2FKVFA0UXJpeGdjck1OMDMzdEhhQ2piTDd4QnFXcm12Vlh2MHVKcXNQUTdJWVZlV1E?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOektDcHNLTnJVdGQtUFpFelJJNFZaN1R3dElHdFNKcEdMTHNjME9zMTk0RF9CQzctZHo5bzV0cllaVlVpeGpSaFpKaG0wWGkyMC1OcFlNdDJvaWRHU2dvVzBYSEpfWl94QzY2NjR0MzBfMzdhU1hRMl8xenBCNS1yeE9iTjA?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGFFLXpheVdRTVdEZmh5dzNVdWpQR3RJRnJSbjZMMkNscHBaZWlNWTFLT0RpN3RGVU5xbHh1WFJoYTQyVGROQnRDcjZxaW9QaTZKZ2tkWGhDdUpRWnNHNXY5ay1PN3BZcmY2TFcxYnF0OFBtWUUxZzlfblZrZU9tVFZ6aDRaOFhuZjlyX3ctVS1wQ3h0VzFrRUd3eWNvRlJTakkxZjMtOWFsaVJjWDBLVnZ5aFV1QVMxb044M1pYbS0?oc=5"
+      "title": "Top UN court set to rule in a case alleging Myanmar committed genocide against Rohingya",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzdaM042aEFITkh3eDkxZ1EtWlltTy10bkx1MGRIYjBpc3dENG9Zemxsd1NMazRuY2dlS2p6ekZybXVFbG82ZzR4aHpJMTJyTTl3d2V5RFhZbV91TjVnM3lhYTN5bFkxOHdqYUFxV3VzZllBeTZseHpyb29QdTRMbExtYlN0SEQ2eGpZRjFTdHpEcjRIU2RHUTB4TzliTElaOTZIZldzTdIBrAFBVV95cUxNVDJEUEs3OG1ZVHBzYXBETVBVeTN0MTFURXNfemc0NGE2QUVNMUZkNkVoNl91VWN0Zm9FLWhvWUdWaXlJM2djM215WWszT2thZjZQeWFZUnBLTnR1X1UzTUlLSHRBTXFJbWE2ZFVleUw1eWN1clp6cm5zQnZDYTU3Mm9lZWlTY0RyYlJoS2dlMHlwUV9ON2Q1WGtwX1FyWkx2QXEyTXhMSWhKdzdV?oc=5"
     },
     {
       "source": "AP News",
-      "title": "Conflict in Yemen could stretch for months, US withdraws an aircraft carrier and other Mideast news",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGdKNEV2dGQxbWV0MUEzMUh5czNJQXBGSjZQUUlTbmJWYWQwMnB4bElQYWpOOC1LaGZkYUVZeUdYRFdrcVYtcWhFNDRLdzk2OUI5Rlh2T1k2cGI1T0lKdUprbzBnNG5SOGhvdnd4eFhFVE9KN1ZUdGJkY3MyWWZSVS1LWnUzUHpPN0tiYTdBQUZ3b0tIX24xWlNHNVZ4TUNHQWhubHFhT00?oc=5"
+      "title": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0QxUDY4Ykx6Um1udDNTX1h5dFRIQ2VncGVYaGsyaUFmSmVrenN3bXp5cFF4eDVPUzZjNXhBdUdGM3p1VWJyTmM5SkphZlFnYmdza3RRcERsYXFpa2dUQ0RzMXlyd3dvOUtURFN5SVhZLTZFX1hENmNyZXEwWnNJbm5yeXFtZHROS3RwbWJ3WUFGQ0lDc0gyRi13?oc=5"
+    },
+    {
+      "source": "AP News",
+      "title": "Damage from missile attack reported in Riyadh’s financial district, and other Mideast news",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGRFYnRQN1pwV2JiVkRBSGdIY2RDN3hoVnJvTDg3YVpzV2JjNjVMRkVOLVdfNU9yeVZxR0tpV3ZhUU1OSXVMemxUOXBvWVNUMDJGb2Rxa0VRTGxWU0hsSVNvNEdYUVpydDlpNFh2NzVpWXhCWVNSQVJ4OUxoR0ZGS0Q0WTFWNFE0Si11U1FqRnFWZkRlN1haWC1vaHR6Zw?oc=5"
     }
   ]
 }
