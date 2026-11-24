@@ -1,35 +1,25 @@
 {
-  "updated": "2026-11-23T13:22:14.964911+00:00",
+  "updated": "2026-11-24T01:03:57.697398+00:00",
   "items": [
     {
-      "source": "The Guardian",
-      "title": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least 11",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0o3bHlPSG5VTk5id1NhTHhCeXVJbmIxTzJ2bVVfdVBLeldIUm1aZXdmbjA4Ry1aWWt5UUFYNUtJRWlCcTJiSVFzMTFteDUzSHBrXzBtR3hWUDdlRE5ZWl9pQWZSNUNndnVBbGJhNGp1bzFPTXM2ZlNlRkhzRmVNeU5OQ2NjUTVmWkxibmZFemNEdUl4RmRjWjRGMXpZUVUwTGF5NkdHQndaU2IzbWpxamthM2RzRVF3M0pNYXNZX2JHeTdILW5GUEZHOHhZeE8yVGZLUEdvTjFXLXUwdUNENnIwUQ?oc=5"
-    },
-    {
       "source": "Al Jazeera",
-      "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1FmOGYwcEh6Rk5MNnNVVjA3eGZ2ZFBIc0VRc0lSNkI2MUE5NTI2WVZnemZZMkRIcmw2UE4zcmJyUGg5ek9VTmhNNXZpeWR1dWtUTE9NTDliaG9LZWNKb2NKdEFVaHE4N0JFMktnVldYWXAtOFBWaE9mZHZxZVE4OWJVV240RmJkOW5aOW9jakdwSzZTeVBLanBxTXh4QmcxWFZhbGJwMndmZTMyN1BHeUh5Z9IBuAFBVV95cUxQVXFtbU85SlhXR3NKMF9Fd1VrelFHOHBzaVRZZVJMcVNlQnFTZkp0bmJKbzRrOWhkWXdFcHROZG5aaGIwempKSGk3R0hmclQ3M2xMMXNKb2VUcG9UNENYOUh6SHh0MWR3UzhNLUpjQ0VnVUE2dGZJUjRLNzZVTUtscFNTbEpLWlpYRGxTeUJveXU4cmJEb0RKYUwwV3M2cVNMclRQd0k0LVZJVm55ZzZLNGNhN1IzREVh?oc=5"
+      "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2tuUzB4em5zWEgwZUpEZ0szQ0R2ajRaWmgtN0JoX0RhOVFtcFUtWm13b2k5a083bjdjRTJnUVlLTEtadUFYRm5HQlh3aXFFWkNhT2JCaUJPWTJIWm1jcmJiUW4wakYyd3EzZHhOenBUX1lud0JvWVN4YmIyQURaVTBQUnRkeG1hd09OT3YzRzlmd9IBlwFBVV95cUxQZ3JmTVA1Q3FTaTBjMUZldjgwTHJpcXRYSHhoTXlUbnNNVTg3UUltZzd1eTNhc3hDYlZCOHdjdFluaUpRTlVuc1E2XzBKMmFwQVBFT2pqNDhPc1BDUG4xLUhhX2VIOHpWTnB0cm9heEthblZmemhjQ2U3WHExWS02WlRCc2JTQVlDVXpiMDBKcE1HTkk0YWVF?oc=5"
     },
     {
       "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "Ukraine strikes two Russian vessels off Libyan coast",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVHVYSlpLTEhSRTVPY2c5YXVqRGdyLWV6ZWJOWlFVU2lOVTlpOTNNVW1peGtrYjdWYVNGcV9rUE51OC1jT3Q2dUxBbUNsb0NJMV9CWjBvalFXR3lHLW5ZZlBPR1RQQ2QzNVJhdmh4MmlLY082dzA2aEFwWjQ0VVRxZXFTUXJDcGc0LWhwdzRERDUweWo2ZVNDN21LWmsxTHZZRFNn?oc=5"
-    },
-    {
-      "source": "BBC",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5"
+      "title": "Iran-based operation used ChatGPT to create fake news, influence Australians",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0g0NEVUQ0VjR0Q1MVVWTmhhQWRwNmdoaF93Y010c0VXRXd2cVlnOTRlaklJbjVfZzV3aUltaXNrRjFLdm9JU3NwVFpaaXBJcUVxb1hSeVRNdGt0MFpsd2xHRFEyT3BNemRJZjItWTM5WWRMQ2FDWTR6QkE2NkNEZDNrUDdNLUhrdFg0aUplSTlTcmQtYXpB?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGl2dEc3N1IyaHBuWF9vTjZPV2s4YnltNWNweldlZlR6RzJBUW5QR1gzTGhBX0dSR0FraU5mMzY2OGJxYnFmV1RyVFhhUW0yM1NKQXJ0aDNLcVk2STJQNWl0Q1Y0N25DMTBRY0N2XzIxd25WQ0dNUnIxYjRTeVRlVXJPTG82Y3VKYzZuX1hTZ29vaW45QkRLd2tnbHYyTm_SAaQBQVVfeXFMTTNMN2dTbWFtZERHLUQyNnloR1VrdDdOU2d4WHNQS21BalRPNTdXZmhOelNTZHFtYTJLUmludDQ3UlFvOHYzMV9HNUIzaTFkRENHWDRXZGlZVmRXT1l1Vy1rRjVoWUZSQnEtOVE2TVRsRE1WQTBvV2JiX3A0ci10d0NYOHVvYXlmcFk0NXFPcDRMWWFTUGNTbE5HajZUdUMyc0d3eFY?oc=5"
+      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjA5Vkd4bTB6NXROUWJMSjlIM3FVaFhEejlrd0cyUDBJeUtwVTk3YkRGSjMzcHh4RFVBR0xlZm5uMy1vWWVSRUJIb29ZTk00Vl80amk5bHQ0M0ZDOVgwODhZYXByMGp2b3M2bnF4ekV2WGJBSzBHWWJGMnN5Qml6SVNLNWNhV1RKMmZ0NWRJYXIxcUZtTXU3YUx1MWpvU1RtQmlj0gGoAUFVX3lxTE50VUxhLVBnZTZyZHZWZHVaTTV3Qk1fcnJYQlJQMmRqTGxVWFRBbk5VeFpEcVBoREgtVWRZanpaWG5LYm9pRzlPY3NIQnVOX0ZvcWJrNmNmT2JlTmdiNHp6OV93cGVxdGxDeTQ3RGxfakZPc1h2V3hfRkp2TUFnTjNVejh1emVGRi1WZ3Y5ZDlPQlNKc1VrcW1LUURjRGgtWVZZQnpqZHNRYw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -38,33 +28,28 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGt3S3pPSmc3REtpQ0NRR3VpbDY0ZDRoNkF0V1pMcmNLUmpab2w3cUx4T2hoa0UyX05YLTh4ckZsTlJ6UnpySGFTUHhMN2Y1MjczZE1wdzd4NDhFbmp2b3VONHBaNk9CY0U5czNHZ09YQnZURkZteXM5bzFnSEdUdmZXU1lRVzdvc3RNRXRTVXV3aFZaREk2Q0ZPa0xUUzJDSnpRUkUwUdIBrAFBVV95cUxPYktDalVTajJJMndDT3MtakhWUGxMZmc0Tmk5bjlTVnNPTzJHbmFha2V0LW1JUk9IcEZEWmMyZUhXUGhHX3RxMnljRDFFUWRVOFdONXRERWo2QjQyd25IUlR5UmNyLVlCZGpBODNGZTNyS3ZvaTBDYmNQbm8wX3AwejI1cDIzUjBuVk1EeXNhQ1lkMW9jazRmRU9Ia2NXZW55WGFqN0xsN2x0QTgt?oc=5"
+      "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZGl2dEc3N1IyaHBuWF9vTjZPV2s4YnltNWNweldlZlR6RzJBUW5QR1gzTGhBX0dSR0FraU5mMzY2OGJxYnFmV1RyVFhhUW0yM1NKQXJ0aDNLcVk2STJQNWl0Q1Y0N25DMTBRY0N2XzIxd25WQ0dNUnIxYjRTeVRlVXJPTG82Y3VKYzZuX1hTZ29vaW45QkRLd2tnbHYyTm_SAaQBQVVfeXFMTTNMN2dTbWFtZERHLUQyNnloR1VrdDdOU2d4WHNQS21BalRPNTdXZmhOelNTZHFtYTJLUmludDQ3UlFvOHYzMV9HNUIzaTFkRENHWDRXZGlZVmRXT1l1Vy1rRjVoWUZSQnEtOVE2TVRsRE1WQTBvV2JiX3A0ci10d0NYOHVvYXlmcFk0NXFPcDRMWWFTUGNTbE5HajZUdUMyc0d3eFY?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb013cjg4U2JTTjlyaExqSlpXNmJlb0RVbkp4aV9rS195ZzJoRTNzejZhZW5IaFM4UnUzbHROcndmLWhhdlBRb0VjR0ZRdVRPaW9IbENwVEIzWXFQcEJ1TEIwOUdOYVdXMDU2cTNQbDRtcjdXZDFEUEotMWptUUVvRUt3T3Bobmtobzd6T0EycUlTWlVmdnJmOEU1Uy1uUlFhT05QUGhxYlBCOHFxNk5R0gG0AUFVX3lxTE90OHhmbDdMQ2d5MTl6Y19XaXdQS3M3enpRZXBVWHZNZkcyYTFWNGpqWjQtbVlUc3RQNWF6VUdyM2tVQ0VVLXl0dzQ5eWNaUGJ0VElUdFNpWk5YMTR1clBDYUZrWGtaaHFDZjZJTDJnT0ExSGRnYTV1bVJ4VFZ5dFlnbTdZcTJpWE9HU2pXUGZOb3MyNFBGTEpDZEhYbXdoekk3MGxIdnBZWjNldF9GZWhWN2Fndw?oc=5"
+      "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Why is Bangladesh’s Grameen Bank under attack?",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGhIazlWMGpJdFFETk5QOFNXV3VRVVZVLVBoSmZiVzVoWE13SGNlVFZlaXF1UnpneF9icXZLTGFmaW56WV9oTXB4cGJPVFZaRjVzalVNajFfYUttWC10N1JjbEFtWnFKYVlLNXhsWDY4SGE0N3dFMEhKemhlZXhtRVhxQ0FUNTZPdTBFR0kwd9IBlAFBVV95cUxQWi02dS0tVy1NYXYzRWJGNHd3WjFFSEtJblBMdXJzc2xxM0liX2QyQ3M1a3c1TlJnMHd0bl9wZkl4M1h4R2lIcGh1djlqZUZ1RWRqbTBxT3JiaGdJZUNVUmw1c1ROc3lOR1kwNkVkR0dBNlktSDBmTDkyOEVGR21PblFWMWxMYWJNcGMybVoxdTAxb3hh?oc=5"
+      "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3lGVWNUci1oN2FycENOck0ycGdzSERqSkJxdFYxRXFTVWxVRzkwNDlrc0ZOX28zODlIbjNmZnRkazFIR3JPNUlZNkFjR093UXZSX0VRdVlWZDZXWVBkbjN3TDFoemxGalQzV0NWazFnRGc2SjI4dTltMThaZG5GT213Vm93RlFvRnBqVGpMSGJRRWhuUHkta1pYeXp1RFJTOXRQX2hoY9IBrAFBVV95cUxPMklWbllGblFTbkk4b2FLY1lRRTl5U2p6cmFNVnFob2c4MWpBd1hvdHRndlFDVkRFZVkyTGVHOFR2QnRpaHk5REFsX2hLZVV5MXgtRFBjNWNUWEZGXzR5c3EyajlmaHNEQkliM2k2Sk5qR21WYWExMlFZWlhlSkZqM2hXSW9lekV6Wm9zQjRsOXZWa05McXRINEtLMzluVTRYRENlMUNYWGdWLUJs?oc=5"
     },
     {
-      "source": "Reuters",
-      "title": "Oil falls on increased Middle Eastern supplies",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5"
+      "source": "Al Jazeera",
+      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2ZoN3BTWDJacEJWa2QzYkMzb2ZOQ0RfNnA3eGpkLXVicHRJN2pwNDNOcWwteV9WN01mSnNncWhGVlBfNjRzbjg0eV93NFVQRlIzNDRIblJsc2Y3ZUk4VVFCUjZZT2xabVZVLXVHQUFIOEx1ZV9YYXBRVzk2TVJUaEd2STJXN2tvSktqRTZGejBLdC1ucUZXRFFFUUpfcm85SENEb1Q4Z182Sm1wc0lNSHl30gG3AUFVX3lxTE1pZ3ZEelQtbEthcl94WWp4dE42Z3c4QjNCczNlX3BLZDF3V1ZOMlgxeERPWE9zM3AyRmdsVXVmRXQ3ZGFsRXJmTTN6eUJNWWh0ZG1jWGNON04yek04NWNWQV9oMWd3elFzODVwVkhXNHE3TmNleU5RWElXZW8tNDluamQyZGtWcDJDSmFQejNHNnJDTUVobzV5aHdzZ2Z4UmF2RTJfTmFGSTI4UEhGYjQ0SDhfZVo4MA?oc=5"
     },
     {
       "source": "BBC",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSW1vTUphY2tRcXJHWTJvV2pISHRJUG4zeXZTcVBMQmJ6OTJxMWZ5M0pwTGVkTWExZHFlUHNWWktWeHpIQ1dBSk5lUlVkVzl0blA3UWtXc3lPNmc?oc=5"
-    },
-    {
-      "source": "ABC & Headlines – Australian Broadcasting Corporation",
-      "title": "Drone strikes kill four in Khartoum and damage UN building",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1BzSzdGV3d4ZlF6OHpENTJ1ZV9tZjA5eGtNUGQ5WXR6MkJoWjJmR0hyamZfNkFQMGVJSDB0Mi00dHNVMW45VExDa0NYTmJGcm42eUhBc3hXNmw0Uk9WNkZka2NKMGNiUFhvMlNPVWtCeXJ1ZmlnTTF1WHNSTER5S2xfVmJ1YXdnLWoxTVhZNnpDaERyOUE?oc=5"
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5"
     },
     {
       "source": "The Guardian",
@@ -73,23 +58,38 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWE2WjNzLUJMRy0yRDhTMGVvakRTUjZiQ0xjMVlqZ1ZMb0lqRlFyVDVtcUFsY240eGZlQnZVRzJoakdvSTQxTTE3Vzhhd3dIS1V2aFZyQTJLMXRncjVNYzk3U283UTl2VjdUcmx6bEs3M0dnSEVobGdNZk1Xc3VOYk9WN015MVY5MUdzOWxVc0w2ZmJkR0xZNGNNdHZLUlJVelpUMTBQSXRpM2IzaF9xMTFR0gG3AUFVX3lxTE8zMTdOSDhiMWhiMlBmek5HemxBU1RmMUdOajNYWVNmUk55NzdrRG95QkRTZkJMRzNaMWo4Q0VERmlaRXpubEZkQnNLVDdiaVhXS19mRnozN0xsYW9PV29iRmp1ZkFrbkJVaWFfRU5fUjF5X0cyN0diazNFb0U5UWJMWXpqQTllUlRWUUU5MEV2cGJzUlBvVUpOZ3JnOE1jbjVRLXE2c044WHhtRjJQaFZCbDhVUEhnRQ?oc=5"
+      "title": "Drone attack on Colombia police base injures civilians, including infant",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFJBT2p5WEt2OXdzaHZHck0tYUxPMXZwNklRYjZMV2ZYcTNzUG5EQjUySGp4X1o2bElObWVtNmdyb3FYak9CUlZ1bEFIbWRfWG9iLTlRYko3cWZpQUJkM3hZMFRqWFljRmljeXkwVDd2Yzh4NURCRlg1VGJ3YWxaS2ctQnVROTNnQ1NvOUpCUVM3dU5XWDY4Qjh4ZmswOXVkcG0xS2NUd3R6VEwxZ21KTTZVRdIBuAFBVV95cUxORTczNXU3SHBrQ1ZvZkk1TUxqNWJiTThkVWpUbjdBUnpCdWJtV193X25sMTNCZVVRdEF6Q2Y5OWVzaVltX0NSMFpSLUprMzhqakl4eUN3NUNOMUZPeE9mY2V2dXp4TmlPcC1yWDBNWmNQNDlod2wxd3hXM1NwNGlkU3NrNU9rMllLaXFCRUtBRmdsdU9PemQ5Sy1MS0hxUGhmWWdUZFUwckNqVzY2emUzRW1Ud0xvV2xp?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Russian cargo ship leaves Finland’s territorial waters after drone attack",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5"
+      "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVhvY2xqS1RjNGs5V0Q0bFRhNzN4a0N4cDlZcFNtTEVyU0ItNzJZTXlQZ0xfQUUyMlVRdGxwYTFNUW1CMXFaMDJ6d1ZTaDRfU2xkczRKMWtRbWwzZ1JWMnBjTThsV2s0ZDU0OTZUNDhVMW9JdFpCeF85YTZuZi14bnV6MDdrdWI3TGpQVlVEUzFrZHp6VzA0Q1czU3RGN2hRQllRaXU1TU9FanVzLXJkOUFsSjlGZ9IBuwFBVV95cUxNRFZuUzQzdE9faXRWVTZoN1lsVTA1ck55Sk5Qa1FmaF8zTVZTV0djNXA3LTQ3bmNmWDAzUXdGZjd6dnJ5RzZXUGhRN3JmQ3l2NDVRcmpEZ0UyalIydjdqWEdNdjlFdXpubG44ZGhOd1B1ZXR2RExDQUZXR3NVeWZqaWNaZUtTeEhHQWxOT3A0UjdOMlRUa3pENVJqVExOdUhWNnA0dU5kMWlsSTN4ak91YnhNR3J0RkNrT19n?oc=5"
     },
     {
-      "source": "The Guardian",
-      "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEhGa045V054T0pYTUNZTHMyZFFuYmkxM2w5V0dYOFFYZHVlbzcyel96TGc0Yzh4c3hUMnhtOC04QkotYVhpV2pzOW8xZEFnbTR1dHh6cmtFS3dHcFhFaEQ5aVVhQlplR2YwRTREREYtcjR5Rk85dFFVVEdjN2EzZUNRdHZnSFJmbmxZTFhKTkM1MVUxZmNqWW5ZNk1vQk9RaEx3Zw?oc=5"
+      "source": "Al Jazeera",
+      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVhQRXhoM1MxOGc4bnZiY08wYjByc3Z3c1JhNWhLTEtsODYtLXVmamZ3Q0VkRl82Rnh6b2t4X0xaSDlLVldTVGFvOE9nLUtfT3NpWC04endQMVlmWkFNY19pNm1ZY1RzXzRLR1lxcWVWS3ZNRGkwWkRwREpzZGlUQ1FkdV9vc2pFQlVHRFZzYnVCbkXSAZgBQVVfeXFMT3NaS0tWMXNadHFKa29ScHFwZy1CQTQ2QVpRbF81Rms1eHFxRlBnVkJDaTRYaEZ6SDFJVEI2WHQ5MUpiZWpzTTlNaTVUQ2dEUFNkNnNmN25qUGxSbTVpbmxyVXg1dDlKdjNpZFVwMk0tNGV0bWtsS1k4UjFqZTBVUWVZQ0FtSHRzNGFadWUzcGZWZnJsWkhzRzE?oc=5"
     },
     {
-      "source": "ABC - Breaking News, Latest News and Videos",
-      "title": "Ukrainian naval drones sank Russia's Merkury warship in Libya, Zelenskyy confirms",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHZ2LUp3bExIZ3pwZDhoMDEyd0tlWHBXX2RFeU9qTnRsakltbFVvWmFWclZqcWM4dFNxRGJabGNYRzZJMEVjakxBNlZ1ZUFLUnpzNUFEekhDQ3hYX2g5NFlLMG5yS0VyU2plMW5yTEd6Q2QyTmlaaFBMWlN1X2tPMHR2ZHNrdjJZTUZ5bnFQNEJpTENqcm5sVmZRQk85aG9vYU9PVGRwVWhPVW9Hbkhr0gG0AUFVX3lxTE9Ldm9kOWp4b01lMzlxVU1zdE9NXzRTa1I0QkhmWTRlUFo4SVhTLXI5MVRENzBVQnVCQkxTNENWcVlWZEREZUtNV0RYUWFvOEF5X3pNRGl4blNiSWEySGNMR1E1MkUwOHViMFBZcHAySGpQTHg5UjVRdFdPMElDcDNsQ09tV3MtWDBhcUMxRUlBVU5BMGpLbVI5UlpSa2dqT25pU1VEVXpZYndWNFMwc1FiYlpHdA?oc=5"
+      "source": "Al Jazeera",
+      "title": "Turkish police hunting for lioness stalking Istanbul",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1hBSEFLTVBxQWl3dnhVX2M2QnN2azNvbVBjdWlLVlZNSklEMzRCcG9NNXg4WTcyVHlTMzF6UHRkNlRSLXFvRlBtTkNYaXRkRmFHbnhOTU5GQWVaWFdzU2dwb3VqOGNES0NaMlA4QkQyWFRSS1Jpc29JUlVEOFFubmVMakJ4TkNDdkVHQ0pHQWwybGtGOTA4ZFFB0gGfAUFVX3lxTE5pTkZCTVlXUEN3S2JvVHo4d3UtWUY1cnVfUHJrT1Nvb0ZQRVl0N1IteE5tUEZHV2cwQmJPZmwzdk5IaXRwYkl4THJvQ0RVblhDN3hURC15TkhFUjNLSi1TM3A2QTVnZUJPWEN5R05nOHFfN1hNQW5TWlgwNjI2WFZyOFhtSnh2WE93M3hpdHdIaXN5Y3BlQmxSdGY5eVhXYw?oc=5"
+    },
+    {
+      "source": "BBC",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRlpROXRSV044RXVOaF82dVp1Y3NpM0FjdGgtcm1EWTRDY3V0REVZckZEbHE2Y2F1VGp5S3NLdk5kUkNrN1lBOW1IQVVnXzN3TXVHTUNVMzJyNkdWWWc?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGt3S3pPSmc3REtpQ0NRR3VpbDY0ZDRoNkF0V1pMcmNLUmpab2w3cUx4T2hoa0UyX05YLTh4ckZsTlJ6UnpySGFTUHhMN2Y1MjczZE1wdzd4NDhFbmp2b3VONHBaNk9CY0U5czNHZ09YQnZURkZteXM5bzFnSEdUdmZXU1lRVzdvc3RNRXRTVXV3aFZaREk2Q0ZPa0xUUzJDSnpRUkUwUdIBrAFBVV95cUxPYktDalVTajJJMndDT3MtakhWUGxMZmc0Tmk5bjlTVnNPTzJHbmFha2V0LW1JUk9IcEZEWmMyZUhXUGhHX3RxMnljRDFFUWRVOFdONXRERWo2QjQyd25IUlR5UmNyLVlCZGpBODNGZTNyS3ZvaTBDYmNQbm8wX3AwejI1cDIzUjBuVk1EeXNhQ1lkMW9jazRmRU9Ia2NXZW55WGFqN0xsN2x0QTgt?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2pfMWtKZi1pMzc3aElGakNfU1UwRTFnQVIxblFxOXJPa0ZUdENpQllheE5JNXVaR0pFYXJlMi0tcnpzekNrSXFkMTZObTY5WWxqN2tpLTBYX1B3aEhuTldfbG0xa0Mwal92YU5qTkExSFZWZEQyY3FyU3hOV0g0VVJKQ0lTNDE3bmJXczlDQ0ZOWnM2RmJtOG9qbFUyS1JEaFY3YW5OdVpqc1BmWjVFcHFCUGRCUEljRXfSAb8BQVVfeXFMT3NkVTRoM1pGVE02TkRWQmx4Ml9WQjgwT0xNRHY1dVRyVnQwTHVzcURpZXlXUEN4OFNRWEFYYklCUVE5VWtqUG1YZURNTjBWXzdZTVUxQmExalVDUzIzaDVvdFNjTjB6UHMwQlhSSWdRYVIxekZnUXc0bGpSbExiV09BR0U0bkZFX2NOYi1XbEl0Nkg1aWJTVlQwQ2RldTVWcGw4ZmRtcVR4WXVrVHNJaG1BOXUxMnpkSWdUZ3NCbm8?oc=5"
     }
   ]
 }
