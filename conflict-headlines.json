@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T04:33:15.628819+00:00",
+  "updated": "2026-11-28T13:35:40.360897+00:00",
   "items": [
     {
       "source": "The Guardian",
@@ -8,13 +8,63 @@
     },
     {
       "source": "BBC",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBERzVDQ2N4X01HRnV3NUd2Um9DWjU1TklvR0tHa1FSSjA3ZVJtMlk2VnBKbmpHTlBOd25COVhVaDdMVXpKbE1ncnNHTHRSSEVMMmNUWS1XVmd2Z0U?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHZLSmsyQzBrQUZfLVNadEM1MGZBbUVwSUFuZ0ZkQUY3c29CSTFERWtKbnpUQkpxOE9JLV93TTNmMXBqZ01mUTVFei16aGtSSnhIMUplUEs4YlpVSHBNVk14blVqWlB4clhleEhfZGU1TW5udktoNWtZMFRvVTdaNEhFR1gzS051WENYQ1MydGkyUllERFp3alJaTnc1djVqV2E5YUhB?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONW1XWWlCQURrWEh2RFVqLXBiZ09SOWJhdjJ1eVYtSXY0OXo1czU1d3R5TUthXzgzS2Y3TXJHT0E2ZUM5NGRvQVJMYTRoN3pFeXlULUt4WjdIbFEzRVF1SUxqckp3VUJ3QlkyZUJzRkJWSV80ajlqdC1KaGd2eVRFWW9DMXV3eC1JYmxVOUZ3ZFZtV2o1NmJrQU9aR004eml6QzFuSG1IZmVWazI0YlVnetIBtgFBVV95cUxONlpDd29xMFlpUThoZVctV2ljTEhqY0R1MUI1Q1l1cEJaQ0FVUk9LQ01xY1RSckdiWHhxSTZhYzQ1cW1JNnBVX0djWmY0LVBGczNmUEpDY3p1ZDFXWERiWmJqUF81ci1DcEFNQWZmbTJvcHZCYmlReEFRMHo2R0VTS1k2aEVHRFd5QUw2d2wtZm5ySmVfMXJSMmpCZ3lJZ2puRDVUSm5LU0hUMEk0UjN6b0dlbV9vQQ?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5"
+    },
+    {
+      "source": "The Guardian",
+      "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlBXVXJEaXY4WDhmemhlV0pZUmIzM0FWMUVzdm5MaTJ4LVFzY2tObUR2V3VfSThfUF83ZHA0aldQdmJmY0I2VVNRVzI0OUVlcmhkdk9Wd3JrZThWUlNhSVpNUmFyeVVWRU8xWC1EUVp5TlF0X2l0SExydjdGYU5ZWkloYVo0TmtsUVk3aWNqVmV1YUlnQlAw?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQk9rdkpEbzdldWFrazU2d0c3M1JsMjlMblJ0dGtLSFNJQjM4cEhueDNNV1E1ZkpMejM4Yk5ILXJKRTU1NVpaQW5JbmVLUF9JWHo3RVFxYmR3WE52SWt5ZENIWWVOaW1tbXVnSkI4Tjg3Njl6MGRwUWotVVVDYWcyYUVYNUFEMXQzT0NCZFUwMmtXTEZLZ1lMWUhwaUc5REdtWUhjdUw4ak1Sd0pzcGVVQ09XeU7SAboBQVVfeXFMT2pYN2FwbDhfcGpfY2JGTnh0eEpVR1IwMmN4LWxXcnFhZXY5eDhyTjNqTi11M1hieGJQeUpfU2prUXVoTEFlWGxEM1B4ZTlIalBWVmx6STdKU1c0S0hKMUdHS0tBaVlwa0JOVzYtR1JHNGJhc1FSbVZrYlpaSlhIb0dMbEtVdXRwRFFVaUlvRlB3dC1sLU1NQzhDWldZLUdkNFNyaEhnbWtYUGVjdV93bVF1d04tWm9nRDdB?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDBERmJHMFNMMkJiWWNfblc0QTVQNzQ5cmFWWlpQZk5rWkxIeGlwMWJiOHlHVlJnMV9rblNkc0JoekxTT1ZSTld0Ui03TGJJR2lIeWVWMXE0SHEydXFyUGRqYUFSZEFxU2ZSdWZKd3RXRXpXQ0hiandBdlRqZUNsdGItcGlmbnI3S1hoaGxFS1NrWk0zV0c40gGcAUFVX3lxTE5NTjI5ZDBNZjlVMGlCSmVESENudmdVS2Zkd1g5YTVFdkNmNnlhZk10aWZoeUdaTS1kbDN0aGZ0bVRGSHJwWXNsMU5ZcnRmRmVqZ2dwc2U0T0ZnWUVCSXVDZ1RDYnpMWGRWbURTdGlGMFJCZ2VQY25MeGdtbXhScjJqUmU1LXdscFJIcHJYZERLOVFtNXJLdkdxSGpNVQ?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXVnQS1aRXA2Q3dIa3IxTDJPeDBBQkZKZmlzdGxKMnU2bWpFdjllYnprbGM5ZWhDeHpGckhuVTE5Q2VPaTJha2ZCNkJ4aGYwYnE5U0ZTMWNyT250THF6anFFYWszU3dEeVdlbF9PeUZMM0JSc3ZWZDNYaFIwbGd6VWgtZW5IcmxIc0x6SExrTzlsWmxieVZoS202eU5RWUljR3FNdGZ1Vjk4UFpkWHJ5c0VwY9IBuAFBVV95cUxQVUIxemc0QzJUS3FqX0NGVDg0OHF3Z0QzNE1qTVdMQlVRQnhzM0lwd0M0OUp1NWMzVHh4aVFONElMVy1KMnpHUDFvUERJWmprYk4wX3lUR21GbDVOdkcyUzlDeTFtZFBpUkFNM2VRRkRhNnJCbDM1dHV1dGV4SkNzVlVFZ1l5UmRFemJuR2JwTDN0d255Qng2Yll0SkFVSnZCQzFCbVg1dWdjQjVCMTlIRXdUM29GVndW?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US disables ship attempting to breach Iran blockade",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEZ6UkxhSlY2bDVWRGhCX1k0MkxwR0c1LWFVeGVHVlV0dlNmQnNDNm96Z3ZjcjMzVWZaNno4bGpKWnZxa1lkam9FcTNaTTJWbFFSbVhJN21WMThTTFh2NllQWXExbmxmRkVobDNxa1cxMTFaQUZqelZ6bDhYSTh4cWFJM1pLVEFnY0g2eWg5YUlGem5nNjFGak1rVV9Ca2JWR1Y3M1dB0gGrAUFVX3lxTE94ZHZEOUJFb19EZ1BDVFYyeHZHTzF6ZUVncndiTWRqZXFRbVU5RkJtVVA1cVhxazBEcVlrVThGQ0VaZUxFamhHOTJTRF9SWS1od0lFZ3FHVUcwc0loWkpQa2x5QW9admJFSklFcWRkUFRUSllSWlF2REJVa3BmcjQyRkZoMkdfd1lkUmJQVGxMNTlEWEJ5TTh2ZEJ0aXpwTXVreG83OW5hTF9Ybw?oc=5"
+    },
+    {
+      "source": "BBC",
       "title": "Ukraine is bowed but still unbroken as freezing weather sets in",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rV2U2NF9zQjRpNkpIc0oyU3ZvaU1wMkl0Z0ZPVl85WmdXZmYzeG5zNWZMQmNkUzF3alRVYnhWeTJpT25BY2hIaGkxRkhzdklWWHpseUZ6RGZaYUU?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW9taURHbFpkMjd6YkFzNEliSVpaOW5zal9CUEY1R0kyS3NWVU9HbkIzRkNhcWtoOWgxUi02WWdWN1dpQTU5UVVpc3dGa04yVVBQbk1NQVMzSFBLVmxvUllTNTVwVEdwR1FtdGI3Nnppb0lvNjNRMUZwYl9EaXI1akI0VE5SRGcxVkxzVzNZbFM2S0RCc2JOdi05R2s1dlg4eVZIdDBB0gGrAUFVX3lxTFB6OWM4c1NpYjVhZUp2MVV1eUppS1lVLW1lNjIwaktRN1lWUDlGOG5meWIySTByVVhUQ2tnSGh4d05pVXN0SWxnSFlFc0lzVzhmQzlWaFRZTW5ELU0yWUpNYTIwVV8tQmhqODBCVzhQMjBseHVydHcydEJya3lJREtMbFd2aW0zMmlndy1oV2M2RHZPbzh2V3FQcV8tNE5xMmx1S3Jfb1NXNXdHVQ?oc=5"
+      "title": "UN chief frontrunner urged to speak out over Albanese detention",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVAxdmQxU0tGXzIyaG4tU3FHYnluRm5pdlNGVmhvR2NCTkZWZ1NJTzJXb050UFVDYm5VZldfWWtZQW9DUHBKQzU1NDVoUXZVMU1UeXZVVzdsbWl3M0lNR0JoN1B0ODVyQVJpb1QwVzd0YzVlbkFYa1U4UUlwdXNLZ01lUDFPdFoyZ3VQMWFMVFZKbmFMbEluMFp4dHpQa0lHQ2UwckJjRFBrU1HSAbABQVVfeXFMT0NPSmpHM1VjcU9ZbTNhdktqM05XUXBuT0JaOW1SLWl5QnZmSEtucVFmS0NzaU9PU3ZtWUo4X0ljYVJ4NzZxcWl3M2tsbmM2ZEFFUkJwUGcwRExSc2dNeEM4YUItMnI1RXo2MWp2c2hmbC1mN0EzajMxSm5sNWdKSUJ5aEpsVnViM28yNHhJMm9TX3NtUXIzdkJiZmdHcHc0Q2owTDRoNS1ObTZFZml0WTI?oc=5"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0wwRDlWSGVDUVNERWhibXE0dTg0M2tCelI1UUNsSk9KRklWbTMzNDF6cUM2OVFtbVZJbGFfOEVoaVIwYUFnenpOdHc1T1Zhdkk0UHh5NGxSbnZVZW5RMVBkWTU0TXRiVDRnUnJGOFFRdlRxem1sQ0liMEpjbnREdkFkS1VjNFRQU1FBTEdDSHlMMTlFS1NrY0pDTGVHMlhhSWfSAacBQVVfeXFMUC1Mc0k3Rks5ck02WU9heFZDSmVzZ1c5X2tOOTJQUjZ1eTViVVdzbDA2VDgxM253akV5dmVaRUMySG14djhDOXFPRGhNSl9COXAzNUE5U3hFMFhGVThweU9wbUpraWc4RjBpcXhHNWpfQzBzRU9SSXgteUpOZlp2VWJwdWlXT0dpaW55WVZNSVFJbTMyWE5rOHBqb3RvOGNyREFSSnN2WG8?oc=5"
     },
     {
       "source": "BBC",
@@ -23,63 +73,13 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1lNRXR3Sk9oRGw0NG1QVG43emhlcWZzZUU3dl91LS1vMEZ6dHdEVUV3QzdoM0NaaXhYQk9EeU9PLXpBWFVicXl0NEhXbE5JUE43V0hlLTJhZXQtQTBIVlF0MlZvd2NMQWlVejA2c3M5ODhhRjZ3cFoxMHFibE8zQ1NwUVJWU2FSaDVmUXNobDByaS1fbDA1aFJDNVdNLUdndkg0dlE5UEZxdHpnUXfSAbMBQVVfeXFMTXpXTnBMeWJmMV9xS3dnbjBJRVZMQ05Pemo3SVJibTNUWVZTcFpheGE2M2dfbTd6dHpURGFndVhrLUYtWW9lVHVVaE1kNW9GN2F1RUZWRmZONmNvMGFZRWhQQUdjT3Eyd3JPQ0Vqa1Y5Qm82czZGb3NXT1BzVjVKcWZEY0RzUk9kc1NzMTN1X1c0X1c1TTVwQnhsbkdMOHMzUE55T09DS2lqMTlrWUJ3QUpobVU?oc=5"
+      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVRUQVdnLW4yUTRSVkFZS2s0MWVaWjZ4RW83Qy1McUNORWdLd1dkQ0c4WFZIUW11OF9uSXFxckNNc3gxZUIwN204cVhIZmRTVHc3amRQVlh0dGh5X0pXbkdIQVlOV2UyMVVvWVoyT3p3NzJ1QWpzWmRrazhrVVBSMEQ1XzFVQ1NoUU9KbXFxd0xUS3RLV2x2bkZrZ0x1ck9jUVFrSl9HOWJ4Xy0tREVpSDFn0gG3AUFVX3lxTFAyWmRhdU5oVERObFhab3pjTHBTUkNtZTBTQnZMd0ZiT1VjZE5BTnprVGMyaC13NVQ4SzBiUlJJMzlNWWJ0eXNNVzBYaS15b0RYeUQ3Z1BhLXFVMEtCVEoya0ZQRzJfLXFpd20xOEFQbS00NDNKZFBHZi1NSF9Nd3lwVURsSjdkWUlWODR4d1kydTEzNGk5VzY5RkZKZWJkcXBBRGd3UzF5OUR2YnptYWE1SjY1eDRpMA?oc=5"
     },
     {
       "source": "Al Jazeera",
-      "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHFBTnVURzNCY0xTZ1o2a29vQl9oSVBGaUt4VjFhNGtzZ0FNMWZxeWRiVkx1ZTlDOWpCaHFWZ0JyeDhvR3hjMGtvRG9nTmQ2d015UjVWLTZSNHZpTmI4ZmNLYm8wSV9oQ05ramVLLTgzekdSUWpiSE9jeXBqb29DWjJ2SGRCaDJjenExYzNqdzdkYW05eGNqVExsTnBCZ2R5WEcyRy1hSGxsd9IBrwFBVV95cUxOcEowaVJ3T2RDWXZHZ0JhMkpiSGZwcDU5U1BmTVBseU5yTl9ReFpWMzNpYmVYN0ZTZlNoOHUxeXA4Qk1FMGlxaUI5a2FEbFVoX2tSVEhhU18xM0JRbGtzdjhla1pkRnVnRGY2dWNwRjB3M3NGX0RwdWdEZGhLWG9lb0Q3ODZDbjRDbHlpUXIxZU5WZDNwajZNbkJieDJ0VTVUNEdnVGJLUVJNaHc1OGFB?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3JrUmVYMExlMzNxaTY5VU1YWXctcThoZUJmU2FBN1lhbElJVGFrcTBnQWZUTVBtVUpaOTlKcUFwcUZkbTR4UHp1aS1mTUtZYUtmZjZFTGdRdzN3RXduVzZLZTJMLVlTc0tKMGRzTUM1UG9sMDF1dEZHZVZXak5HZnd2dFhkY1RxTFQyTVNpVTJnMU5Vd1NBOU9rYzNmbFlWUE1jQ9IBqgFBVV95cUxONkE1UFBtWXZSQnl0eGFwN2FHMFlrNzE5NEVGYW9ESWVoU2d0S3RUQUtBREdVMGxGOFdtd1hhN3FVVWlBaTYzS1RFLW9IcWZtMTIzdXJDZ2cybWkzWWpqemtqTG5QUFR0eU1pcFpnd2RsbkNldEFFNlo3QmFLc2JZZ21PbDZFaVdOanllUEZERk9IdDBHNjVNXzNKTGtmd0VyTHdfYXNFRzd0Zw?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi1EdWxpNDFBQ2NFLWNNZUJjSHloMDd4cXM0QVIxY2dKOVk1SlA4SThmTWVEVGc1SFB3WTQ0WWZBejU0dUZlRE5CblRjbC04UTBJLWlGSzFEX0gxMVVHQkc4X1dhUmJMRHdKdjdlNV8tUkU3WnhfeHlCQ2h0OXoxUzVIdHI2cC1KMEN4cGUzTG9vTHo4MGxhR1lPTnHSAaIBQVVfeXFMT3ZGMERBTzlsUVd0a240SlpPNVhJYjB0akdlMXI1U1RwR2sxSHdpWjhLWVhNcTcxQWg0MVFZRzY0ZTZpZ0FZRHZ4SzFMdHhKYjNxaTY2RWdpNzcxMVZwXzRfVlpNakw2RlV6cXpKOGMySjJxWTl6QUVpQXBJZWJrOWhGNnhROHUtVzJMb196d3N5dVJjTldtZ19CSnFFYkUxMHNn?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTNuUFdtTUt3XzYtQXpoc0tKS1dHYzgyQ3lUVUpaOUhCQUpiZXRtOHY3VVlMMjNGdU12WWdpWk93Q0Y0dEh2T01zcTNueEJ6QVhUd2pIamllMko3SGhPYUdzS2ZkMlJEMGtuRzVzbGJkWGNQbWVTQXBtRDFvMElyS25meDlqejh6Rld0dzlRTkpJMUgtT2RJVm9reWFBVHczaUgw0gGoAUFVX3lxTFBGZmlMclJkbjEtNFgzNUtEc0V1RVJjU2F1ZTZWMFdKejhwa1h4aG5uSGlyRTdld1FhRS1kelJLeUxnUzVBQ2p1WjdYOTFKX3ZBeE5YcG5XcTNYdkVKVmN3MmpPd1RDLTRkODM3ME9qajZDd3Fpd0JPME5GRXRjVEhxZDh6T0g3c2hmZXVuNDFELXp1eTBkZlEyb2s4VVI1XzNQdWpfMkhETQ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWRzVF9tUlQ1SlI5aGUwZ2FlbzEwOVpPQTlOMFdXaXFmTExVeEg4MEloXzY2cUxnQV9BRnAzWEJWUE9JSzhuZk8weWFlUkE0bmR2eHJ2ZWljZndSejBXaWFJaDNGMmQ0RndMOUNJRmY2SFJUTl9zYUUyTnhmYmktWGZFd3RmWW92b0t1bWJJcExjRGtDeDJOWmVFYmduWVhiMjM4NDRCQmdYU2xjYm9vZ0pn0gG3AUFVX3lxTE13eFhONFhWVVFPZ3RiSnp0N2ZmaURhR25tQW9oaHJ1MHZGSXhocndNa0FfSjl4Mzg2Y0tBXzRqekh2RXNCS1hGRktqM2M5OHpsYW9CS0FpTHprVkFta1hWclI5X0dxbWRXZ3lrZmNqYWNYZE1WZ1NpVjZoNnBYU3hIdm5peUdtVkxDaUg0MmVLVkZwZmcxemF2bmNJbUg2aF9OeW9xZ3gwVEN5bU5nYlVVSnNUaDYxRQ?oc=5"
-    },
-    {
-      "source": "Reuters",
-      "title": "Son of Hamas chief survives Israeli strike, Hamas says",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5"
-    },
-    {
-      "source": "The Guardian",
-      "title": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmVSXy1SazVmREdVbU5Pb3B4YzdCZ0ctOGcxNGdPOF84QzNfVUJucDhSV0Fva2RzZzRNVWZIV1p0T2hIeUtuMThSb1Y1SXdQTnJUbm03ZFBTZ3haNGMtY0I5SFRyY1BvbklGZDFOOGJhZmZfNk8tWC1zQVMyX09RcnFTZlNXajhBN0cxQzRselBVWnhvckxuRmNTYXVTaENN?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHhKQVVmUXhlYkI2T3JnUlhHb3pLYk9FRmlqX19JcjZrNWdFV0g3VDdZbGRSclp6akN4bnNjTFctbkdNanpLZWxVSkhPZXVWMDNLVjY1Vm9fTFZWQk10NFAtNFBkenhpMkZkSDFFaWpVVlRGVDhxZnNncmg5dXlVT1ZoaVlYQTZEQnVpc3o4UEhmLVFaeUJpQ0VwTzFVVkdhQWpHWGZ2T2JtM0pTSVl3YzA3R0dNUQ?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjZWS0RsVkdYQ2VFdGNwWWlDYktzZENUREVWaWc0TEx2TzFBRUw0aHBSaUVtYzlFR3pGSkN2RXFKcWZOR3c5Wnp4blNSN3B1OUR0TWU2dzJiNEJqazVrX1BCU0prZE1ULUVVMnFxMk1idk5CclFhV3dmcEhXLTYwSllOeFlSTlN3VzBydVBHampseWh0UmpNVElGZWptcFR6QkdxVmk1ODh6eERqcm9zNDV1UDJaM1JiLVBv0gHAAUFVX3lxTE5oSGExNEYwT3BoZGZOZVpjc1YtczVYNUxmOHRSM2JRTnEwQ1JqNFBUYkZwOER2cHNaZEZld0N0a0JXUXExdm1sWWxET2FXR3hkeV9HQUoxQ0hCZE9NckxhR3JzUWg1QXQ4X19TX1hzOWl3QkY2VF9jVS1xcjhHRThRaDljVWtCb2YzZmpTREE0U2dlLVQ4bHhyTFBkOHpnbUxYY0pJMWxrNnV0U0hqWnkwcVpjZDJQTmdUQ1ZSTWR2eg?oc=5"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US disables ship attempting to breach Iran blockade",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEZ6UkxhSlY2bDVWRGhCX1k0MkxwR0c1LWFVeGVHVlV0dlNmQnNDNm96Z3ZjcjMzVWZaNno4bGpKWnZxa1lkam9FcTNaTTJWbFFSbVhJN21WMThTTFh2NllQWXExbmxmRkVobDNxa1cxMTFaQUZqelZ6bDhYSTh4cWFJM1pLVEFnY0g2eWg5YUlGem5nNjFGak1rVV9Ca2JWR1Y3M1dB0gGrAUFVX3lxTE94ZHZEOUJFb19EZ1BDVFYyeHZHTzF6ZUVncndiTWRqZXFRbVU5RkJtVVA1cVhxazBEcVlrVThGQ0VaZUxFamhHOTJTRF9SWS1od0lFZ3FHVUcwc0loWkpQa2x5QW9admJFSklFcWRkUFRUSllSWlF2REJVa3BmcjQyRkZoMkdfd1lkUmJQVGxMNTlEWEJ5TTh2ZEJ0aXpwTXVreG83OW5hTF9Ybw?oc=5"
+      "title": "At least six students killed in blast beside school in Afghanistan’s Kunar",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUlFZXdrQ045NjNWMjFEZnEzQTVmcjBfTHBkc1ZfX21JdE1EWmE2WXpGRFJ4c1l6TjFMakxmcFZMa3EwT3NONlZrWXhNLWRFcFFhUl9NY3Mtb1hsUTBRSjM1dFFPYmViSEIxbVNJdlUxeUdoWEhPUUh0SEh5MW1jTmVtNGtObW5FTk0ydE9NSTBFdTdEZm1xMkJreGlKMkRieVY3SmN5RWRYQU9xLTZrZkVRVkHSAboBQVVfeXFMT2xkaW9oSWY5NEpmRTU5NlBXem9RTUd1RTlURm9aVDNZQ2VCMnBzZ09vajd0cHB1YU5IalZ3SGpnWlp6LURkdWh1THBTUHNYZm5yNWdnMHJrc1NsYXlTck1lUmctUVBFa1BnTXU0dTd6dGg5cHFkRFF2aUZxWnRwWk16czFmT3NSa2ltVlc0RTYydENGNHVGWW9rTlZPRnU1NnRTX21sMUZBcGdvQmdnZEhlNUUtZnBfeWRB?oc=5"
     },
     {
       "source": "Al Jazeera",
@@ -88,8 +88,8 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTI1NktNS3JEX2dVLUlNX1BfbWVDTWgwdmJYQ2FPa2d3bGs3TTBBZ2dPS1c3UF80SnZzakN1OGVhREV3eU5XU1FGWEd6c1pVS3ZBVlpuSGhWenBqYzV4enUyVWVhZV91OU1PN2pFQUdwYlQ5QjJTdWxBc0wyeGljSmVTWGNSaUduZTF3N1JvMFZCV2Q0UnE1T0hRVWxIYXdLRmRmNXJrekExUdIBrwFBVV95cUxQaV9uYXV3Z0gzeVpNVHZzS0E2X0RWVDlfeVUtMDNxWkduaDhmb0c5d1diUWQtVmo0ZjdPQ2pWSlRwZnYyenBxLXlMS2M0dktTclljWHFnamhUS3VDUm5UMjZJeXNoRUpoWklBcTEtLXNJU0otRjNwMUlPQnpFUnR6ckRWVWRhZ2hnb1ZQX2N6ZElQZ3RrUHN6Yk1talFjSVZwZzkyS2k0MUoxN3lncVVJ?oc=5"
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHhKQVVmUXhlYkI2T3JnUlhHb3pLYk9FRmlqX19JcjZrNWdFV0g3VDdZbGRSclp6akN4bnNjTFctbkdNanpLZWxVSkhPZXVWMDNLVjY1Vm9fTFZWQk10NFAtNFBkenhpMkZkSDFFaWpVVlRGVDhxZnNncmg5dXlVT1ZoaVlYQTZEQnVpc3o4UEhmLVFaeUJpQ0VwTzFVVkdhQWpHWGZ2T2JtM0pTSVl3YzA3R0dNUdIBuwFBVV95cUxQMl9KeEFfTjdYTkRLM1Zfblg0S3Q1OUVhQ1l1VVcyNHhrbHRjQ2Zvcl9TengzSTVrakVPWDM0d00zZy16N21VQVJ0QXNpSW1TT1hraHJYUkc5V3Q5bGxQbktSQ2t0SWlSWWlDeGtYeHBiS1haNDZhNHJJQ1Y0bU5sR1NwX0VCeVJaVlFlMVZkcEhJbzJZbHc0SGx6MFBRc3dLeVVwS0FSd0psbllDMXl6NThCdUNzbnpYcFY0?oc=5"
     }
   ]
 }
